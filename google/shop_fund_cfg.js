@@ -10,8 +10,8 @@ var shop_fund_cfg =
 		price : 1,
 		gold : 100000,
 		weaponlevel : 500,
-		hitrate : 1.6,
-		changerate : 0.0005,
+		hitrate : 2,
+		changerate : 0.001,
 		name : "翻盘基金",
 	},
 	{
@@ -24,8 +24,8 @@ var shop_fund_cfg =
 		price : 3,
 		gold : 300000,
 		weaponlevel : 1000,
-		hitrate : 2,
-		changerate : 0.001,
+		hitrate : 3,
+		changerate : 0.002,
 		name : "翻盘基金·超级",
 	},
 ];

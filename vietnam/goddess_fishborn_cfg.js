@@ -490,7 +490,7 @@ var goddess_fishborn_cfg =
 		id : 30005,
 		fish : [["haima_boss_91",1,10,1]],
 		tips : "defend_desc_1",
-		guide : [17, 5, "i012"],
+		guide : [18, 5, "i012"],
 	},
 	{
 		id : 20201,
@@ -520,7 +520,7 @@ var goddess_fishborn_cfg =
 		id : 30010,
 		fish : [["denglongyu_boss_91",1,30,1]],
 		tips : "defend_desc_2",
-		guide : [19, 5, "i013"],
+		guide : [20, 5, "i013"],
 	},
 	{
 		id : 20301,
@@ -580,7 +580,7 @@ var goddess_fishborn_cfg =
 		id : 30020,
 		fish : [["meirenyu_boss_91",1,70,1]],
 		tips : "defend_desc_4",
-		guide : [21, 5],
+		guide : [22, 5],
 	},
 	{
 		id : 20501,
@@ -640,7 +640,7 @@ var goddess_fishborn_cfg =
 		id : 30030,
 		fish : [["longgui_boss_91",1,110,1]],
 		tips : "defend_desc_6",
-		guide : [18, 7, "i011"],
+		guide : [19, 7, "i011"],
 	},
 	{
 		id : 20701,

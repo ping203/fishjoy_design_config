@@ -239,6 +239,142 @@
 			"repeat": 0,
 			"reward": [["i001",10000],["i002",30],["i400",5],["i012",5]],
 			"description": "Group3-5"
+		},
+		{
+			"id": 20180430,
+			"starttime": "2017/01/01&14:25:03",
+			"endtime": "2018/07/01&00:00:00",
+			"repeat": 0,
+			"reward": [["i001",100000],["i002",50],["i240",50],["i220",10]],
+			"description": "五一1"
+		},
+		{
+			"id": 20180501,
+			"starttime": "2017/01/01&14:25:03",
+			"endtime": "2018/07/01&00:00:00",
+			"repeat": 0,
+			"reward": [["i001",50000],["i002",50],["i230",20],["i220",10]],
+			"description": "五一2"
+		},
+		{
+			"id": 20180541,
+			"starttime": "2017/01/01&14:25:03",
+			"endtime": "2018/07/01&00:00:00",
+			"repeat": 0,
+			"reward": [["i001",500000],["i002",200],["i240",50],["i220",10]],
+			"description": "EVENT1-1"
+		},
+		{
+			"id": 20180542,
+			"starttime": "2017/01/01&14:25:03",
+			"endtime": "2018/07/01&00:00:00",
+			"repeat": 0,
+			"reward": [["i001",500000],["i002",200],["i240",50],["i220",10]],
+			"description": "EVENT1-2"
+		},
+		{
+			"id": 20180543,
+			"starttime": "2017/01/01&14:25:03",
+			"endtime": "2018/07/01&00:00:00",
+			"repeat": 0,
+			"reward": [["i001",500000],["i002",200],["i240",50],["i220",10]],
+			"description": "EVENT1-3"
+		},
+		{
+			"id": 20180544,
+			"starttime": "2017/01/01&14:25:03",
+			"endtime": "2018/07/01&00:00:00",
+			"repeat": 0,
+			"reward": [["i001",500000],["i002",200],["i240",50],["i220",10]],
+			"description": "EVENT1-4"
+		},
+		{
+			"id": 20180545,
+			"starttime": "2017/01/01&14:25:03",
+			"endtime": "2018/07/01&00:00:00",
+			"repeat": 0,
+			"reward": [["i001",500000],["i002",200],["i240",50],["i220",10]],
+			"description": "EVENT1-5"
+		},
+		{
+			"id": 20180551,
+			"starttime": "2017/01/01&14:25:03",
+			"endtime": "2018/07/01&00:00:00",
+			"repeat": 0,
+			"reward": [["i001",500000],["i002",200],["i230",50],["i220",10]],
+			"description": "EVENT2-1"
+		},
+		{
+			"id": 20180552,
+			"starttime": "2017/01/01&14:25:03",
+			"endtime": "2018/07/01&00:00:00",
+			"repeat": 0,
+			"reward": [["i001",500000],["i002",200],["i230",50],["i220",10]],
+			"description": "EVENT2-2"
+		},
+		{
+			"id": 20180553,
+			"starttime": "2017/01/01&14:25:03",
+			"endtime": "2018/07/01&00:00:00",
+			"repeat": 0,
+			"reward": [["i001",500000],["i002",200],["i230",50],["i220",10]],
+			"description": "EVENT2-3"
+		},
+		{
+			"id": 20180554,
+			"starttime": "2017/01/01&14:25:03",
+			"endtime": "2018/07/01&00:00:00",
+			"repeat": 0,
+			"reward": [["i001",500000],["i002",200],["i230",50],["i220",10]],
+			"description": "EVENT2-4"
+		},
+		{
+			"id": 20180555,
+			"starttime": "2017/01/01&14:25:03",
+			"endtime": "2018/07/01&00:00:00",
+			"repeat": 0,
+			"reward": [["i001",500000],["i002",200],["i230",50],["i220",10]],
+			"description": "EVENT2-5"
+		},
+		{
+			"id": 20180561,
+			"starttime": "2017/01/01&14:25:03",
+			"endtime": "2018/07/01&00:00:00",
+			"repeat": 0,
+			"reward": [["i001",200000],["i002",50],["i240",20],["i220",10]],
+			"description": "EVENT3-1"
+		},
+		{
+			"id": 20180562,
+			"starttime": "2017/01/01&14:25:03",
+			"endtime": "2018/07/01&00:00:00",
+			"repeat": 0,
+			"reward": [["i001",200000],["i002",50],["i240",20],["i220",10]],
+			"description": "EVENT3-2"
+		},
+		{
+			"id": 20180563,
+			"starttime": "2017/01/01&14:25:03",
+			"endtime": "2018/07/01&00:00:00",
+			"repeat": 0,
+			"reward": [["i001",200000],["i002",50],["i240",20],["i220",10]],
+			"description": "EVENT3-3"
+		},
+		{
+			"id": 20180564,
+			"starttime": "2017/01/01&14:25:03",
+			"endtime": "2018/07/01&00:00:00",
+			"repeat": 0,
+			"reward": [["i001",200000],["i002",50],["i240",20],["i220",10]],
+			"description": "EVENT3-4"
+		},
+		{
+			"id": 20180565,
+			"starttime": "2017/01/01&14:25:03",
+			"endtime": "2018/07/01&00:00:00",
+			"repeat": 0,
+			"reward": [["i001",200000],["i002",50],["i240",20],["i220",10]],
+			"description": "EVENT3-5"
 		}
 	],
 	"active_drawcost_cfg.json": [
@@ -4942,8 +5078,8 @@
 		"CHANGE_CASH_5": 100
 	},
 	"common_mathadjust_const_cfg.json": {
-		"A": 7500,
-		"ROIPCT": 0.8,
+		"A": 6000,
+		"ROIPCT": 0.9,
 		"LONG": 300,
 		"RMAX": 1,
 		"RMIN": 1,
@@ -4954,9 +5090,9 @@
 		"DIVERGE": 0,
 		"DRATIO": 1,
 		"HEARTMAX": 180,
-		"HRATIO": 5,
-		"HVALUE": 0.4,
-		"extract": 0.11,
+		"HRATIO": 15,
+		"HVALUE": 0.3,
+		"extract": 0.1,
 		"time1": 360,
 		"addvalue": 1.15,
 		"time2": 180,
@@ -5017,7 +5153,8 @@
 		"FISH_BOMB": 51,
 		"FISH_LIGHTING": 52,
 		"VIP_WELFARE": 53,
-		"CDKEY_GAIN": 54
+		"CDKEY_GAIN": 54,
+		"GOD_INTERACT": 55
 	},
 	"daily_dailypast_cfg.json": [
 		{
@@ -34273,7 +34410,7 @@
 			"id": 30005,
 			"fish": [["haima_boss_91",1,10,1]],
 			"tips": "defend_desc_1",
-			"guide": [17, 5, "i012"]
+			"guide": [18, 5, "i012"]
 		},
 		{
 			"id": 20201,
@@ -34303,7 +34440,7 @@
 			"id": 30010,
 			"fish": [["denglongyu_boss_91",1,30,1]],
 			"tips": "defend_desc_2",
-			"guide": [19, 5, "i013"]
+			"guide": [20, 5, "i013"]
 		},
 		{
 			"id": 20301,
@@ -34363,7 +34500,7 @@
 			"id": 30020,
 			"fish": [["meirenyu_boss_91",1,70,1]],
 			"tips": "defend_desc_4",
-			"guide": [21, 5]
+			"guide": [22, 5]
 		},
 		{
 			"id": 20501,
@@ -34423,7 +34560,7 @@
 			"id": 30030,
 			"fish": [["longgui_boss_91",1,110,1]],
 			"tips": "defend_desc_6",
-			"guide": [18, 7, "i011"]
+			"guide": [19, 7, "i011"]
 		},
 		{
 			"id": 20701,
@@ -35398,50 +35535,45 @@
 		{
 			"id": 3,
 			"type": 0,
-			"descriptions": [{"tip":"str_guide_3_0","align": 1, "press_fire": 5,"finger":1,"sound": "guide_03"}]
+			"descriptions": [{"tip":"str_guide_4_0", "fish": "guide_small", "click":1,"sound": "guide_04","dt": 3}, {"tip":"str_guide_4_1","align": 1, "get_fish": 1}]
 		},
 		{
 			"id": 4,
 			"type": 0,
-			"descriptions": [{"tip":"str_guide_4_0", "fish": "guide_small", "click":1,"sound": "guide_04","dt": 3}, {"tip":"str_guide_4_1","align": 1, "get_fish": 1}]
+			"descriptions": [{"tip":"str_guide_5_0", "fish": "guide_big","gold": 1,"click":1,"sound": "guide_05","dt": 4}, {"tip":"str_guide_5_1","align": 1, "get_fish": 1}]
 		},
 		{
 			"id": 5,
 			"type": 0,
-			"descriptions": [{"tip":"str_guide_5_0", "fish": "guide_big","gold": 1,"click":1,"sound": "guide_05","dt": 4}, {"tip":"str_guide_5_1","align": 1, "get_fish": 1}]
+			"descriptions": [{"tip":"str_guide_6_0","gold": 1,"click": 1,"sound": "guide_06","dt": 4}, {"fish_reward_show":1}]
 		},
 		{
 			"id": 6,
 			"type": 0,
-			"descriptions": [{"tip":"str_guide_6_0","gold": 1,"click": 1,"sound": "guide_06","dt": 4}, {"fish_reward_show":1}]
+			"descriptions": [{"tip":"str_guide_7_1","align": 1,"focus":1,"auto":-1,"sound": "guide_08"}, {"tip":"str_guide_7_2","align": 1,"focus":1,"sound": "guide_09"}]
 		},
 		{
 			"id": 7,
 			"type": 0,
-			"descriptions": [{"tip":"str_guide_7_0","click": 1,"sound": "guide_07","dt": 3}, {"tip":"str_guide_7_1","align": 1,"focus":1,"auto":-1,"sound": "guide_08"}, {"tip":"str_guide_7_2","align": 1,"focus":1,"sound": "guide_09"}]
+			"descriptions": [{"tip":"str_guide_8_0","align": 1, "fish": "guide_big", "get_fish": 1,"sound": "guide_10"}, {"tip":"str_guide_8_1","gold": 1, "click":1,"sound": "guide_11","dt": 4}]
 		},
 		{
 			"id": 8,
 			"type": 0,
-			"descriptions": [{"tip":"str_guide_8_0","align": 1, "fish": "guide_big", "get_fish": 1,"sound": "guide_10"}, {"tip":"str_guide_8_1","gold": 1, "click":1,"sound": "guide_11","dt": 4}]
+			"descriptions": [{"tip":"str_guide_9_1","fish": "guide_wave_json", "click":1,"sound": "guide_13","dt": 5}]
 		},
 		{
 			"id": 9,
 			"type": 0,
-			"descriptions": [{"tip":"str_guide_9_0","align": 1, "fish": "guide_wave_json", "get_fish": 3,"sound": "guide_12"}, {"tip":"str_guide_9_1","fish": "guide_wave_json", "click":1,"sound": "guide_13","dt": 5}]
+			"descriptions": [{"tip":"str_guide_10_0","align": 1,"focus":1,"sound": "guide_14"}, {"tip":"str_guide_10_1","align": 1,"get_fish": 3}]
 		},
 		{
 			"id": 10,
 			"type": 0,
-			"descriptions": [{"tip":"str_guide_10_0","align": 1,"focus":1,"sound": "guide_14"}, {"tip":"str_guide_10_1","align": 1,"get_fish": 3}]
-		},
-		{
-			"id": 11,
-			"type": 0,
 			"descriptions": [{"tip":"str_guide_11_0", "click":1,"sound": "guide_15","dt": 5}, {"over_reward_show":1,"sound": "guide_16"}]
 		},
 		{
-			"id": 12,
+			"id": 11,
 			"type": 0,
 			"descriptions": [{"tip":"str_guide_12_0","align": 1,"focus":1,"sound": "guide_17","dt": 2}, {"tip":"str_guide_12_1","align": 1,"focus":1,"sound": "guide_18","dt": 2}]
 		},
@@ -42617,7 +42749,7 @@
 			"icon": " ",
 			"description": " ",
 			"reward_qzone": [["i001",100],["i230",1]],
-			"yPCT": 1,
+			"yPCT": 1.1,
 			"newcomergold": 1000
 		},
 		{
@@ -42629,8 +42761,8 @@
 			"icon": " ",
 			"description": " ",
 			"reward_qzone": [["i001",200],["i230",1]],
-			"yPCT": 1,
-			"newcomergold": 2000
+			"yPCT": 1.1,
+			"newcomergold": 3000
 		},
 		{
 			"level": 3,
@@ -42641,7 +42773,7 @@
 			"icon": " ",
 			"description": " ",
 			"reward_qzone": [["i001",300],["i230",1]],
-			"yPCT": 1,
+			"yPCT": 1.1,
 			"newcomergold": 5000
 		},
 		{
@@ -42653,8 +42785,8 @@
 			"icon": " ",
 			"description": " ",
 			"reward_qzone": [["i001",400],["i230",1]],
-			"yPCT": 1,
-			"newcomergold": 8000
+			"yPCT": 1.1,
+			"newcomergold": 0
 		},
 		{
 			"level": 5,
@@ -42665,8 +42797,8 @@
 			"icon": " ",
 			"description": " ",
 			"reward_qzone": [["i001",500],["i230",1]],
-			"yPCT": 1,
-			"newcomergold": 12000
+			"yPCT": 1.1,
+			"newcomergold": 0
 		},
 		{
 			"level": 6,
@@ -42678,11 +42810,11 @@
 			"description": " ",
 			"reward_qzone": [["i001",600],["i230",1]],
 			"yPCT": 1,
-			"newcomergold": 15000
+			"newcomergold": 0
 		},
 		{
 			"level": 7,
-			"exp_max": 25000,
+			"exp_max": 20000,
 			"reward_package": [["i001",300],["i002",3]],
 			"cost": [],
 			"reward": [],
@@ -42690,11 +42822,11 @@
 			"description": " ",
 			"reward_qzone": [["i001",700],["i230",1]],
 			"yPCT": 1,
-			"newcomergold": 20000
+			"newcomergold": 0
 		},
 		{
 			"level": 8,
-			"exp_max": 35000,
+			"exp_max": 25000,
 			"reward_package": [["i001",300],["i002",3]],
 			"cost": [],
 			"reward": [],
@@ -42702,11 +42834,11 @@
 			"description": " ",
 			"reward_qzone": [["i001",800],["i230",1]],
 			"yPCT": 1,
-			"newcomergold": 500
+			"newcomergold": 0
 		},
 		{
 			"level": 9,
-			"exp_max": 50000,
+			"exp_max": 35000,
 			"reward_package": [["i001",300],["i002",3]],
 			"cost": [],
 			"reward": [],
@@ -42749,7 +42881,7 @@
 			"icon": " ",
 			"description": " ",
 			"reward_qzone": [["i001",1200],["i230",1]],
-			"yPCT": 0.9,
+			"yPCT": 1,
 			"newcomergold": 0
 		},
 		{

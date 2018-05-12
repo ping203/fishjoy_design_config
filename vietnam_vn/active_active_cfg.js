@@ -31,7 +31,7 @@ var active_active_cfg =
 	{
 		id : 5,
 		starttime : "2018/04/20&00:00:00",
-		endtime : "2018/04/29&23:59:59",
+		endtime : "2018/05/03&23:59:59",
 		picid : "active4",
 		name : "active_name_5",
 	},

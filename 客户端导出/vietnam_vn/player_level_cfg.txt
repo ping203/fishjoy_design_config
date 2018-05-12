@@ -8,7 +8,7 @@
 			"icon": " ",
 			"description": " ",
 			"reward_qzone": [["i001",100],["i230",1]],
-			"yPCT": 1,
+			"yPCT": 1.1,
 			"newcomergold": 1000
 		},
 		{
@@ -20,8 +20,8 @@
 			"icon": " ",
 			"description": " ",
 			"reward_qzone": [["i001",200],["i230",1]],
-			"yPCT": 1,
-			"newcomergold": 2000
+			"yPCT": 1.1,
+			"newcomergold": 3000
 		},
 		{
 			"level": 3,
@@ -32,7 +32,7 @@
 			"icon": " ",
 			"description": " ",
 			"reward_qzone": [["i001",300],["i230",1]],
-			"yPCT": 1,
+			"yPCT": 1.1,
 			"newcomergold": 5000
 		},
 		{
@@ -44,8 +44,8 @@
 			"icon": " ",
 			"description": " ",
 			"reward_qzone": [["i001",400],["i230",1]],
-			"yPCT": 1,
-			"newcomergold": 8000
+			"yPCT": 1.1,
+			"newcomergold": 0
 		},
 		{
 			"level": 5,
@@ -56,8 +56,8 @@
 			"icon": " ",
 			"description": " ",
 			"reward_qzone": [["i001",500],["i230",1]],
-			"yPCT": 1,
-			"newcomergold": 12000
+			"yPCT": 1.1,
+			"newcomergold": 0
 		},
 		{
 			"level": 6,
@@ -69,11 +69,11 @@
 			"description": " ",
 			"reward_qzone": [["i001",600],["i230",1]],
 			"yPCT": 1,
-			"newcomergold": 15000
+			"newcomergold": 0
 		},
 		{
 			"level": 7,
-			"exp_max": 25000,
+			"exp_max": 20000,
 			"reward_package": [["i001",300],["i002",3]],
 			"cost": [],
 			"reward": [],
@@ -81,11 +81,11 @@
 			"description": " ",
 			"reward_qzone": [["i001",700],["i230",1]],
 			"yPCT": 1,
-			"newcomergold": 20000
+			"newcomergold": 0
 		},
 		{
 			"level": 8,
-			"exp_max": 35000,
+			"exp_max": 25000,
 			"reward_package": [["i001",300],["i002",3]],
 			"cost": [],
 			"reward": [],
@@ -93,11 +93,11 @@
 			"description": " ",
 			"reward_qzone": [["i001",800],["i230",1]],
 			"yPCT": 1,
-			"newcomergold": 500
+			"newcomergold": 0
 		},
 		{
 			"level": 9,
-			"exp_max": 50000,
+			"exp_max": 35000,
 			"reward_package": [["i001",300],["i002",3]],
 			"cost": [],
 			"reward": [],
@@ -140,7 +140,7 @@
 			"icon": " ",
 			"description": " ",
 			"reward_qzone": [["i001",1200],["i230",1]],
-			"yPCT": 0.9,
+			"yPCT": 1,
 			"newcomergold": 0
 		},
 		{

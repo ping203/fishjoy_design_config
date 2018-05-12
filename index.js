@@ -1,8 +1,5 @@
-const VER_KEY = require('../versions').VER_KEY;
-const PUB = require('../versions').PUB;
-const VER = VER_KEY[PUB];
-
-
+const versionsUtil = require('../versionsUtil');
+const VER = versionsUtil.getVerKey();
 const fs = require('fs');
 const path = require('path');
 const root = path.join(__dirname, VER);
@@ -10,7 +7,7 @@ const DESIGN_CFG = {};
 
 function readDirSync(_path){  
     let pa = fs.readdirSync(_path);  
-    pa.forEach(function(file,index){  
+    pa.forEach(function(file){
         var info = fs.statSync(_path+"/"+file);      
         if(info.isDirectory()){  
             readDirSync(_path+"/"+file);  

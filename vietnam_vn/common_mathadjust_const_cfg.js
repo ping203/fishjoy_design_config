@@ -1,7 +1,7 @@
 var common_mathadjust_const_cfg =
 {
-	A : 7500,
-	ROIPCT : 0.8,
+	A : 6000,
+	ROIPCT : 0.9,
 	LONG : 300,
 	RMAX : 1,
 	RMIN : 1,
@@ -12,9 +12,9 @@ var common_mathadjust_const_cfg =
 	DIVERGE : 0,
 	DRATIO : 1,
 	HEARTMAX : 180,
-	HRATIO : 5,
-	HVALUE : 0.4,
-	extract : 0.11,
+	HRATIO : 15,
+	HVALUE : 0.3,
+	extract : 0.1,
 	time1 : 360,
 	addvalue : 1.15,
 	time2 : 180,

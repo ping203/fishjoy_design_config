@@ -54,5 +54,6 @@ var common_log_const_cfg =
 	FISH_LIGHTING : 52,
 	VIP_WELFARE : 53,
 	CDKEY_GAIN : 54,
+	GOD_INTERACT : 55,
 };
 module.exports = common_log_const_cfg;
