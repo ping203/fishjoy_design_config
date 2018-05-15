@@ -10,7 +10,7 @@ var new_mini_game_crazyfugu_cfg =
 		holdon : [1,0.003,0.6],
 		base_multiple : 1,
 		scene_multiple : 0.005,
-		maxscore : 17000,
+		maxscore : [17000,25000,65000,180000],
 	},
 ];
 module.exports = new_mini_game_crazyfugu_cfg;

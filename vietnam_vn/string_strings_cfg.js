@@ -1414,49 +1414,49 @@ var string_strings_cfg =
 		cn : "Lợi dụng Cá Mìn nổ chết 1000000 con cá khác ",
 	},
 	'quest_name_206000' : {
-		cn : "Mua súng Ác Ma ",
+		cn : "Mua 2 loại súng khác nhau",
 	},
 	'quest_name_206001' : {
-		cn : "Mua súng Thiên Sứ ",
+		cn : "Mua 3 loại súng khác nhau",
 	},
 	'quest_name_206002' : {
-		cn : "Mua súng Tia Chớp ",
+		cn : "Mua 4 loại súng khác nhau",
 	},
 	'quest_name_206003' : {
-		cn : "Số lượng súng sở hữu",
+		cn : "Mua 5 loại súng khác nhau",
 	},
 	'quest_name_206004' : {
-		cn : "Mua súng Cáp Vương ",
+		cn : "Mua 6 loại súng khác nhau",
 	},
 	'quest_name_206005' : {
-		cn : "Mua súng Thiên Hà ",
+		cn : "Mua 7 loại súng khác nhau",
 	},
 	'quest_name_206006' : {
-		cn : "Mua súng Ngọc Hồn ",
+		cn : "Mua 8 loại súng khác nhau",
 	},
 	'quest_name_206007' : {
-		cn : "Mua súng Huyền Kích ",
+		cn : "Mua 9 loại súng khác nhau",
 	},
 	'quest_name_206008' : {
-		cn : "Mua súng Độc Lang ",
+		cn : "Mua 10 loại súng khác nhau",
 	},
 	'quest_name_206009' : {
-		cn : "Mua súng Tinh Anh ",
+		cn : "Mua 11 loại súng khác nhau",
 	},
 	'quest_name_206010' : {
-		cn : "Mua súng Băng Thiên Phách ",
+		cn : "Mua 12 loại súng khác nhau",
 	},
 	'quest_name_206011' : {
-		cn : "Mua súng Thiên Hỏa Phụng ",
+		cn : "Mua 13 loại súng khác nhau",
 	},
 	'quest_name_206012' : {
-		cn : "Mua súng Yểm Nguyệt Thố ",
+		cn : "Mua 14 loại súng khác nhau",
 	},
 	'quest_name_206013' : {
-		cn : "Mua súng Vô Cực Chiến Thần ",
+		cn : "Mua 15 loại súng khác nhau",
 	},
 	'quest_name_206014' : {
-		cn : "Mua súng Vô Cực Chiến Thần ",
+		cn : "Mua 16 loại súng khác nhau",
 	},
 	'quest_name_207000' : {
 		cn : "Bắn 1 lần được 6 con cá ",
@@ -2033,6 +2033,687 @@ var string_strings_cfg =
 	},
 	'quest_name_229021' : {
 		cn : "Đấu Trường đạt Thợ giỏi nhất ",
+	},
+	'newbie_name_10000' : {
+		cn : "连续登陆1天",
+	},
+	'newbie_name_10100' : {
+		cn : "今日充值任意金额",
+	},
+	'newbie_name_10200' : {
+		cn : "金币3折限时出售",
+	},
+	'newbie_name_10300' : {
+		cn : "锁定3折限时出售",
+	},
+	'newbie_name_10400' : {
+		cn : "捕获任意鱼1000条",
+	},
+	'newbie_name_10401' : {
+		cn : "捕获任意鱼2000条",
+	},
+	'newbie_name_10402' : {
+		cn : "捕获任意鱼3000条",
+	},
+	'newbie_name_10403' : {
+		cn : "捕获任意鱼4000条",
+	},
+	'newbie_name_10404' : {
+		cn : "捕获任意鱼6000条",
+	},
+	'newbie_name_10405' : {
+		cn : "捕获任意鱼8000条",
+	},
+	'newbie_name_10406' : {
+		cn : "捕获任意鱼10000条",
+	},
+	'newbie_name_10407' : {
+		cn : "捕获任意鱼15000条",
+	},
+	'newbie_name_10408' : {
+		cn : "捕获任意鱼20000条",
+	},
+	'newbie_name_10409' : {
+		cn : "捕获任意鱼30000条",
+	},
+	'newbie_name_10410' : {
+		cn : "捕获任意鱼40000条",
+	},
+	'newbie_name_10500' : {
+		cn : "使用锁定10次",
+	},
+	'newbie_name_10501' : {
+		cn : "使用锁定20次",
+	},
+	'newbie_name_10502' : {
+		cn : "使用锁定30次",
+	},
+	'newbie_name_10503' : {
+		cn : "使用锁定40次",
+	},
+	'newbie_name_10504' : {
+		cn : "使用锁定60次",
+	},
+	'newbie_name_10505' : {
+		cn : "使用锁定80次",
+	},
+	'newbie_name_10506' : {
+		cn : "使用锁定100次",
+	},
+	'newbie_name_10507' : {
+		cn : "使用锁定120次",
+	},
+	'newbie_name_10508' : {
+		cn : "使用锁定140次",
+	},
+	'newbie_name_10509' : {
+		cn : "使用锁定160次",
+	},
+	'newbie_name_10510' : {
+		cn : "使用锁定200次",
+	},
+	'newbie_name_10600' : {
+		cn : "等级达到12级",
+	},
+	'newbie_name_10601' : {
+		cn : "等级达到15级",
+	},
+	'newbie_name_10602' : {
+		cn : "等级达到18级",
+	},
+	'newbie_name_10603' : {
+		cn : "等级达到21级",
+	},
+	'newbie_name_10604' : {
+		cn : "等级达到24级",
+	},
+	'newbie_name_10605' : {
+		cn : "等级达到26级",
+	},
+	'newbie_name_10606' : {
+		cn : "等级达到28级",
+	},
+	'newbie_name_10607' : {
+		cn : "等级达到30级",
+	},
+	'newbie_name_20000' : {
+		cn : "连续登陆2天",
+	},
+	'newbie_name_20100' : {
+		cn : "今日充值任意金额",
+	},
+	'newbie_name_20200' : {
+		cn : "武器精华5折限时出售",
+	},
+	'newbie_name_20300' : {
+		cn : "召唤3折限时出售",
+	},
+	'newbie_name_20400' : {
+		cn : "参与保卫女神1次",
+	},
+	'newbie_name_20401' : {
+		cn : "参与保卫女神2次",
+	},
+	'newbie_name_20402' : {
+		cn : "参与保卫女神4次",
+	},
+	'newbie_name_20403' : {
+		cn : "参与保卫女神6次",
+	},
+	'newbie_name_20404' : {
+		cn : "参与保卫女神8次",
+	},
+	'newbie_name_20405' : {
+		cn : "参与保卫女神10次",
+	},
+	'newbie_name_20406' : {
+		cn : "参与保卫女神12次",
+	},
+	'newbie_name_20407' : {
+		cn : "参与保卫女神14次",
+	},
+	'newbie_name_20408' : {
+		cn : "参与保卫女神16次",
+	},
+	'newbie_name_20500' : {
+		cn : "武器倍率达到160倍",
+	},
+	'newbie_name_20501' : {
+		cn : "武器倍率达到180倍",
+	},
+	'newbie_name_20502' : {
+		cn : "武器倍率达到200倍",
+	},
+	'newbie_name_20503' : {
+		cn : "武器倍率达到300倍",
+	},
+	'newbie_name_20504' : {
+		cn : "武器倍率达到400倍",
+	},
+	'newbie_name_20505' : {
+		cn : "武器倍率达到500倍",
+	},
+	'newbie_name_20506' : {
+		cn : "武器倍率达到600倍",
+	},
+	'newbie_name_20507' : {
+		cn : "武器倍率达到700倍",
+	},
+	'newbie_name_20508' : {
+		cn : "武器倍率达到800倍",
+	},
+	'newbie_name_20509' : {
+		cn : "武器倍率达到900倍",
+	},
+	'newbie_name_20510' : {
+		cn : "武器倍率达到1000倍",
+	},
+	'newbie_name_20600' : {
+		cn : "使用召唤10次",
+	},
+	'newbie_name_20601' : {
+		cn : "使用召唤20次",
+	},
+	'newbie_name_20602' : {
+		cn : "使用召唤30次",
+	},
+	'newbie_name_20603' : {
+		cn : "使用召唤40次",
+	},
+	'newbie_name_20604' : {
+		cn : "使用召唤60次",
+	},
+	'newbie_name_20605' : {
+		cn : "使用召唤80次",
+	},
+	'newbie_name_20606' : {
+		cn : "使用召唤100次",
+	},
+	'newbie_name_20607' : {
+		cn : "使用召唤120次",
+	},
+	'newbie_name_20608' : {
+		cn : "使用召唤140次",
+	},
+	'newbie_name_20609' : {
+		cn : "使用召唤160次",
+	},
+	'newbie_name_20610' : {
+		cn : "使用召唤200次",
+	},
+	'newbie_name_30000' : {
+		cn : "连续登陆3天",
+	},
+	'newbie_name_30100' : {
+		cn : "今日充值任意金额",
+	},
+	'newbie_name_30200' : {
+		cn : "宠物鱼5折限时出售",
+	},
+	'newbie_name_30300' : {
+		cn : "冰冻6折限时出售",
+	},
+	'newbie_name_30400' : {
+		cn : "保卫女神通过20关",
+	},
+	'newbie_name_30401' : {
+		cn : "保卫女神通过30关",
+	},
+	'newbie_name_30402' : {
+		cn : "保卫女神通过40关",
+	},
+	'newbie_name_30403' : {
+		cn : "保卫女神通过45关",
+	},
+	'newbie_name_30404' : {
+		cn : "保卫女神通过50关",
+	},
+	'newbie_name_30405' : {
+		cn : "保卫女神通过55关",
+	},
+	'newbie_name_30406' : {
+		cn : "保卫女神通过60关",
+	},
+	'newbie_name_30407' : {
+		cn : "保卫女神通过65关",
+	},
+	'newbie_name_30408' : {
+		cn : "保卫女神通过70关",
+	},
+	'newbie_name_30500' : {
+		cn : "水族馆鱼总等级达到10",
+	},
+	'newbie_name_30501' : {
+		cn : "水族馆鱼总等级达到20",
+	},
+	'newbie_name_30502' : {
+		cn : "水族馆鱼总等级达到30",
+	},
+	'newbie_name_30503' : {
+		cn : "水族馆鱼总等级达到40",
+	},
+	'newbie_name_30504' : {
+		cn : "水族馆鱼总等级达到60",
+	},
+	'newbie_name_30505' : {
+		cn : "水族馆鱼总等级达到80",
+	},
+	'newbie_name_30506' : {
+		cn : "水族馆鱼总等级达到100",
+	},
+	'newbie_name_30600' : {
+		cn : "使用冰冻10次",
+	},
+	'newbie_name_30601' : {
+		cn : "使用冰冻20次",
+	},
+	'newbie_name_30602' : {
+		cn : "使用冰冻30次",
+	},
+	'newbie_name_30603' : {
+		cn : "使用冰冻40次",
+	},
+	'newbie_name_30604' : {
+		cn : "使用冰冻60次",
+	},
+	'newbie_name_30605' : {
+		cn : "使用冰冻80次",
+	},
+	'newbie_name_30606' : {
+		cn : "使用冰冻100次",
+	},
+	'newbie_name_30607' : {
+		cn : "使用冰冻120次",
+	},
+	'newbie_name_30608' : {
+		cn : "使用冰冻140次",
+	},
+	'newbie_name_30609' : {
+		cn : "使用冰冻160次",
+	},
+	'newbie_name_30610' : {
+		cn : "使用冰冻200次",
+	},
+	'newbie_name_40000' : {
+		cn : "连续登陆4天",
+	},
+	'newbie_name_40100' : {
+		cn : "今日充值任意金额",
+	},
+	'newbie_name_40200' : {
+		cn : "皮肤5折限时出售",
+	},
+	'newbie_name_40300' : {
+		cn : "皮肤5折限时出售",
+	},
+	'newbie_name_40400' : {
+		cn : "在排位赛中胜利3次",
+	},
+	'newbie_name_40401' : {
+		cn : "在排位赛中胜利6次",
+	},
+	'newbie_name_40402' : {
+		cn : "在排位赛中胜利10次",
+	},
+	'newbie_name_40403' : {
+		cn : "在排位赛中胜利20次",
+	},
+	'newbie_name_40404' : {
+		cn : "在排位赛中胜利30次",
+	},
+	'newbie_name_40405' : {
+		cn : "在排位赛中胜利40次",
+	},
+	'newbie_name_40406' : {
+		cn : "在排位赛中胜利50次",
+	},
+	'newbie_name_40407' : {
+		cn : "在排位赛中胜利60次",
+	},
+	'newbie_name_40408' : {
+		cn : "在排位赛中胜利70次",
+	},
+	'newbie_name_40500' : {
+		cn : "获得2个皮肤",
+	},
+	'newbie_name_40501' : {
+		cn : "获得3个皮肤",
+	},
+	'newbie_name_40502' : {
+		cn : "获得4个皮肤",
+	},
+	'newbie_name_40503' : {
+		cn : "获得6个皮肤",
+	},
+	'newbie_name_40504' : {
+		cn : "获得8个皮肤",
+	},
+	'newbie_name_40505' : {
+		cn : "获得10个皮肤",
+	},
+	'newbie_name_40600' : {
+		cn : "使用激光10次",
+	},
+	'newbie_name_40601' : {
+		cn : "使用激光20次",
+	},
+	'newbie_name_40602' : {
+		cn : "使用激光30次",
+	},
+	'newbie_name_40603' : {
+		cn : "使用激光40次",
+	},
+	'newbie_name_40604' : {
+		cn : "使用激光60次",
+	},
+	'newbie_name_40605' : {
+		cn : "使用激光80次",
+	},
+	'newbie_name_40606' : {
+		cn : "使用激光100次",
+	},
+	'newbie_name_50000' : {
+		cn : "连续登陆5天",
+	},
+	'newbie_name_50100' : {
+		cn : "今日充值任意金额",
+	},
+	'newbie_name_50200' : {
+		cn : "金币3折限时出售",
+	},
+	'newbie_name_50300' : {
+		cn : "青铜弹头5折限时出售",
+	},
+	'newbie_name_50400' : {
+		cn : "拥有金币大于200000",
+	},
+	'newbie_name_50401' : {
+		cn : "拥有金币大于500000",
+	},
+	'newbie_name_50402' : {
+		cn : "拥有金币大于1000000",
+	},
+	'newbie_name_50403' : {
+		cn : "拥有金币大于2000000",
+	},
+	'newbie_name_50404' : {
+		cn : "拥有金币大于3000000",
+	},
+	'newbie_name_50405' : {
+		cn : "拥有金币大于4000000",
+	},
+	'newbie_name_50406' : {
+		cn : "拥有金币大于5000000",
+	},
+	'newbie_name_50407' : {
+		cn : "拥有金币大于6000000",
+	},
+	'newbie_name_50408' : {
+		cn : "拥有金币大于8000000",
+	},
+	'newbie_name_50500' : {
+		cn : "排位赛段位达到白银5段",
+	},
+	'newbie_name_50501' : {
+		cn : "排位赛段位达到白银1段",
+	},
+	'newbie_name_50502' : {
+		cn : "排位赛段位达到黄金5段",
+	},
+	'newbie_name_50503' : {
+		cn : "排位赛段位达到黄金1段",
+	},
+	'newbie_name_50504' : {
+		cn : "排位赛段位达到白金5段",
+	},
+	'newbie_name_50505' : {
+		cn : "排位赛段位达到白金3段",
+	},
+	'newbie_name_50506' : {
+		cn : "排位赛段位达到白金1段",
+	},
+	'newbie_name_50507' : {
+		cn : "排位赛段位达到钻石5段",
+	},
+	'newbie_name_50508' : {
+		cn : "排位赛段位达到钻石4段",
+	},
+	'newbie_name_50509' : {
+		cn : "排位赛段位达到钻石3段",
+	},
+	'newbie_name_50510' : {
+		cn : "排位赛段位达到钻石2段",
+	},
+	'newbie_name_50511' : {
+		cn : "排位赛段位达到钻石1段",
+	},
+	'newbie_name_50600' : {
+		cn : "使用青铜弹头5次",
+	},
+	'newbie_name_50601' : {
+		cn : "使用青铜弹头10次",
+	},
+	'newbie_name_50602' : {
+		cn : "使用青铜弹头20次",
+	},
+	'newbie_name_50603' : {
+		cn : "使用青铜弹头30次",
+	},
+	'newbie_name_50604' : {
+		cn : "使用青铜弹头40次",
+	},
+	'newbie_name_50605' : {
+		cn : "使用青铜弹头60次",
+	},
+	'newbie_name_50606' : {
+		cn : "使用青铜弹头80次",
+	},
+	'newbie_name_50607' : {
+		cn : "使用青铜弹头100次",
+	},
+	'newbie_name_50608' : {
+		cn : "使用青铜弹头120次",
+	},
+	'newbie_name_50609' : {
+		cn : "使用青铜弹头140次",
+	},
+	'newbie_name_50610' : {
+		cn : "使用青铜弹头160次",
+	},
+	'newbie_name_60000' : {
+		cn : "连续登陆6天",
+	},
+	'newbie_name_60100' : {
+		cn : "今日充值任意金额",
+	},
+	'newbie_name_60200' : {
+		cn : "抽奖卡4折限时出售",
+	},
+	'newbie_name_60300' : {
+		cn : "白银弹头5折限时出售",
+	},
+	'newbie_name_60400' : {
+		cn : "进行10次皮肤抽奖",
+	},
+	'newbie_name_60401' : {
+		cn : "进行20次皮肤抽奖",
+	},
+	'newbie_name_60402' : {
+		cn : "进行40次皮肤抽奖",
+	},
+	'newbie_name_60403' : {
+		cn : "进行60次皮肤抽奖",
+	},
+	'newbie_name_60404' : {
+		cn : "进行80次皮肤抽奖",
+	},
+	'newbie_name_60405' : {
+		cn : "进行100次皮肤抽奖",
+	},
+	'newbie_name_60406' : {
+		cn : "进行150次皮肤抽奖",
+	},
+	'newbie_name_60407' : {
+		cn : "进行200次皮肤抽奖",
+	},
+	'newbie_name_60408' : {
+		cn : "进行250次皮肤抽奖",
+	},
+	'newbie_name_60500' : {
+		cn : "使用白银弹头1次",
+	},
+	'newbie_name_60501' : {
+		cn : "使用白银弹头2次",
+	},
+	'newbie_name_60502' : {
+		cn : "使用白银弹头4次",
+	},
+	'newbie_name_60503' : {
+		cn : "使用白银弹头6次",
+	},
+	'newbie_name_60504' : {
+		cn : "使用白银弹头8次",
+	},
+	'newbie_name_60505' : {
+		cn : "使用白银弹头10次",
+	},
+	'newbie_name_60506' : {
+		cn : "使用白银弹头12次",
+	},
+	'newbie_name_60507' : {
+		cn : "使用白银弹头14次",
+	},
+	'newbie_name_60508' : {
+		cn : "使用白银弹头16次",
+	},
+	'newbie_name_60509' : {
+		cn : "使用白银弹头18次",
+	},
+	'newbie_name_60510' : {
+		cn : "使用白银弹头20次",
+	},
+	'newbie_name_70000' : {
+		cn : "连续登陆7天",
+	},
+	'newbie_name_70100' : {
+		cn : "今日充值任意金额",
+	},
+	'newbie_name_70200' : {
+		cn : "烈焰女神1折限时出售",
+	},
+	'newbie_name_70300' : {
+		cn : "嫦娥女神4折限时出售",
+	},
+	'newbie_name_70400' : {
+		cn : "累积消耗钻石500",
+	},
+	'newbie_name_70401' : {
+		cn : "累积消耗钻石1000",
+	},
+	'newbie_name_70402' : {
+		cn : "累积消耗钻石2000",
+	},
+	'newbie_name_70403' : {
+		cn : "累积消耗钻石4000",
+	},
+	'newbie_name_70404' : {
+		cn : "累积消耗钻石6000",
+	},
+	'newbie_name_70405' : {
+		cn : "累积消耗钻石8000",
+	},
+	'newbie_name_70406' : {
+		cn : "累积消耗钻石10000",
+	},
+	'newbie_name_70407' : {
+		cn : "累积消耗钻石20000",
+	},
+	'newbie_name_70408' : {
+		cn : "累积消耗钻石30000",
+	},
+	'newbie_name_70409' : {
+		cn : "累积消耗钻石50000",
+	},
+	'newbie_name_70500' : {
+		cn : "解锁2个女神",
+	},
+	'newbie_name_70501' : {
+		cn : "解锁3个女神",
+	},
+	'newbie_name_70502' : {
+		cn : "解锁4个女神",
+	},
+	'newbie_name_80000' : {
+		cn : "连续登陆8天",
+	},
+	'newbie_name_80100' : {
+		cn : "今日充值任意金额",
+	},
+	'newbie_name_80200' : {
+		cn : "金币3折限时出售",
+	},
+	'newbie_name_80300' : {
+		cn : "黄金弹头5折限时出售",
+	},
+	'newbie_name_80400' : {
+		cn : "单次开炮获得金币50000",
+	},
+	'newbie_name_80401' : {
+		cn : "单次开炮获得金币100000",
+	},
+	'newbie_name_80402' : {
+		cn : "单次开炮获得金币150000",
+	},
+	'newbie_name_80403' : {
+		cn : "单次开炮获得金币200000",
+	},
+	'newbie_name_80404' : {
+		cn : "单次开炮获得金币250000",
+	},
+	'newbie_name_80405' : {
+		cn : "单次开炮获得金币300000",
+	},
+	'newbie_name_80406' : {
+		cn : "单次开炮获得金币500000",
+	},
+	'newbie_name_80407' : {
+		cn : "单次开炮获得金币600000",
+	},
+	'newbie_name_80408' : {
+		cn : "单次开炮获得金币700000",
+	},
+	'newbie_name_80409' : {
+		cn : "单次开炮获得金币800000",
+	},
+	'newbie_name_80500' : {
+		cn : "使用黄金弹头1次",
+	},
+	'newbie_name_80501' : {
+		cn : "使用黄金弹头2次",
+	},
+	'newbie_name_80502' : {
+		cn : "使用黄金弹头3次",
+	},
+	'newbie_name_80503' : {
+		cn : "使用黄金弹头4次",
+	},
+	'newbie_name_80504' : {
+		cn : "使用黄金弹头5次",
+	},
+	'newbie_name_80505' : {
+		cn : "使用黄金弹头6次",
+	},
+	'newbie_name_80506' : {
+		cn : "使用黄金弹头7次",
+	},
+	'newbie_name_80507' : {
+		cn : "使用黄金弹头8次",
+	},
+	'newbie_name_80508' : {
+		cn : "使用黄金弹头9次",
+	},
+	'newbie_name_80509' : {
+		cn : "使用黄金弹头10次",
 	},
 	'fish_name_dly' : {
 		cn : "Cá Lồng đèn ",
@@ -2796,6 +3477,9 @@ var string_strings_cfg =
 	'item_name_i006' : {
 		cn : "Loa nhỏ ",
 	},
+	'item_name_i007' : {
+		cn : "武器精华",
+	},
 	'item_name_i011' : {
 		cn : "Đóng băng ",
 	},
@@ -3296,6 +3980,9 @@ var string_strings_cfg =
 	},
 	'item_desc_i006' : {
 		cn : "Chat kênh TG chuyên dụng.",
+	},
+	'item_desc_i007' : {
+		cn : "升级武器倍率时使用。",
 	},
 	'item_desc_i011' : {
 		cn : "Đóng băng toàn bộ cá (trừ Cá Bảo rương), duy trì 5 s.",
@@ -4306,49 +4993,49 @@ var string_strings_cfg =
 		cn : "Có thể mua Túi Quà V0 \nBạn giới hạn 15\nMỗi ngày mua Ruby 5 lần\nMỗi lần Viện trợ nhận 5000 vàng \nMỗi ngày có thể nhận Viện trợ 3 lần",
 	},
 	'vip_desc_1' : {
-		cn : "Có thể mua Túi Quà V1 300 Mị Lực \nBạn giới hạn 15\nNhận hàng ngày khi còn dưới 20 Ruby (1 lần/ngày)\nEXP nhân vật +1%\nKích Quang Mị Lực +1%\nMỗi ngày mua Ruby 10 lần\nMỗi lần Viện trợ nhận 10000 vàng \nMỗi ngày có thể nhận Viện trợ 3 lần",
+		cn : "Có thể mua Túi Quà V1 1000 Mị Lực \nBạn giới hạn 15\nNhận hàng ngày khi còn dưới 20 Ruby (1 lần/ngày)\nEXP nhân vật +1%\nKích Quang Mị Lực +1%\nMỗi ngày mua Ruby 10 lần\nMỗi lần Viện trợ nhận 10000 vàng \nMỗi ngày có thể nhận Viện trợ 3 lần",
 	},
 	'vip_desc_2' : {
-		cn : "Có thể mua Túi Quà V2 600 Mị Lực \nBạn giới hạn 20\nNhận hàng ngày khi còn dưới 30 Ruby (1 lần/ngày)\nEXP nhân vật +2%\nKích Quang Mị Lực +1%\nMỗi ngày mua Ruby 15 lần\nMỗi lần Viện trợ nhận 15000 vàng \nMỗi ngày có thể nhận Viện trợ 3 lần",
+		cn : "Có thể mua Túi Quà V2 2000 Mị Lực \nBạn giới hạn 20\nNhận hàng ngày khi còn dưới 30 Ruby (1 lần/ngày)\nEXP nhân vật +2%\nKích Quang Mị Lực +1%\nMỗi ngày mua Ruby 15 lần\nMỗi lần Viện trợ nhận 15000 vàng \nMỗi ngày có thể nhận Viện trợ 4 lần",
 	},
 	'vip_desc_3' : {
-		cn : "Có thể mua Túi Quà V3 1000 Mị Lực \nBạn giới hạn 25\nNhận hàng ngày khi còn dưới 40 Ruby (1 lần/ngày)\nEXP nhân vật +3%\nKích Quang Mị Lực +1%\nMỗi ngày mua Ruby 20 lần\nMỗi lần Viện trợ nhận 20000 vàng \nMỗi ngày có thể nhận Viện trợ 4 lần",
+		cn : "Có thể mua Túi Quà V3 4000 Mị Lực \nBạn giới hạn 25\nNhận hàng ngày khi còn dưới 40 Ruby (1 lần/ngày)\nEXP nhân vật +3%\nKích Quang Mị Lực +1%\nMỗi ngày mua Ruby 20 lần\nMỗi lần Viện trợ nhận 20000 vàng \nMỗi ngày có thể nhận Viện trợ 4 lần",
 	},
 	'vip_desc_4' : {
-		cn : "Có thể mua Túi Quà V4 2000 Mị Lực \nBạn giới hạn 30\nNhận hàng ngày khi còn dưới 50 Ruby (1 lần/ngày)\nEXP nhân vật +4%\nKích Quang Mị Lực +1%\nMỗi ngày mua Ruby 30 lần \nMỗi lần Viện trợ nhận 25000 vàng \nMỗi ngày có thể nhận Viện trợ 4 lần",
+		cn : "Có thể mua Túi Quà V4 7000 Mị Lực \nBạn giới hạn 30\nNhận hàng ngày khi còn dưới 50 Ruby (1 lần/ngày)\nEXP nhân vật +4%\nKích Quang Mị Lực +1%\nMỗi ngày mua Ruby 30 lần \nMỗi lần Viện trợ nhận 25000 vàng \nMỗi ngày có thể nhận Viện trợ 5 lần",
 	},
 	'vip_desc_5' : {
-		cn : "Có thể mua Túi Quà V5 3000 Mị Lực \nBạn giới hạn 35\nNhận hàng ngày khi còn dưới 60 Ruby (1 lần/ngày)\nEXP nhân vật +5%\nKích Quang Mị Lực +4%\nMỗi ngày mua Ruby 40 lần \nMỗi lần Viện trợ nhận 30000 vàng \nMỗi ngày có thể nhận Viện trợ 5 lần",
+		cn : "Có thể mua Túi Quà V5 10000 Mị Lực \nBạn giới hạn 35\nNhận hàng ngày khi còn dưới 60 Ruby (1 lần/ngày)\nEXP nhân vật +5%\nKích Quang Mị Lực +4%\nMỗi ngày mua Ruby 40 lần \nMỗi lần Viện trợ nhận 30000 vàng \nMỗi ngày có thể nhận Viện trợ 5 lần",
 	},
 	'vip_desc_6' : {
-		cn : "Có thể mua Túi Quà V6 4000 Mị Lực \nBạn giới hạn 40\nNhận hàng ngày khi còn dưới 70 Ruby (1 lần/ngày)\nEXP nhân vật +6%\nKích Quang Mị Lực +5%\nMỗi ngày mua Ruby 60 lần \nMỗi lần Viện trợ nhận 35000 vàng \nMỗi ngày có thể nhận Viện trợ 5 lần",
+		cn : "Có thể mua Túi Quà V6 15000 Mị Lực \nBạn giới hạn 40\nNhận hàng ngày khi còn dưới 70 Ruby (1 lần/ngày)\nEXP nhân vật +6%\nKích Quang Mị Lực +5%\nMỗi ngày mua Ruby 60 lần \nMỗi lần Viện trợ nhận 35000 vàng \nMỗi ngày có thể nhận Viện trợ 6 lần",
 	},
 	'vip_desc_7' : {
-		cn : "Có thể mua Túi Quà V7 7000 Mị Lực \nBạn giới hạn 45\nNhận hàng ngày khi còn dưới 80 Ruby (1 lần/ngày)\nEXP nhân vật +7%\nKích Quang Mị Lực +5%\nBom Sơ Cấp Mị Lực +1%\nMỗi ngày mua Ruby 80 lần \nMỗi lần Viện trợ nhận 40000 vàng \nMỗi ngày có thể nhận Viện trợ 6 lần",
+		cn : "Có thể mua Túi Quà V7 20000 Mị Lực \nBạn giới hạn 45\nNhận hàng ngày khi còn dưới 80 Ruby (1 lần/ngày)\nEXP nhân vật +7%\nKích Quang Mị Lực +5%\nBom Sơ Cấp Mị Lực +1%\nMỗi ngày mua Ruby 80 lần \nMỗi lần Viện trợ nhận 40000 vàng \nMỗi ngày có thể nhận Viện trợ 6 lần",
 	},
 	'vip_desc_8' : {
-		cn : "Có thể mua Túi Quà V8 10000 Mị Lực \nBạn giới hạn 50\nNhận hàng ngày khi còn dưới 90 Ruby (1 lần/ngày)\nEXP nhân vật +8%\nKích Quang Mị Lực +5%\nBom Sơ Cấp Mị Lực +2%\nMỗi ngày mua Ruby 100 lần \nMỗi lần Viện trợ nhận 45000 vàng \nMỗi ngày có thể nhận Viện trợ 6 lần",
+		cn : "Có thể mua Túi Quà V8 30000 Mị Lực \nBạn giới hạn 50\nNhận hàng ngày khi còn dưới 90 Ruby (1 lần/ngày)\nEXP nhân vật +8%\nKích Quang Mị Lực +5%\nBom Sơ Cấp Mị Lực +2%\nMỗi ngày mua Ruby 100 lần \nMỗi lần Viện trợ nhận 45000 vàng \nMỗi ngày có thể nhận Viện trợ 7 lần",
 	},
 	'vip_desc_9' : {
-		cn : "Có thể mua Túi Quà V9 20000 Mị Lực \nBạn giới hạn 55\nNhận hàng ngày khi còn dưới 100 Ruby (1 lần/ngày)\nEXP nhân vật +9%\nKích Quang Mị Lực +5%\nBom Sơ Cấp Mị Lực +2%\nBom Trung Cấp Mị Lực +1%\nMỗi ngày mua Ruby 150 lần \nMỗi lần Viện trợ nhận 50000 vàng \nMỗi ngày có thể nhận Viện trợ 7 lần",
+		cn : "Có thể mua Túi Quà V9 40000 Mị Lực \nBạn giới hạn 55\nNhận hàng ngày khi còn dưới 100 Ruby (1 lần/ngày)\nEXP nhân vật +9%\nKích Quang Mị Lực +5%\nBom Sơ Cấp Mị Lực +2%\nBom Trung Cấp Mị Lực +1%\nMỗi ngày mua Ruby 150 lần \nMỗi lần Viện trợ nhận 50000 vàng \nMỗi ngày có thể nhận Viện trợ 7 lần",
 	},
 	'vip_desc_10' : {
-		cn : "Có thể mua Túi Quà V10 40000 Mị Lực \nBạn giới hạn 60\nNhận hàng ngày khi còn dưới 110 Ruby (1 lần/ngày)\nEXP nhân vật +10%\nKích Quang Mị Lực +5%\nBom Sơ Cấp Mị Lực +2%\nBom Trung Cấp Mị Lực +2%\nMỗi ngày mua Ruby 200 lần \nMỗi lần Viện trợ nhận 55000 vàng \nMỗi ngày có thể nhận Viện trợ 7 lần",
+		cn : "Có thể mua Túi Quà V10 50000 Mị Lực \nBạn giới hạn 60\nNhận hàng ngày khi còn dưới 110 Ruby (1 lần/ngày)\nEXP nhân vật +10%\nKích Quang Mị Lực +5%\nBom Sơ Cấp Mị Lực +2%\nBom Trung Cấp Mị Lực +2%\nMỗi ngày mua Ruby 200 lần \nMỗi lần Viện trợ nhận 55000 vàng \nMỗi ngày có thể nhận Viện trợ 8 lần",
 	},
 	'vip_desc_11' : {
 		cn : "Có thể mua Túi Quà V11 60000 Mị Lực \nBạn giới hạn 65\nNhận hàng ngày khi còn dưới 120 Ruby (1 lần/ngày)\nEXP nhân vật +11%\nKích Quang Mị Lực +5%\nBom Sơ Cấp Mị Lực +3%\nBom Trung Cấp Mị Lực +2%\nMỗi ngày mua Ruby 300 lần \nMỗi lần Viện trợ nhận 60000 vàng \nMỗi ngày có thể nhận Viện trợ 8 lần",
 	},
 	'vip_desc_12' : {
-		cn : "Có thể mua Túi Quà V12 80000 Mị Lực \nBạn giới hạn 70\nNhận hàng ngày khi còn dưới 130 Ruby (1 lần/ngày)\nEXP nhân vật +12%\nKích Quang Mị Lực +5%\nBom Sơ Cấp Mị Lực +3%\nBom Trung Cấp Mị Lực +3%\nMỗi ngày mua Ruby 400 lần \nMỗi lần Viện trợ nhận 65000 vàng \nMỗi ngày có thể nhận Viện trợ 8 lần",
+		cn : "Có thể mua Túi Quà V12 80000 Mị Lực \nBạn giới hạn 70\nNhận hàng ngày khi còn dưới 130 Ruby (1 lần/ngày)\nEXP nhân vật +12%\nKích Quang Mị Lực +5%\nBom Sơ Cấp Mị Lực +3%\nBom Trung Cấp Mị Lực +3%\nMỗi ngày mua Ruby 400 lần \nMỗi lần Viện trợ nhận 65000 vàng \nMỗi ngày có thể nhận Viện trợ 9 lần",
 	},
 	'vip_desc_13' : {
 		cn : "Có thể mua Túi Quà V13 100000 Mị Lực \nBạn giới hạn 75\nNhận hàng ngày khi còn dưới 140 Ruby (1 lần/ngày)\nEXP nhân vật +13%\nKích Quang Mị Lực +5%\nBom Sơ Cấp Mị Lực +4%\nBom Trung Cấp Mị Lực +3%\nMỗi ngày mua Ruby 600 lần \nMỗi lần Viện trợ nhận 70000 vàng \nMỗi ngày có thể nhận Viện trợ 9 lần",
 	},
 	'vip_desc_14' : {
-		cn : "Có thể mua Túi Quà V14 150000 Mị Lực \nBạn giới hạn 80\nNhận hàng ngày khi còn dưới 150 Ruby (1 lần/ngày)\nEXP nhân vật +14%\nKích Quang Mị Lực +5%\nBom Sơ Cấp Mị Lực +4%\nBom Trung Cấp Mị Lực +4%\nMỗi ngày mua Ruby 800 lần \nMỗi lần Viện trợ nhận 75000 vàng \nMỗi ngày có thể nhận Viện trợ 9 lần",
+		cn : "Có thể mua Túi Quà V14 120000 Mị Lực \nBạn giới hạn 80\nNhận hàng ngày khi còn dưới 150 Ruby (1 lần/ngày)\nEXP nhân vật +14%\nKích Quang Mị Lực +5%\nBom Sơ Cấp Mị Lực +4%\nBom Trung Cấp Mị Lực +4%\nMỗi ngày mua Ruby 800 lần \nMỗi lần Viện trợ nhận 75000 vàng \nMỗi ngày có thể nhận Viện trợ 10 lần",
 	},
 	'vip_desc_15' : {
-		cn : "Có thể mua Túi Quà V15 200000 Mị Lực \nBạn giới hạn 85\nNhận hàng ngày khi còn dưới 160 Ruby (1 lần/ngày)\nEXP nhân vật +15%\nKích Quang Mị Lực +5%\nBom Sơ Cấp Mị Lực +5%\nBom Trung Cấp Mị Lực +5%\nMỗi ngày mua Ruby 1000 lần \nMỗi lần Viện trợ nhận 80000 vàng \nMỗi ngày có thể nhận Viện trợ 10 lần",
+		cn : "Có thể mua Túi Quà V15 150000 Mị Lực \nBạn giới hạn 85\nNhận hàng ngày khi còn dưới 160 Ruby (1 lần/ngày)\nEXP nhân vật +15%\nKích Quang Mị Lực +5%\nBom Sơ Cấp Mị Lực +5%\nBom Trung Cấp Mị Lực +5%\nMỗi ngày mua Ruby 1000 lần \nMỗi lần Viện trợ nhận 80000 vàng \nMỗi ngày có thể nhận Viện trợ 10 lần",
 	},
 	'str_wp_tip' : {
 		cn : "%d lần ",
@@ -4564,7 +5251,7 @@ var string_strings_cfg =
 		cn : "*vip**charm*<color=#00ff00>xx</> Bảo Vệ Nữ Thần đã vượt thành công <color=#00ff00>xx</> ải ",
 	},
 	'notify_draw_reward' : {
-		cn : "*vip**charm*<color=#00ff00>xx</> rút thăm Quà may mắn nhận <color=#00ff00>xx*xx</>!",
+		cn : "*vip**charm*<color=#00ff00>xx</> rút thăm Linh kiện nhận <color=#00ff00>xx*xx</>!",
 	},
 	'notify_goddess_unlock' : {
 		cn : "*vip**charm*<color=#00ff00>xx</> đã mở khóa <color=#00ff00>xx</>, ngưỡng mộ quá đi!",
@@ -4610,6 +5297,21 @@ var string_strings_cfg =
 	},
 	'notify_rank_end' : {
 		cn : "*vip**charm*<color=#00ff00>xx</> tại chung cuộc Đấu trường <color=#00ff00>xx</> có <color=#00ff00> lịch sử </> xx thắng liên tiếp!",
+	},
+	'notify_goddess_skip' : {
+		cn : "*vip**charm*<color=#00ff00>xx</>魅力碾压保卫女神第一名<color=#00ff00>xx</>直接使用<color=#00ff00>跳关</>1次！",
+	},
+	'notify_goddess_skip_tip1' : {
+		cn : "你的魅力低于第一名选手，无法跳关",
+	},
+	'notify_goddess_skip_tip2' : {
+		cn : "你的关数即将超过第一名，无法跳关",
+	},
+	'notify_goddess_skip_tip3' : {
+		cn : "点击跳关",
+	},
+	'notify_goddess_skip_tip4' : {
+		cn : "跳关(%d)",
 	},
 	'page_0' : {
 		cn : "Top 10 Phú hộ ",
@@ -5041,7 +5743,10 @@ var string_strings_cfg =
 		cn : "<color=#ffff00>%s</>Dùng <color=#00ff00>Bom Hạt Nhân Đồng </> kết thúc <color=#00ffaa>%d</> cá <color=#00ffaa> +%d điểm </>",
 	},
 	'rmatch_lv_tip' : {
-		cn : "%s<color=#ffaa00>%s</> vì <color=#00ff00>%s</>! ",
+		cn : "Chúc mừng bạn lên cấp <color=#00ff00>%s</>！",
+	},
+	'rmatch_lv_tip1' : {
+		cn : "Rất tiếc, bạn xuống cấp <color=#00ff00>%s</>！",
 	},
 	'rmatch_failed_t1' : {
 		cn : "Vũ khí lên cấp x %d lần mới có thể tham gia!",
@@ -5452,10 +6157,10 @@ var string_strings_cfg =
 		cn : "%d%% tỷ lệ hỗ trợ ",
 	},
 	'goldfish_tips1' : {
-		cn : "Thiếu %d phiếu để đổi quà",
+		cn : "Có thể đổi quà",
 	},
 	'goldfish_tips2' : {
-		cn : "Có thể đổi quà rồi",
+		cn : "Có thể đổi quà",
 	},
 	'tip_1001' : {
 		cn : "Quá giờ kết nối! ",
@@ -6869,6 +7574,39 @@ var string_strings_cfg =
 	},
 	'PACK_ITEM_NOT_EXIST' : {
 		cn : "Đạo cụ không tồn tại",
+	},
+	'carnival_progress' : {
+		cn : "当前完成进度：%d%%",
+	},
+	'carnival_remain_time' : {
+		cn : "%s后关闭新手狂欢",
+	},
+	'str_newbie_1' : {
+		cn : "明日登录送话费券",
+	},
+	'str_newbie_2' : {
+		cn : "明日登录送皮肤",
+	},
+	'str_newbie_3' : {
+		cn : "明日登录送百万金币",
+	},
+	'str_newbie_4' : {
+		cn : "明日登录送核弹",
+	},
+	'str_goddess_free_enter' : {
+		cn : "今日还可免费进入%d次",
+	},
+	'str_goddess_buy_enter' : {
+		cn : "今日次数不足，是否消耗%d钻石购买",
+	},
+	'weapon_draw_no_own' : {
+		cn : "未获得该皮肤，无法进行抽奖",
+	},
+	'str_draw' : {
+		cn : "抽奖",
+	},
+	'str_charm_rankscore' : {
+		cn : "被对手魅惑，比赛分数-%d",
 	},
 };
 module.exports = string_strings_cfg;

@@ -9,5 +9,6 @@ var item_itemtype_cfg =
 	ITEM_TOKEN : 11,
 	ITEM_TOKEN : 12,
 	ITEM_TOKEN : 13,
+	ITEM_TOKEN : 14,
 };
 module.exports = item_itemtype_cfg;

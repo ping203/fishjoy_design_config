@@ -14,8 +14,8 @@ var new_mini_game_coincatch_cfg =
 		speed_add : [1,0.02,10],
 		speed : 400,
 		base_multiple : 1,
-		scene_multiple : 0.005,
-		maxscore : 30000,
+		scene_multiple : 0.003,
+		maxscore : [30000,40000,100000,280000],
 	},
 ];
 module.exports = new_mini_game_coincatch_cfg;

@@ -55,5 +55,6 @@ var common_log_const_cfg =
 	VIP_WELFARE : 53,
 	CDKEY_GAIN : 54,
 	GOD_INTERACT : 55,
+	CHANGE_CANCEL : 56,
 };
 module.exports = common_log_const_cfg;
