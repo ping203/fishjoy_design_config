@@ -1413,49 +1413,49 @@
 			"cn": "Lợi dụng Cá Mìn nổ chết 1000000 con cá khác "
 		},
 		"quest_name_206000": {
-			"cn": "Mua 2 loại súng khác nhau"
+			"cn": "Mua súng Ác Ma "
 		},
 		"quest_name_206001": {
-			"cn": "Mua 3 loại súng khác nhau"
+			"cn": "Mua súng Thiên Sứ "
 		},
 		"quest_name_206002": {
-			"cn": "Mua 4 loại súng khác nhau"
+			"cn": "Mua súng Tia Chớp "
 		},
 		"quest_name_206003": {
-			"cn": "Mua 5 loại súng khác nhau"
+			"cn": "Số lượng súng sở hữu"
 		},
 		"quest_name_206004": {
-			"cn": "Mua 6 loại súng khác nhau"
+			"cn": "Mua súng Cáp Vương "
 		},
 		"quest_name_206005": {
-			"cn": "Mua 7 loại súng khác nhau"
+			"cn": "Mua súng Thiên Hà "
 		},
 		"quest_name_206006": {
-			"cn": "Mua 8 loại súng khác nhau"
+			"cn": "Mua súng Ngọc Hồn "
 		},
 		"quest_name_206007": {
-			"cn": "Mua 9 loại súng khác nhau"
+			"cn": "Mua súng Huyền Kích "
 		},
 		"quest_name_206008": {
-			"cn": "Mua 10 loại súng khác nhau"
+			"cn": "Mua súng Độc Lang "
 		},
 		"quest_name_206009": {
-			"cn": "Mua 11 loại súng khác nhau"
+			"cn": "Mua súng Tinh Anh "
 		},
 		"quest_name_206010": {
-			"cn": "Mua 12 loại súng khác nhau"
+			"cn": "Mua súng Băng Thiên Phách "
 		},
 		"quest_name_206011": {
-			"cn": "Mua 13 loại súng khác nhau"
+			"cn": "Mua súng Thiên Hỏa Phụng "
 		},
 		"quest_name_206012": {
-			"cn": "Mua 14 loại súng khác nhau"
+			"cn": "Mua súng Yểm Nguyệt Thố "
 		},
 		"quest_name_206013": {
-			"cn": "Mua 15 loại súng khác nhau"
+			"cn": "Mua súng Vô Cực Chiến Thần "
 		},
 		"quest_name_206014": {
-			"cn": "Mua 16 loại súng khác nhau"
+			"cn": "Mua súng Vô Cực Chiến Thần "
 		},
 		"quest_name_207000": {
 			"cn": "Bắn 1 lần được 6 con cá "
@@ -2142,7 +2142,7 @@
 			"cn": "今日充值任意金额"
 		},
 		"newbie_name_20200": {
-			"cn": "武器精华5折限时出售"
+			"cn": "海洋之心5折限时出售"
 		},
 		"newbie_name_20300": {
 			"cn": "召唤3折限时出售"
@@ -4992,34 +4992,34 @@
 			"cn": "Có thể mua Túi Quà V0 \nBạn giới hạn 15\nMỗi ngày mua Ruby 5 lần\nMỗi lần Viện trợ nhận 5000 vàng \nMỗi ngày có thể nhận Viện trợ 3 lần"
 		},
 		"vip_desc_1": {
-			"cn": "Có thể mua Túi Quà V1 1000 Mị Lực \nBạn giới hạn 15\nNhận hàng ngày khi còn dưới 20 Ruby (1 lần/ngày)\nEXP nhân vật +1%\nKích Quang Mị Lực +1%\nMỗi ngày mua Ruby 10 lần\nMỗi lần Viện trợ nhận 10000 vàng \nMỗi ngày có thể nhận Viện trợ 3 lần"
+			"cn": "Có thể mua Túi Quà V1 300 Mị Lực \nBạn giới hạn 15\nNhận hàng ngày khi còn dưới 20 Ruby (1 lần/ngày)\nEXP nhân vật +1%\nKích Quang Mị Lực +1%\nMỗi ngày mua Ruby 10 lần\nMỗi lần Viện trợ nhận 10000 vàng \nMỗi ngày có thể nhận Viện trợ 3 lần"
 		},
 		"vip_desc_2": {
-			"cn": "Có thể mua Túi Quà V2 2000 Mị Lực \nBạn giới hạn 20\nNhận hàng ngày khi còn dưới 30 Ruby (1 lần/ngày)\nEXP nhân vật +2%\nKích Quang Mị Lực +1%\nMỗi ngày mua Ruby 15 lần\nMỗi lần Viện trợ nhận 15000 vàng \nMỗi ngày có thể nhận Viện trợ 4 lần"
+			"cn": "Có thể mua Túi Quà V2 600 Mị Lực \nBạn giới hạn 20\nNhận hàng ngày khi còn dưới 30 Ruby (1 lần/ngày)\nEXP nhân vật +2%\nKích Quang Mị Lực +1%\nMỗi ngày mua Ruby 15 lần\nMỗi lần Viện trợ nhận 15000 vàng \nMỗi ngày có thể nhận Viện trợ 4 lần"
 		},
 		"vip_desc_3": {
-			"cn": "Có thể mua Túi Quà V3 4000 Mị Lực \nBạn giới hạn 25\nNhận hàng ngày khi còn dưới 40 Ruby (1 lần/ngày)\nEXP nhân vật +3%\nKích Quang Mị Lực +1%\nMỗi ngày mua Ruby 20 lần\nMỗi lần Viện trợ nhận 20000 vàng \nMỗi ngày có thể nhận Viện trợ 4 lần"
+			"cn": "Có thể mua Túi Quà V3 1000 Mị Lực \nBạn giới hạn 25\nNhận hàng ngày khi còn dưới 40 Ruby (1 lần/ngày)\nEXP nhân vật +3%\nKích Quang Mị Lực +1%\nMỗi ngày mua Ruby 20 lần\nMỗi lần Viện trợ nhận 20000 vàng \nMỗi ngày có thể nhận Viện trợ 4 lần"
 		},
 		"vip_desc_4": {
-			"cn": "Có thể mua Túi Quà V4 7000 Mị Lực \nBạn giới hạn 30\nNhận hàng ngày khi còn dưới 50 Ruby (1 lần/ngày)\nEXP nhân vật +4%\nKích Quang Mị Lực +1%\nMỗi ngày mua Ruby 30 lần \nMỗi lần Viện trợ nhận 25000 vàng \nMỗi ngày có thể nhận Viện trợ 5 lần"
+			"cn": "Có thể mua Túi Quà V4 2000 Mị Lực \nBạn giới hạn 30\nNhận hàng ngày khi còn dưới 50 Ruby (1 lần/ngày)\nEXP nhân vật +4%\nKích Quang Mị Lực +1%\nMỗi ngày mua Ruby 30 lần \nMỗi lần Viện trợ nhận 25000 vàng \nMỗi ngày có thể nhận Viện trợ 5 lần"
 		},
 		"vip_desc_5": {
-			"cn": "Có thể mua Túi Quà V5 10000 Mị Lực \nBạn giới hạn 35\nNhận hàng ngày khi còn dưới 60 Ruby (1 lần/ngày)\nEXP nhân vật +5%\nKích Quang Mị Lực +4%\nMỗi ngày mua Ruby 40 lần \nMỗi lần Viện trợ nhận 30000 vàng \nMỗi ngày có thể nhận Viện trợ 5 lần"
+			"cn": "Có thể mua Túi Quà V5 3000 Mị Lực \nBạn giới hạn 35\nNhận hàng ngày khi còn dưới 60 Ruby (1 lần/ngày)\nEXP nhân vật +5%\nKích Quang Mị Lực +4%\nMỗi ngày mua Ruby 40 lần \nMỗi lần Viện trợ nhận 30000 vàng \nMỗi ngày có thể nhận Viện trợ 5 lần"
 		},
 		"vip_desc_6": {
-			"cn": "Có thể mua Túi Quà V6 15000 Mị Lực \nBạn giới hạn 40\nNhận hàng ngày khi còn dưới 70 Ruby (1 lần/ngày)\nEXP nhân vật +6%\nKích Quang Mị Lực +5%\nMỗi ngày mua Ruby 60 lần \nMỗi lần Viện trợ nhận 35000 vàng \nMỗi ngày có thể nhận Viện trợ 6 lần"
+			"cn": "Có thể mua Túi Quà V6 4000 Mị Lực \nBạn giới hạn 40\nNhận hàng ngày khi còn dưới 70 Ruby (1 lần/ngày)\nEXP nhân vật +6%\nKích Quang Mị Lực +5%\nMỗi ngày mua Ruby 60 lần \nMỗi lần Viện trợ nhận 35000 vàng \nMỗi ngày có thể nhận Viện trợ 6 lần"
 		},
 		"vip_desc_7": {
-			"cn": "Có thể mua Túi Quà V7 20000 Mị Lực \nBạn giới hạn 45\nNhận hàng ngày khi còn dưới 80 Ruby (1 lần/ngày)\nEXP nhân vật +7%\nKích Quang Mị Lực +5%\nBom Sơ Cấp Mị Lực +1%\nMỗi ngày mua Ruby 80 lần \nMỗi lần Viện trợ nhận 40000 vàng \nMỗi ngày có thể nhận Viện trợ 6 lần"
+			"cn": "Có thể mua Túi Quà V7 7000 Mị Lực \nBạn giới hạn 45\nNhận hàng ngày khi còn dưới 80 Ruby (1 lần/ngày)\nEXP nhân vật +7%\nKích Quang Mị Lực +5%\nBom Sơ Cấp Mị Lực +1%\nMỗi ngày mua Ruby 80 lần \nMỗi lần Viện trợ nhận 40000 vàng \nMỗi ngày có thể nhận Viện trợ 6 lần"
 		},
 		"vip_desc_8": {
-			"cn": "Có thể mua Túi Quà V8 30000 Mị Lực \nBạn giới hạn 50\nNhận hàng ngày khi còn dưới 90 Ruby (1 lần/ngày)\nEXP nhân vật +8%\nKích Quang Mị Lực +5%\nBom Sơ Cấp Mị Lực +2%\nMỗi ngày mua Ruby 100 lần \nMỗi lần Viện trợ nhận 45000 vàng \nMỗi ngày có thể nhận Viện trợ 7 lần"
+			"cn": "Có thể mua Túi Quà V8 10000 Mị Lực \nBạn giới hạn 50\nNhận hàng ngày khi còn dưới 90 Ruby (1 lần/ngày)\nEXP nhân vật +8%\nKích Quang Mị Lực +5%\nBom Sơ Cấp Mị Lực +2%\nMỗi ngày mua Ruby 100 lần \nMỗi lần Viện trợ nhận 45000 vàng \nMỗi ngày có thể nhận Viện trợ 7 lần"
 		},
 		"vip_desc_9": {
-			"cn": "Có thể mua Túi Quà V9 40000 Mị Lực \nBạn giới hạn 55\nNhận hàng ngày khi còn dưới 100 Ruby (1 lần/ngày)\nEXP nhân vật +9%\nKích Quang Mị Lực +5%\nBom Sơ Cấp Mị Lực +2%\nBom Trung Cấp Mị Lực +1%\nMỗi ngày mua Ruby 150 lần \nMỗi lần Viện trợ nhận 50000 vàng \nMỗi ngày có thể nhận Viện trợ 7 lần"
+			"cn": "Có thể mua Túi Quà V9 20000 Mị Lực \nBạn giới hạn 55\nNhận hàng ngày khi còn dưới 100 Ruby (1 lần/ngày)\nEXP nhân vật +9%\nKích Quang Mị Lực +5%\nBom Sơ Cấp Mị Lực +2%\nBom Trung Cấp Mị Lực +1%\nMỗi ngày mua Ruby 150 lần \nMỗi lần Viện trợ nhận 50000 vàng \nMỗi ngày có thể nhận Viện trợ 7 lần"
 		},
 		"vip_desc_10": {
-			"cn": "Có thể mua Túi Quà V10 50000 Mị Lực \nBạn giới hạn 60\nNhận hàng ngày khi còn dưới 110 Ruby (1 lần/ngày)\nEXP nhân vật +10%\nKích Quang Mị Lực +5%\nBom Sơ Cấp Mị Lực +2%\nBom Trung Cấp Mị Lực +2%\nMỗi ngày mua Ruby 200 lần \nMỗi lần Viện trợ nhận 55000 vàng \nMỗi ngày có thể nhận Viện trợ 8 lần"
+			"cn": "Có thể mua Túi Quà V10 40000 Mị Lực \nBạn giới hạn 60\nNhận hàng ngày khi còn dưới 110 Ruby (1 lần/ngày)\nEXP nhân vật +10%\nKích Quang Mị Lực +5%\nBom Sơ Cấp Mị Lực +2%\nBom Trung Cấp Mị Lực +2%\nMỗi ngày mua Ruby 200 lần \nMỗi lần Viện trợ nhận 55000 vàng \nMỗi ngày có thể nhận Viện trợ 8 lần"
 		},
 		"vip_desc_11": {
 			"cn": "Có thể mua Túi Quà V11 60000 Mị Lực \nBạn giới hạn 65\nNhận hàng ngày khi còn dưới 120 Ruby (1 lần/ngày)\nEXP nhân vật +11%\nKích Quang Mị Lực +5%\nBom Sơ Cấp Mị Lực +3%\nBom Trung Cấp Mị Lực +2%\nMỗi ngày mua Ruby 300 lần \nMỗi lần Viện trợ nhận 60000 vàng \nMỗi ngày có thể nhận Viện trợ 8 lần"
@@ -5031,10 +5031,10 @@
 			"cn": "Có thể mua Túi Quà V13 100000 Mị Lực \nBạn giới hạn 75\nNhận hàng ngày khi còn dưới 140 Ruby (1 lần/ngày)\nEXP nhân vật +13%\nKích Quang Mị Lực +5%\nBom Sơ Cấp Mị Lực +4%\nBom Trung Cấp Mị Lực +3%\nMỗi ngày mua Ruby 600 lần \nMỗi lần Viện trợ nhận 70000 vàng \nMỗi ngày có thể nhận Viện trợ 9 lần"
 		},
 		"vip_desc_14": {
-			"cn": "Có thể mua Túi Quà V14 120000 Mị Lực \nBạn giới hạn 80\nNhận hàng ngày khi còn dưới 150 Ruby (1 lần/ngày)\nEXP nhân vật +14%\nKích Quang Mị Lực +5%\nBom Sơ Cấp Mị Lực +4%\nBom Trung Cấp Mị Lực +4%\nMỗi ngày mua Ruby 800 lần \nMỗi lần Viện trợ nhận 75000 vàng \nMỗi ngày có thể nhận Viện trợ 10 lần"
+			"cn": "Có thể mua Túi Quà V14 150000 Mị Lực \nBạn giới hạn 80\nNhận hàng ngày khi còn dưới 150 Ruby (1 lần/ngày)\nEXP nhân vật +14%\nKích Quang Mị Lực +5%\nBom Sơ Cấp Mị Lực +4%\nBom Trung Cấp Mị Lực +4%\nMỗi ngày mua Ruby 800 lần \nMỗi lần Viện trợ nhận 75000 vàng \nMỗi ngày có thể nhận Viện trợ 10 lần"
 		},
 		"vip_desc_15": {
-			"cn": "Có thể mua Túi Quà V15 150000 Mị Lực \nBạn giới hạn 85\nNhận hàng ngày khi còn dưới 160 Ruby (1 lần/ngày)\nEXP nhân vật +15%\nKích Quang Mị Lực +5%\nBom Sơ Cấp Mị Lực +5%\nBom Trung Cấp Mị Lực +5%\nMỗi ngày mua Ruby 1000 lần \nMỗi lần Viện trợ nhận 80000 vàng \nMỗi ngày có thể nhận Viện trợ 10 lần"
+			"cn": "Có thể mua Túi Quà V15 200000 Mị Lực \nBạn giới hạn 85\nNhận hàng ngày khi còn dưới 160 Ruby (1 lần/ngày)\nEXP nhân vật +15%\nKích Quang Mị Lực +5%\nBom Sơ Cấp Mị Lực +5%\nBom Trung Cấp Mị Lực +5%\nMỗi ngày mua Ruby 1000 lần \nMỗi lần Viện trợ nhận 80000 vàng \nMỗi ngày có thể nhận Viện trợ 10 lần"
 		},
 		"str_wp_tip": {
 			"cn": "%d lần "
@@ -5250,7 +5250,7 @@
 			"cn": "*vip**charm*<color=#00ff00>xx</> Bảo Vệ Nữ Thần đã vượt thành công <color=#00ff00>xx</> ải "
 		},
 		"notify_draw_reward": {
-			"cn": "*vip**charm*<color=#00ff00>xx</> rút thăm Linh kiện nhận <color=#00ff00>xx*xx</>!"
+			"cn": "*vip**charm*<color=#00ff00>xx</> rút thăm Quà may mắn nhận <color=#00ff00>xx*xx</>!"
 		},
 		"notify_goddess_unlock": {
 			"cn": "*vip**charm*<color=#00ff00>xx</> đã mở khóa <color=#00ff00>xx</>, ngưỡng mộ quá đi!"
@@ -7581,16 +7581,7 @@
 			"cn": "%s后关闭新手狂欢"
 		},
 		"str_newbie_1": {
-			"cn": "明日登录送话费券"
-		},
-		"str_newbie_2": {
 			"cn": "明日登录送皮肤"
-		},
-		"str_newbie_3": {
-			"cn": "明日登录送百万金币"
-		},
-		"str_newbie_4": {
-			"cn": "明日登录送核弹"
 		},
 		"str_goddess_free_enter": {
 			"cn": "今日还可免费进入%d次"

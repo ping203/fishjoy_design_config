@@ -4947,7 +4947,7 @@
 			"needgold": 10000,
 			"progoldadd": 0,
 			"protimecut": 0,
-			"charm": 5
+			"charm": 4
 		},
 		{
 			"level": 2,
@@ -4955,7 +4955,7 @@
 			"needgold": 50000,
 			"progoldadd": 1,
 			"protimecut": 0,
-			"charm": 10
+			"charm": 12
 		},
 		{
 			"level": 3,
@@ -4963,7 +4963,7 @@
 			"needgold": 100000,
 			"progoldadd": 1,
 			"protimecut": 0.1,
-			"charm": 15
+			"charm": 28
 		},
 		{
 			"level": 4,
@@ -4971,7 +4971,7 @@
 			"needgold": 200000,
 			"progoldadd": 2,
 			"protimecut": 0.1,
-			"charm": 25
+			"charm": 48
 		},
 		{
 			"level": 5,
@@ -4979,7 +4979,7 @@
 			"needgold": 400000,
 			"progoldadd": 2,
 			"protimecut": 0.2,
-			"charm": 40
+			"charm": 72
 		},
 		{
 			"level": 6,
@@ -4987,7 +4987,7 @@
 			"needgold": 700000,
 			"progoldadd": 3,
 			"protimecut": 0.2,
-			"charm": 60
+			"charm": 100
 		},
 		{
 			"level": 7,
@@ -4995,7 +4995,7 @@
 			"needgold": 1000000,
 			"progoldadd": 3,
 			"protimecut": 0.3,
-			"charm": 80
+			"charm": 132
 		},
 		{
 			"level": 8,
@@ -5003,7 +5003,7 @@
 			"needgold": 1800000,
 			"progoldadd": 4,
 			"protimecut": 0.3,
-			"charm": 100
+			"charm": 168
 		},
 		{
 			"level": 9,
@@ -5011,7 +5011,7 @@
 			"needgold": 4000000,
 			"progoldadd": 4,
 			"protimecut": 0.4,
-			"charm": 120
+			"charm": 208
 		},
 		{
 			"level": 10,
@@ -5019,7 +5019,7 @@
 			"needgold": 8000000,
 			"progoldadd": 5,
 			"protimecut": 0.4,
-			"charm": 150
+			"charm": 252
 		},
 		{
 			"level": 11,
@@ -5027,7 +5027,7 @@
 			"needgold": 10000000,
 			"progoldadd": 5,
 			"protimecut": 0.5,
-			"charm": 200
+			"charm": 298
 		},
 		{
 			"level": 12,
@@ -5035,7 +5035,7 @@
 			"needgold": 12000000,
 			"progoldadd": 5,
 			"protimecut": 0.5,
-			"charm": 250
+			"charm": 350
 		}
 	],
 	"common_const_cfg.json": {
@@ -5083,7 +5083,7 @@
 		"CHANGE_CASH_3": 3,
 		"CHANGE_CASH_4": 3.75,
 		"CHANGE_CASH_5": 100,
-		"NEWBIE_WELFARE": [["str_newbie_1","",""],["","xs100hf","dhqicon"],["str_newbie_2","",""],["","xspf","ryjppficon"],["str_newbie_3","",""],["","xs100w","100wjbkicon"],["str_newbie_4","",""],["","xs5hd","hedan1"]],
+		"NEWBIE_WELFARE": [["str_newbie_1","",""],["","xspf","ryjppficon"],["","",""],["","",""],["","",""],["","",""],["","",""],["","",""]],
 		"WEAPONUP_ITEM_PAY": [["i002",1]],
 		"GODDESS_ENTER_COST": [0,0,0,0,0,5,5,10,10,15,15,20]
 	},
@@ -37933,7 +37933,7 @@
 			"skinsound": "fight_fire2",
 			"bullet_key": "zidanemo",
 			"icon": "empficon",
-			"charm": 150,
+			"charm": 250,
 			"sp": 1000,
 			"bounce": 4,
 			"effectvalue": 0,
@@ -37970,7 +37970,7 @@
 			"skinsound": "fight_fire3",
 			"bullet_key": "tianshizidan",
 			"icon": "tspficon",
-			"charm": 600,
+			"charm": 1000,
 			"sp": 1000,
 			"bounce": 999,
 			"effectvalue": 0,
@@ -38007,7 +38007,7 @@
 			"skinsound": "fight_fire4",
 			"bullet_key": "zidanjixie",
 			"icon": "dcpficon",
-			"charm": 240,
+			"charm": 400,
 			"sp": 1000,
 			"bounce": 3,
 			"effectvalue": 0,
@@ -38044,7 +38044,7 @@
 			"skinsound": "fight_fire5",
 			"bullet_key": "zidanshuipao",
 			"icon": "ryjppficon",
-			"charm": 90,
+			"charm": 150,
 			"sp": 2000,
 			"bounce": 5,
 			"effectvalue": 0,
@@ -38081,7 +38081,7 @@
 			"skinsound": "fight_fire6",
 			"bullet_key": "zidanshuipao",
 			"icon": "jcpficon",
-			"charm": 630,
+			"charm": 1050,
 			"sp": 8000,
 			"bounce": 0,
 			"effectvalue": 0,
@@ -38118,7 +38118,7 @@
 			"skinsound": "fight_fire7",
 			"bullet_key": "zidanzj",
 			"icon": "zjpficon",
-			"charm": 690,
+			"charm": 1150,
 			"sp": 1000,
 			"bounce": 999,
 			"effectvalue": 0,
@@ -38155,7 +38155,7 @@
 			"skinsound": "fight_fire7",
 			"bullet_key": "zidanppt",
 			"icon": "pptpficon",
-			"charm": 750,
+			"charm": 1250,
 			"sp": 1000,
 			"bounce": 0,
 			"effectvalue": 0.13,
@@ -38192,7 +38192,7 @@
 			"skinsound": "fight_fire9",
 			"bullet_key": "jiatelinzidan",
 			"icon": "hjjtlpficon",
-			"charm": 630,
+			"charm": 1050,
 			"sp": 1000,
 			"bounce": 999,
 			"effectvalue": 0,
@@ -38229,7 +38229,7 @@
 			"skinsound": "fight_fire10",
 			"bullet_key": "0",
 			"icon": "xjglpficon",
-			"charm": 480,
+			"charm": 800,
 			"sp": 1000,
 			"bounce": 0,
 			"effectvalue": 100.801,
@@ -38266,7 +38266,7 @@
 			"skinsound": "fight_fire9",
 			"bullet_key": "dwzidan_01,dwzidan_02,dwzidan_03,dwzidan_04,dwzidan_05",
 			"icon": "dwjypficon",
-			"charm": 660,
+			"charm": 1100,
 			"sp": 1000,
 			"bounce": 999,
 			"effectvalue": 0.15,
@@ -38303,7 +38303,7 @@
 			"skinsound": "fight_fire12",
 			"bullet_key": "12zidan",
 			"icon": "szaspficon",
-			"charm": 780,
+			"charm": 1300,
 			"sp": 1000,
 			"bounce": 999,
 			"effectvalue": 0.7,
@@ -38340,7 +38340,7 @@
 			"skinsound": "fight_fire13",
 			"bullet_key": "13zidan",
 			"icon": "cynspficon",
-			"charm": 930,
+			"charm": 1550,
 			"sp": 1000,
 			"bounce": 999,
 			"effectvalue": 1,
@@ -38377,7 +38377,7 @@
 			"skinsound": "fight_fire14",
 			"bullet_key": "14zidan",
 			"icon": "yueliangtuicon",
-			"charm": 1080,
+			"charm": 1800,
 			"sp": 500,
 			"bounce": 999,
 			"effectvalue": 0.504,
@@ -38414,7 +38414,7 @@
 			"skinsound": "fight_fire15",
 			"bullet_key": "15zidan",
 			"icon": "qian20icon",
-			"charm": 1080,
+			"charm": 1800,
 			"sp": 500,
 			"bounce": 999,
 			"effectvalue": 1,
@@ -38447,7 +38447,7 @@
 			"unlock_cost": 0,
 			"unlock_material": [],
 			"unlock_rate": 1,
-			"weaponspct": 0.89,
+			"weaponspct": 0.9,
 			"unlock_level": 0,
 			"needpower": 3000,
 			"addpower": 1
@@ -38458,7 +38458,7 @@
 			"unlock_cost": 6,
 			"unlock_material": [],
 			"unlock_rate": 1,
-			"weaponspct": 0.89,
+			"weaponspct": 0.9,
 			"unlock_level": 0,
 			"needpower": 3000,
 			"addpower": 1
@@ -38469,7 +38469,7 @@
 			"unlock_cost": 12,
 			"unlock_material": [],
 			"unlock_rate": 1,
-			"weaponspct": 0.89,
+			"weaponspct": 0.9,
 			"unlock_level": 0,
 			"needpower": 3000,
 			"addpower": 1
@@ -38480,7 +38480,7 @@
 			"unlock_cost": 15,
 			"unlock_material": [],
 			"unlock_rate": 1,
-			"weaponspct": 0.89,
+			"weaponspct": 0.9,
 			"unlock_level": 0,
 			"needpower": 3000,
 			"addpower": 1
@@ -38491,7 +38491,7 @@
 			"unlock_cost": 18,
 			"unlock_material": [],
 			"unlock_rate": 1,
-			"weaponspct": 0.89,
+			"weaponspct": 0.9,
 			"unlock_level": 0,
 			"needpower": 3000,
 			"addpower": 1
@@ -38502,7 +38502,7 @@
 			"unlock_cost": 21,
 			"unlock_material": [],
 			"unlock_rate": 1,
-			"weaponspct": 0.89,
+			"weaponspct": 0.9,
 			"unlock_level": 0,
 			"needpower": 3000,
 			"addpower": 1
@@ -38513,7 +38513,7 @@
 			"unlock_cost": 24,
 			"unlock_material": [],
 			"unlock_rate": 1,
-			"weaponspct": 0.89,
+			"weaponspct": 0.9,
 			"unlock_level": 0,
 			"needpower": 3000,
 			"addpower": 1
@@ -38524,7 +38524,7 @@
 			"unlock_cost": 27,
 			"unlock_material": [],
 			"unlock_rate": 1,
-			"weaponspct": 0.89,
+			"weaponspct": 0.9,
 			"unlock_level": 0,
 			"needpower": 3000,
 			"addpower": 1
@@ -38535,7 +38535,7 @@
 			"unlock_cost": 30,
 			"unlock_material": [],
 			"unlock_rate": 1,
-			"weaponspct": 0.89,
+			"weaponspct": 0.9,
 			"unlock_level": 0,
 			"needpower": 3000,
 			"addpower": 1
@@ -38546,7 +38546,7 @@
 			"unlock_cost": 33,
 			"unlock_material": [],
 			"unlock_rate": 1,
-			"weaponspct": 0.89,
+			"weaponspct": 0.9,
 			"unlock_level": 0,
 			"needpower": 3000,
 			"addpower": 1
@@ -38557,7 +38557,7 @@
 			"unlock_cost": 36,
 			"unlock_material": [],
 			"unlock_rate": 1,
-			"weaponspct": 0.89,
+			"weaponspct": 0.9,
 			"unlock_level": 0,
 			"needpower": 3000,
 			"addpower": 1
@@ -38568,7 +38568,7 @@
 			"unlock_cost": 39,
 			"unlock_material": [],
 			"unlock_rate": 1,
-			"weaponspct": 0.885,
+			"weaponspct": 0.895,
 			"unlock_level": 0,
 			"needpower": 3000,
 			"addpower": 1
@@ -38579,7 +38579,7 @@
 			"unlock_cost": 45,
 			"unlock_material": [],
 			"unlock_rate": 1,
-			"weaponspct": 0.885,
+			"weaponspct": 0.895,
 			"unlock_level": 0,
 			"needpower": 3000,
 			"addpower": 1
@@ -38590,7 +38590,7 @@
 			"unlock_cost": 54,
 			"unlock_material": [],
 			"unlock_rate": 1,
-			"weaponspct": 0.885,
+			"weaponspct": 0.895,
 			"unlock_level": 0,
 			"needpower": 3000,
 			"addpower": 1
@@ -38601,7 +38601,7 @@
 			"unlock_cost": 60,
 			"unlock_material": [],
 			"unlock_rate": 1,
-			"weaponspct": 0.885,
+			"weaponspct": 0.895,
 			"unlock_level": 0,
 			"needpower": 3000,
 			"addpower": 1
@@ -38612,7 +38612,7 @@
 			"unlock_cost": 75,
 			"unlock_material": [],
 			"unlock_rate": 1,
-			"weaponspct": 0.885,
+			"weaponspct": 0.895,
 			"unlock_level": 0,
 			"needpower": 3000,
 			"addpower": 1
@@ -38623,7 +38623,7 @@
 			"unlock_cost": 90,
 			"unlock_material": [],
 			"unlock_rate": 1,
-			"weaponspct": 0.885,
+			"weaponspct": 0.895,
 			"unlock_level": 0,
 			"needpower": 3000,
 			"addpower": 1
@@ -38634,7 +38634,7 @@
 			"unlock_cost": 120,
 			"unlock_material": [],
 			"unlock_rate": 1,
-			"weaponspct": 0.885,
+			"weaponspct": 0.895,
 			"unlock_level": 0,
 			"needpower": 3000,
 			"addpower": 1
@@ -38645,7 +38645,7 @@
 			"unlock_cost": 150,
 			"unlock_material": [],
 			"unlock_rate": 1,
-			"weaponspct": 0.885,
+			"weaponspct": 0.895,
 			"unlock_level": 0,
 			"needpower": 3000,
 			"addpower": 1
@@ -38656,7 +38656,7 @@
 			"unlock_cost": 180,
 			"unlock_material": [],
 			"unlock_rate": 1,
-			"weaponspct": 0.885,
+			"weaponspct": 0.895,
 			"unlock_level": 0,
 			"needpower": 3000,
 			"addpower": 1
@@ -38667,7 +38667,7 @@
 			"unlock_cost": 240,
 			"unlock_material": [],
 			"unlock_rate": 1,
-			"weaponspct": 0.885,
+			"weaponspct": 0.895,
 			"unlock_level": 0,
 			"needpower": 3000,
 			"addpower": 1
@@ -38678,7 +38678,7 @@
 			"unlock_cost": 300,
 			"unlock_material": [],
 			"unlock_rate": 1,
-			"weaponspct": 0.885,
+			"weaponspct": 0.895,
 			"unlock_level": 0,
 			"needpower": 3000,
 			"addpower": 1
@@ -38689,7 +38689,7 @@
 			"unlock_cost": 360,
 			"unlock_material": [],
 			"unlock_rate": 1,
-			"weaponspct": 0.885,
+			"weaponspct": 0.895,
 			"unlock_level": 0,
 			"needpower": 3000,
 			"addpower": 1
@@ -38700,7 +38700,7 @@
 			"unlock_cost": 420,
 			"unlock_material": [],
 			"unlock_rate": 1,
-			"weaponspct": 0.885,
+			"weaponspct": 0.895,
 			"unlock_level": 0,
 			"needpower": 3000,
 			"addpower": 1
@@ -38711,7 +38711,7 @@
 			"unlock_cost": 480,
 			"unlock_material": [],
 			"unlock_rate": 1,
-			"weaponspct": 0.885,
+			"weaponspct": 0.895,
 			"unlock_level": 0,
 			"needpower": 3000,
 			"addpower": 1
@@ -38722,7 +38722,7 @@
 			"unlock_cost": 540,
 			"unlock_material": [],
 			"unlock_rate": 1,
-			"weaponspct": 0.88,
+			"weaponspct": 0.89,
 			"unlock_level": 0,
 			"needpower": 3000,
 			"addpower": 1
@@ -38733,7 +38733,7 @@
 			"unlock_cost": 600,
 			"unlock_material": [],
 			"unlock_rate": 1,
-			"weaponspct": 0.88,
+			"weaponspct": 0.89,
 			"unlock_level": 0,
 			"needpower": 3000,
 			"addpower": 1
@@ -38744,7 +38744,7 @@
 			"unlock_cost": 750,
 			"unlock_material": [],
 			"unlock_rate": 1,
-			"weaponspct": 0.88,
+			"weaponspct": 0.89,
 			"unlock_level": 0,
 			"needpower": 3000,
 			"addpower": 1
@@ -38755,7 +38755,7 @@
 			"unlock_cost": 900,
 			"unlock_material": [],
 			"unlock_rate": 1,
-			"weaponspct": 0.88,
+			"weaponspct": 0.89,
 			"unlock_level": 0,
 			"needpower": 3000,
 			"addpower": 1
@@ -38766,7 +38766,7 @@
 			"unlock_cost": 1050,
 			"unlock_material": [],
 			"unlock_rate": 1,
-			"weaponspct": 0.88,
+			"weaponspct": 0.89,
 			"unlock_level": 0,
 			"needpower": 3000,
 			"addpower": 1
@@ -38777,7 +38777,7 @@
 			"unlock_cost": 1200,
 			"unlock_material": [],
 			"unlock_rate": 1,
-			"weaponspct": 0.88,
+			"weaponspct": 0.89,
 			"unlock_level": 0,
 			"needpower": 3000,
 			"addpower": 1
@@ -38788,7 +38788,7 @@
 			"unlock_cost": 1350,
 			"unlock_material": [],
 			"unlock_rate": 1,
-			"weaponspct": 0.88,
+			"weaponspct": 0.89,
 			"unlock_level": 0,
 			"needpower": 3000,
 			"addpower": 1
@@ -38799,7 +38799,7 @@
 			"unlock_cost": 1500,
 			"unlock_material": [],
 			"unlock_rate": 1,
-			"weaponspct": 0.875,
+			"weaponspct": 0.885,
 			"unlock_level": 0,
 			"needpower": 3000,
 			"addpower": 1
@@ -38810,7 +38810,7 @@
 			"unlock_cost": 1500,
 			"unlock_material": [["i015",1],["i501",10],["i502",10],["i503",10]],
 			"unlock_rate": 1,
-			"weaponspct": 0.875,
+			"weaponspct": 0.885,
 			"unlock_level": 0,
 			"needpower": 3000,
 			"addpower": 1
@@ -38821,7 +38821,7 @@
 			"unlock_cost": 1500,
 			"unlock_material": [["i015",1],["i502",20],["i503",20],["i504",20]],
 			"unlock_rate": 0.95,
-			"weaponspct": 0.875,
+			"weaponspct": 0.885,
 			"unlock_level": 0,
 			"needpower": 3000,
 			"addpower": 1
@@ -38832,7 +38832,7 @@
 			"unlock_cost": 1500,
 			"unlock_material": [["i015",1],["i503",30],["i504",30],["i505",30]],
 			"unlock_rate": 0.9,
-			"weaponspct": 0.875,
+			"weaponspct": 0.885,
 			"unlock_level": 0,
 			"needpower": 3000,
 			"addpower": 1
@@ -38843,7 +38843,7 @@
 			"unlock_cost": 1500,
 			"unlock_material": [["i015",1],["i504",40],["i505",40],["i501",40]],
 			"unlock_rate": 0.85,
-			"weaponspct": 0.875,
+			"weaponspct": 0.885,
 			"unlock_level": 0,
 			"needpower": 3000,
 			"addpower": 1
@@ -38854,7 +38854,7 @@
 			"unlock_cost": 1500,
 			"unlock_material": [["i015",1],["i505",50],["i501",50],["i502",50]],
 			"unlock_rate": 0.8,
-			"weaponspct": 0.875,
+			"weaponspct": 0.885,
 			"unlock_level": 0,
 			"needpower": 3000,
 			"addpower": 1
@@ -38865,7 +38865,7 @@
 			"unlock_cost": 1500,
 			"unlock_material": [["i016",1],["i501",100],["i502",100],["i503",100]],
 			"unlock_rate": 0.79,
-			"weaponspct": 0.87,
+			"weaponspct": 0.88,
 			"unlock_level": 0,
 			"needpower": 3000,
 			"addpower": 1
@@ -38876,304 +38876,304 @@
 			"unlock_cost": 1500,
 			"unlock_material": [["i016",1],["i502",150],["i503",150],["i504",150]],
 			"unlock_rate": 0.78,
-			"weaponspct": 0.87,
+			"weaponspct": 0.88,
 			"unlock_level": 0,
 			"needpower": 3000,
 			"addpower": 1
 		},
 		"3000": {
 			"weaponlevel": 3000,
-			"charm": 3000,
+			"charm": 3200,
 			"unlock_cost": 1500,
 			"unlock_material": [["i016",1],["i503",200],["i504",200],["i505",200]],
 			"unlock_rate": 0.77,
-			"weaponspct": 0.87,
+			"weaponspct": 0.88,
 			"unlock_level": 0,
 			"needpower": 3000,
 			"addpower": 1
 		},
 		"3500": {
 			"weaponlevel": 3500,
-			"charm": 3200,
+			"charm": 3600,
 			"unlock_cost": 1500,
 			"unlock_material": [["i016",1],["i504",250],["i505",250],["i501",250]],
 			"unlock_rate": 0.76,
-			"weaponspct": 0.87,
+			"weaponspct": 0.88,
 			"unlock_level": 0,
 			"needpower": 3000,
 			"addpower": 1
 		},
 		"4000": {
 			"weaponlevel": 4000,
-			"charm": 3400,
+			"charm": 4000,
 			"unlock_cost": 1500,
 			"unlock_material": [["i016",1],["i505",300],["i501",300],["i502",300]],
 			"unlock_rate": 0.75,
-			"weaponspct": 0.87,
+			"weaponspct": 0.88,
 			"unlock_level": 0,
 			"needpower": 3000,
 			"addpower": 1
 		},
 		"4500": {
 			"weaponlevel": 4500,
-			"charm": 3600,
+			"charm": 4400,
 			"unlock_cost": 1500,
 			"unlock_material": [["i016",1],["i501",350],["i502",350],["i503",350]],
 			"unlock_rate": 0.74,
-			"weaponspct": 0.87,
+			"weaponspct": 0.88,
 			"unlock_level": 0,
 			"needpower": 3000,
 			"addpower": 1
 		},
 		"5000": {
 			"weaponlevel": 5000,
-			"charm": 3800,
+			"charm": 4800,
 			"unlock_cost": 1500,
 			"unlock_material": [["i017",1],["i502",400],["i503",400],["i504",400]],
 			"unlock_rate": 0.73,
-			"weaponspct": 0.87,
+			"weaponspct": 0.88,
 			"unlock_level": 0,
 			"needpower": 3000,
 			"addpower": 1
 		},
 		"6000": {
 			"weaponlevel": 6000,
-			"charm": 4000,
+			"charm": 5200,
 			"unlock_cost": 1500,
 			"unlock_material": [["i017",1],["i503",500],["i504",500],["i505",500]],
 			"unlock_rate": 0.72,
-			"weaponspct": 0.87,
+			"weaponspct": 0.88,
 			"unlock_level": 0,
 			"needpower": 3000,
 			"addpower": 1
 		},
 		"7000": {
 			"weaponlevel": 7000,
-			"charm": 4200,
+			"charm": 5600,
 			"unlock_cost": 1500,
 			"unlock_material": [["i017",1],["i504",600],["i505",600],["i501",600]],
 			"unlock_rate": 0.71,
-			"weaponspct": 0.87,
+			"weaponspct": 0.88,
 			"unlock_level": 0,
 			"needpower": 3000,
 			"addpower": 1
 		},
 		"8000": {
 			"weaponlevel": 8000,
-			"charm": 4400,
+			"charm": 6000,
 			"unlock_cost": 1500,
 			"unlock_material": [["i017",1],["i505",800],["i501",800],["i502",800]],
 			"unlock_rate": 0.7,
-			"weaponspct": 0.87,
+			"weaponspct": 0.88,
 			"unlock_level": 0,
 			"needpower": 3000,
 			"addpower": 1
 		},
 		"9000": {
 			"weaponlevel": 9000,
-			"charm": 4600,
+			"charm": 6400,
 			"unlock_cost": 1575,
 			"unlock_material": [["i017",1],["i501",1000],["i502",1000],["i503",1000]],
 			"unlock_rate": 0.69,
-			"weaponspct": 0.87,
+			"weaponspct": 0.88,
 			"unlock_level": 0,
 			"needpower": 3000,
 			"addpower": 1
 		},
 		"10000": {
 			"weaponlevel": 10000,
-			"charm": 4800,
+			"charm": 8000,
 			"unlock_cost": 1650,
 			"unlock_material": [["i017",1],["i502",1500],["i503",1500],["i505",1500]],
 			"unlock_rate": 0.68,
-			"weaponspct": 0.865,
+			"weaponspct": 0.875,
 			"unlock_level": 0,
 			"needpower": 3000,
 			"addpower": 1
 		},
 		"11000": {
 			"weaponlevel": 11000,
-			"charm": 5000,
+			"charm": 8800,
 			"unlock_cost": 1800,
 			"unlock_material": [["i017",2],["i502",1600],["i503",1600],["i505",1600]],
 			"unlock_rate": 0.67,
-			"weaponspct": 0.865,
+			"weaponspct": 0.875,
 			"unlock_level": 0,
 			"needpower": 3000,
 			"addpower": 1
 		},
 		"12000": {
 			"weaponlevel": 12000,
-			"charm": 5200,
+			"charm": 9600,
 			"unlock_cost": 1800,
 			"unlock_material": [["i017",2],["i502",1700],["i503",1700],["i505",1700]],
 			"unlock_rate": 0.66,
-			"weaponspct": 0.865,
+			"weaponspct": 0.875,
 			"unlock_level": 0,
 			"needpower": 3000,
 			"addpower": 1
 		},
 		"13000": {
 			"weaponlevel": 13000,
-			"charm": 5400,
+			"charm": 10400,
 			"unlock_cost": 1800,
 			"unlock_material": [["i017",2],["i502",1800],["i503",1800],["i505",1800]],
 			"unlock_rate": 0.65,
-			"weaponspct": 0.865,
+			"weaponspct": 0.875,
 			"unlock_level": 0,
 			"needpower": 3000,
 			"addpower": 1
 		},
 		"14000": {
 			"weaponlevel": 14000,
-			"charm": 5600,
+			"charm": 11200,
 			"unlock_cost": 1800,
 			"unlock_material": [["i017",2],["i502",1900],["i503",1900],["i505",1900]],
 			"unlock_rate": 0.64,
-			"weaponspct": 0.865,
+			"weaponspct": 0.875,
 			"unlock_level": 0,
 			"needpower": 3000,
 			"addpower": 1
 		},
 		"15000": {
 			"weaponlevel": 15000,
-			"charm": 5800,
+			"charm": 12000,
 			"unlock_cost": 1800,
 			"unlock_material": [["i017",2],["i502",2000],["i503",2000],["i505",2000]],
 			"unlock_rate": 0.63,
-			"weaponspct": 0.865,
+			"weaponspct": 0.875,
 			"unlock_level": 0,
 			"needpower": 3000,
 			"addpower": 1
 		},
 		"20000": {
 			"weaponlevel": 20000,
-			"charm": 6000,
+			"charm": 12800,
 			"unlock_cost": 1800,
 			"unlock_material": [["i017",3],["i502",2200],["i503",2200],["i505",2200]],
 			"unlock_rate": 0.62,
-			"weaponspct": 0.865,
+			"weaponspct": 0.875,
 			"unlock_level": 0,
 			"needpower": 3000,
 			"addpower": 1
 		},
 		"25000": {
 			"weaponlevel": 25000,
-			"charm": 6200,
+			"charm": 13600,
 			"unlock_cost": 1800,
 			"unlock_material": [["i017",3],["i502",2400],["i503",2400],["i505",2400]],
 			"unlock_rate": 0.61,
-			"weaponspct": 0.865,
+			"weaponspct": 0.875,
 			"unlock_level": 0,
 			"needpower": 3000,
 			"addpower": 1
 		},
 		"30000": {
 			"weaponlevel": 30000,
-			"charm": 6400,
+			"charm": 14400,
 			"unlock_cost": 1800,
 			"unlock_material": [["i017",3],["i502",2600],["i503",2600],["i505",2600]],
 			"unlock_rate": 0.6,
-			"weaponspct": 0.865,
+			"weaponspct": 0.875,
 			"unlock_level": 0,
 			"needpower": 3000,
 			"addpower": 1
 		},
 		"35000": {
 			"weaponlevel": 35000,
-			"charm": 6600,
+			"charm": 15200,
 			"unlock_cost": 1800,
 			"unlock_material": [["i017",3],["i502",2800],["i503",2800],["i505",2800]],
 			"unlock_rate": 0.59,
-			"weaponspct": 0.865,
+			"weaponspct": 0.875,
 			"unlock_level": 0,
 			"needpower": 3000,
 			"addpower": 1
 		},
 		"40000": {
 			"weaponlevel": 40000,
-			"charm": 6800,
+			"charm": 16000,
 			"unlock_cost": 1800,
 			"unlock_material": [["i017",3],["i502",3000],["i503",3000],["i505",3000]],
 			"unlock_rate": 0.58,
-			"weaponspct": 0.865,
+			"weaponspct": 0.875,
 			"unlock_level": 0,
 			"needpower": 3000,
 			"addpower": 1
 		},
 		"45000": {
 			"weaponlevel": 45000,
-			"charm": 7000,
+			"charm": 16800,
 			"unlock_cost": 1800,
 			"unlock_material": [["i017",3],["i502",3200],["i503",3200],["i505",3200]],
 			"unlock_rate": 0.57,
-			"weaponspct": 0.865,
+			"weaponspct": 0.875,
 			"unlock_level": 0,
 			"needpower": 3000,
 			"addpower": 1
 		},
 		"50000": {
 			"weaponlevel": 50000,
-			"charm": 7200,
+			"charm": 17600,
 			"unlock_cost": 1800,
 			"unlock_material": [["i017",3],["i502",3500],["i503",3500],["i505",3500]],
 			"unlock_rate": 0.56,
-			"weaponspct": 0.865,
+			"weaponspct": 0.875,
 			"unlock_level": 0,
 			"needpower": 3000,
 			"addpower": 1
 		},
 		"60000": {
 			"weaponlevel": 60000,
-			"charm": 7400,
+			"charm": 18400,
 			"unlock_cost": 1800,
 			"unlock_material": [["i017",4],["i502",4000],["i503",4000],["i505",4000]],
 			"unlock_rate": 0.55,
-			"weaponspct": 0.865,
+			"weaponspct": 0.875,
 			"unlock_level": 0,
 			"needpower": 3000,
 			"addpower": 1
 		},
 		"70000": {
 			"weaponlevel": 70000,
-			"charm": 7600,
+			"charm": 19200,
 			"unlock_cost": 1800,
 			"unlock_material": [["i017",5],["i502",4500],["i503",4500],["i505",4500]],
 			"unlock_rate": 0.54,
-			"weaponspct": 0.865,
+			"weaponspct": 0.875,
 			"unlock_level": 0,
 			"needpower": 3000,
 			"addpower": 1
 		},
 		"80000": {
 			"weaponlevel": 80000,
-			"charm": 7800,
+			"charm": 20000,
 			"unlock_cost": 1800,
 			"unlock_material": [["i017",6],["i502",5000],["i503",5000],["i505",5000]],
 			"unlock_rate": 0.53,
-			"weaponspct": 0.865,
+			"weaponspct": 0.875,
 			"unlock_level": 0,
 			"needpower": 3000,
 			"addpower": 1
 		},
 		"90000": {
 			"weaponlevel": 90000,
-			"charm": 8000,
+			"charm": 20800,
 			"unlock_cost": 1800,
 			"unlock_material": [["i017",7],["i502",5500],["i503",5500],["i505",5500]],
 			"unlock_rate": 0.52,
-			"weaponspct": 0.865,
+			"weaponspct": 0.875,
 			"unlock_level": 0,
 			"needpower": 3000,
 			"addpower": 1
 		},
 		"100000": {
 			"weaponlevel": 100000,
-			"charm": 8200,
+			"charm": 21600,
 			"unlock_cost": 1800,
 			"unlock_material": [["i017",8],["i502",6000],["i503",6000],["i505",6000]],
 			"unlock_rate": 0.51,
-			"weaponspct": 0.865,
+			"weaponspct": 0.875,
 			"unlock_level": 0,
 			"needpower": 3000,
 			"addpower": 1
@@ -39183,7 +39183,7 @@
 		{
 			"id": 1,
 			"star": 0,
-			"charm": 0,
+			"charm": 100,
 			"cost": 0,
 			"item": [],
 			"effect": ["","",""],
@@ -39201,8 +39201,8 @@
 		{
 			"id": 1,
 			"star": 1,
-			"charm": 30,
-			"cost": 50000,
+			"charm": 150,
+			"cost": 40000,
 			"item": ["w501",5],
 			"effect": ["","",""],
 			"golden": 0,
@@ -39219,8 +39219,8 @@
 		{
 			"id": 1,
 			"star": 2,
-			"charm": 60,
-			"cost": 200000,
+			"charm": 200,
+			"cost": 120000,
 			"item": ["w501",10],
 			"effect": ["01z1","",""],
 			"golden": 0,
@@ -39237,8 +39237,8 @@
 		{
 			"id": 1,
 			"star": 3,
-			"charm": 90,
-			"cost": 400000,
+			"charm": 250,
+			"cost": 240000,
 			"item": ["w501",20],
 			"effect": ["01z1","",""],
 			"golden": 0,
@@ -39255,8 +39255,8 @@
 		{
 			"id": 1,
 			"star": 4,
-			"charm": 120,
-			"cost": 600000,
+			"charm": 300,
+			"cost": 400000,
 			"item": ["w501",30],
 			"effect": ["01z1","",""],
 			"golden": 0,
@@ -39273,8 +39273,8 @@
 		{
 			"id": 1,
 			"star": 5,
-			"charm": 150,
-			"cost": 800000,
+			"charm": 350,
+			"cost": 600000,
 			"item": ["w501",60],
 			"effect": ["01z1","wp_star_01",""],
 			"golden": 0,
@@ -39291,8 +39291,8 @@
 		{
 			"id": 1,
 			"star": 6,
-			"charm": 180,
-			"cost": 1000000,
+			"charm": 400,
+			"cost": 840000,
 			"item": ["w501",100],
 			"effect": ["01z1","wp_star_01",""],
 			"golden": 0,
@@ -39309,8 +39309,8 @@
 		{
 			"id": 1,
 			"star": 7,
-			"charm": 210,
-			"cost": 1500000,
+			"charm": 450,
+			"cost": 1120000,
 			"item": ["w501",150],
 			"effect": ["01z1","wp_star_01",""],
 			"golden": 0,
@@ -39327,8 +39327,8 @@
 		{
 			"id": 1,
 			"star": 8,
-			"charm": 240,
-			"cost": 2000000,
+			"charm": 500,
+			"cost": 1440000,
 			"item": ["w501",200],
 			"effect": ["01z1","wp_star_01","3jie"],
 			"golden": 0,
@@ -39345,8 +39345,8 @@
 		{
 			"id": 1,
 			"star": 9,
-			"charm": 300,
-			"cost": 2500000,
+			"charm": 600,
+			"cost": 1800000,
 			"item": ["w501",300],
 			"effect": ["01z1","wp_star_01","3jie"],
 			"golden": 0,
@@ -39363,8 +39363,8 @@
 		{
 			"id": 1,
 			"star": 10,
-			"charm": 360,
-			"cost": 3000000,
+			"charm": 700,
+			"cost": 2200000,
 			"item": ["w501",400],
 			"effect": ["01z1","wp_star_01","4jie"],
 			"golden": 0,
@@ -39381,8 +39381,8 @@
 		{
 			"id": 1,
 			"star": 11,
-			"charm": 420,
-			"cost": 4000000,
+			"charm": 800,
+			"cost": 2640000,
 			"item": ["w501",600],
 			"effect": ["01z1","wp_star_01","4jie"],
 			"golden": 0,
@@ -39399,8 +39399,8 @@
 		{
 			"id": 1,
 			"star": 12,
-			"charm": 480,
-			"cost": 5000000,
+			"charm": 900,
+			"cost": 3120000,
 			"item": ["w501",800],
 			"effect": ["01z1","wp_star_01","4jie"],
 			"golden": 0,
@@ -39417,7 +39417,7 @@
 		{
 			"id": 2,
 			"star": 0,
-			"charm": 0,
+			"charm": 250,
 			"cost": 0,
 			"item": [],
 			"effect": ["","",""],
@@ -39435,8 +39435,8 @@
 		{
 			"id": 2,
 			"star": 1,
-			"charm": 75,
-			"cost": 50000,
+			"charm": 375,
+			"cost": 40000,
 			"item": ["w502",5],
 			"effect": ["","",""],
 			"golden": 0,
@@ -39453,8 +39453,8 @@
 		{
 			"id": 2,
 			"star": 2,
-			"charm": 150,
-			"cost": 200000,
+			"charm": 500,
+			"cost": 120000,
 			"item": ["w502",10],
 			"effect": ["02z1","",""],
 			"golden": 0,
@@ -39471,8 +39471,8 @@
 		{
 			"id": 2,
 			"star": 3,
-			"charm": 225,
-			"cost": 400000,
+			"charm": 625,
+			"cost": 240000,
 			"item": ["w502",20],
 			"effect": ["02z1","",""],
 			"golden": 0,
@@ -39489,8 +39489,8 @@
 		{
 			"id": 2,
 			"star": 4,
-			"charm": 300,
-			"cost": 600000,
+			"charm": 750,
+			"cost": 400000,
 			"item": ["w502",30],
 			"effect": ["02z1","",""],
 			"golden": 0,
@@ -39507,8 +39507,8 @@
 		{
 			"id": 2,
 			"star": 5,
-			"charm": 375,
-			"cost": 800000,
+			"charm": 875,
+			"cost": 600000,
 			"item": ["w502",60],
 			"effect": ["02z1","wp_star_02",""],
 			"golden": 0,
@@ -39525,8 +39525,8 @@
 		{
 			"id": 2,
 			"star": 6,
-			"charm": 450,
-			"cost": 1000000,
+			"charm": 1000,
+			"cost": 840000,
 			"item": ["w502",100],
 			"effect": ["02z1","wp_star_02",""],
 			"golden": 0,
@@ -39543,8 +39543,8 @@
 		{
 			"id": 2,
 			"star": 7,
-			"charm": 525,
-			"cost": 1500000,
+			"charm": 1125,
+			"cost": 1120000,
 			"item": ["w502",150],
 			"effect": ["02z1","wp_star_02",""],
 			"golden": 0,
@@ -39561,8 +39561,8 @@
 		{
 			"id": 2,
 			"star": 8,
-			"charm": 600,
-			"cost": 2000000,
+			"charm": 1250,
+			"cost": 1440000,
 			"item": ["w502",200],
 			"effect": ["02z1","wp_star_02","3jie"],
 			"golden": 0,
@@ -39579,8 +39579,8 @@
 		{
 			"id": 2,
 			"star": 9,
-			"charm": 750,
-			"cost": 2500000,
+			"charm": 1500,
+			"cost": 1800000,
 			"item": ["w502",300],
 			"effect": ["02z1","wp_star_02","3jie"],
 			"golden": 0,
@@ -39597,8 +39597,8 @@
 		{
 			"id": 2,
 			"star": 10,
-			"charm": 900,
-			"cost": 3000000,
+			"charm": 1750,
+			"cost": 2200000,
 			"item": ["w502",400],
 			"effect": ["02z1","wp_star_02","4jie"],
 			"golden": 0,
@@ -39615,8 +39615,8 @@
 		{
 			"id": 2,
 			"star": 11,
-			"charm": 1050,
-			"cost": 4000000,
+			"charm": 2000,
+			"cost": 2640000,
 			"item": ["w502",600],
 			"effect": ["02z1","wp_star_02","4jie"],
 			"golden": 0,
@@ -39633,8 +39633,8 @@
 		{
 			"id": 2,
 			"star": 12,
-			"charm": 1200,
-			"cost": 5000000,
+			"charm": 2250,
+			"cost": 3120000,
 			"item": ["w502",800],
 			"effect": ["02z1","wp_star_02","4jie"],
 			"golden": 0,
@@ -39651,7 +39651,7 @@
 		{
 			"id": 3,
 			"star": 0,
-			"charm": 0,
+			"charm": 1000,
 			"cost": 0,
 			"item": [],
 			"effect": ["","",""],
@@ -39669,8 +39669,8 @@
 		{
 			"id": 3,
 			"star": 1,
-			"charm": 300,
-			"cost": 50000,
+			"charm": 1500,
+			"cost": 40000,
 			"item": ["w503",5],
 			"effect": ["","",""],
 			"golden": 0,
@@ -39687,8 +39687,8 @@
 		{
 			"id": 3,
 			"star": 2,
-			"charm": 600,
-			"cost": 200000,
+			"charm": 2000,
+			"cost": 120000,
 			"item": ["w503",10],
 			"effect": ["03z1","",""],
 			"golden": 0,
@@ -39705,8 +39705,8 @@
 		{
 			"id": 3,
 			"star": 3,
-			"charm": 900,
-			"cost": 400000,
+			"charm": 2500,
+			"cost": 240000,
 			"item": ["w503",20],
 			"effect": ["03z1","",""],
 			"golden": 0,
@@ -39723,8 +39723,8 @@
 		{
 			"id": 3,
 			"star": 4,
-			"charm": 1200,
-			"cost": 600000,
+			"charm": 3000,
+			"cost": 400000,
 			"item": ["w503",30],
 			"effect": ["03z1","",""],
 			"golden": 0,
@@ -39741,8 +39741,8 @@
 		{
 			"id": 3,
 			"star": 5,
-			"charm": 1500,
-			"cost": 800000,
+			"charm": 3500,
+			"cost": 600000,
 			"item": ["w503",60],
 			"effect": ["03z1","wp_star_03",""],
 			"golden": 0,
@@ -39759,8 +39759,8 @@
 		{
 			"id": 3,
 			"star": 6,
-			"charm": 1800,
-			"cost": 1000000,
+			"charm": 4000,
+			"cost": 840000,
 			"item": ["w503",100],
 			"effect": ["03z1","wp_star_03",""],
 			"golden": 0,
@@ -39777,8 +39777,8 @@
 		{
 			"id": 3,
 			"star": 7,
-			"charm": 2100,
-			"cost": 1500000,
+			"charm": 4500,
+			"cost": 1120000,
 			"item": ["w503",150],
 			"effect": ["03z1","wp_star_03",""],
 			"golden": 0,
@@ -39795,8 +39795,8 @@
 		{
 			"id": 3,
 			"star": 8,
-			"charm": 2400,
-			"cost": 2000000,
+			"charm": 5000,
+			"cost": 1440000,
 			"item": ["w503",200],
 			"effect": ["03z1","wp_star_03","3jie"],
 			"golden": 0,
@@ -39813,8 +39813,8 @@
 		{
 			"id": 3,
 			"star": 9,
-			"charm": 3000,
-			"cost": 2500000,
+			"charm": 6000,
+			"cost": 1800000,
 			"item": ["w503",300],
 			"effect": ["03z1","wp_star_03","3jie"],
 			"golden": 0,
@@ -39831,8 +39831,8 @@
 		{
 			"id": 3,
 			"star": 10,
-			"charm": 3600,
-			"cost": 3000000,
+			"charm": 7000,
+			"cost": 2200000,
 			"item": ["w503",400],
 			"effect": ["03z1","wp_star_03","4jie"],
 			"golden": 0,
@@ -39849,8 +39849,8 @@
 		{
 			"id": 3,
 			"star": 11,
-			"charm": 4200,
-			"cost": 4000000,
+			"charm": 8000,
+			"cost": 2640000,
 			"item": ["w503",600],
 			"effect": ["03z1","wp_star_03","4jie"],
 			"golden": 0,
@@ -39867,8 +39867,8 @@
 		{
 			"id": 3,
 			"star": 12,
-			"charm": 4800,
-			"cost": 5000000,
+			"charm": 9000,
+			"cost": 3120000,
 			"item": ["w503",800],
 			"effect": ["03z1","wp_star_03","4jie"],
 			"golden": 0,
@@ -39885,7 +39885,7 @@
 		{
 			"id": 4,
 			"star": 0,
-			"charm": 0,
+			"charm": 400,
 			"cost": 0,
 			"item": [],
 			"effect": ["","",""],
@@ -39903,8 +39903,8 @@
 		{
 			"id": 4,
 			"star": 1,
-			"charm": 120,
-			"cost": 50000,
+			"charm": 600,
+			"cost": 40000,
 			"item": ["w504",5],
 			"effect": ["","",""],
 			"golden": 0,
@@ -39921,8 +39921,8 @@
 		{
 			"id": 4,
 			"star": 2,
-			"charm": 240,
-			"cost": 200000,
+			"charm": 800,
+			"cost": 120000,
 			"item": ["w504",10],
 			"effect": ["04z1","",""],
 			"golden": 0,
@@ -39939,8 +39939,8 @@
 		{
 			"id": 4,
 			"star": 3,
-			"charm": 360,
-			"cost": 400000,
+			"charm": 1000,
+			"cost": 240000,
 			"item": ["w504",20],
 			"effect": ["04z1","",""],
 			"golden": 0,
@@ -39957,8 +39957,8 @@
 		{
 			"id": 4,
 			"star": 4,
-			"charm": 480,
-			"cost": 600000,
+			"charm": 1200,
+			"cost": 400000,
 			"item": ["w504",30],
 			"effect": ["04z1","",""],
 			"golden": 0,
@@ -39975,8 +39975,8 @@
 		{
 			"id": 4,
 			"star": 5,
-			"charm": 600,
-			"cost": 800000,
+			"charm": 1400,
+			"cost": 600000,
 			"item": ["w504",60],
 			"effect": ["04z1","wp_star_04",""],
 			"golden": 0,
@@ -39993,8 +39993,8 @@
 		{
 			"id": 4,
 			"star": 6,
-			"charm": 720,
-			"cost": 1000000,
+			"charm": 1600,
+			"cost": 840000,
 			"item": ["w504",100],
 			"effect": ["04z1","wp_star_04",""],
 			"golden": 0,
@@ -40011,8 +40011,8 @@
 		{
 			"id": 4,
 			"star": 7,
-			"charm": 840,
-			"cost": 1500000,
+			"charm": 1800,
+			"cost": 1120000,
 			"item": ["w504",150],
 			"effect": ["04z1","wp_star_04",""],
 			"golden": 0,
@@ -40029,8 +40029,8 @@
 		{
 			"id": 4,
 			"star": 8,
-			"charm": 960,
-			"cost": 2000000,
+			"charm": 2000,
+			"cost": 1440000,
 			"item": ["w504",200],
 			"effect": ["04z1","wp_star_04","3jie"],
 			"golden": 0,
@@ -40047,8 +40047,8 @@
 		{
 			"id": 4,
 			"star": 9,
-			"charm": 1200,
-			"cost": 2500000,
+			"charm": 2400,
+			"cost": 1800000,
 			"item": ["w504",300],
 			"effect": ["04z1","wp_star_04","3jie"],
 			"golden": 0,
@@ -40065,8 +40065,8 @@
 		{
 			"id": 4,
 			"star": 10,
-			"charm": 1440,
-			"cost": 3000000,
+			"charm": 2800,
+			"cost": 2200000,
 			"item": ["w504",400],
 			"effect": ["04z1","wp_star_04","4jie"],
 			"golden": 0,
@@ -40083,8 +40083,8 @@
 		{
 			"id": 4,
 			"star": 11,
-			"charm": 1680,
-			"cost": 4000000,
+			"charm": 3200,
+			"cost": 2640000,
 			"item": ["w504",600],
 			"effect": ["04z1","wp_star_04","4jie"],
 			"golden": 0,
@@ -40101,8 +40101,8 @@
 		{
 			"id": 4,
 			"star": 12,
-			"charm": 1920,
-			"cost": 5000000,
+			"charm": 3600,
+			"cost": 3120000,
 			"item": ["w504",800],
 			"effect": ["04z1","wp_star_04","4jie"],
 			"golden": 0,
@@ -40119,7 +40119,7 @@
 		{
 			"id": 5,
 			"star": 0,
-			"charm": 0,
+			"charm": 150,
 			"cost": 0,
 			"item": [],
 			"effect": ["","",""],
@@ -40137,8 +40137,8 @@
 		{
 			"id": 5,
 			"star": 1,
-			"charm": 45,
-			"cost": 50000,
+			"charm": 225,
+			"cost": 40000,
 			"item": ["w505",5],
 			"effect": ["","",""],
 			"golden": 0,
@@ -40155,8 +40155,8 @@
 		{
 			"id": 5,
 			"star": 2,
-			"charm": 90,
-			"cost": 200000,
+			"charm": 300,
+			"cost": 120000,
 			"item": ["w505",10],
 			"effect": ["05z1","",""],
 			"golden": 0,
@@ -40173,8 +40173,8 @@
 		{
 			"id": 5,
 			"star": 3,
-			"charm": 135,
-			"cost": 400000,
+			"charm": 375,
+			"cost": 240000,
 			"item": ["w505",20],
 			"effect": ["05z1","",""],
 			"golden": 0,
@@ -40191,8 +40191,8 @@
 		{
 			"id": 5,
 			"star": 4,
-			"charm": 180,
-			"cost": 600000,
+			"charm": 450,
+			"cost": 400000,
 			"item": ["w505",30],
 			"effect": ["05z1","",""],
 			"golden": 0,
@@ -40209,8 +40209,8 @@
 		{
 			"id": 5,
 			"star": 5,
-			"charm": 225,
-			"cost": 800000,
+			"charm": 525,
+			"cost": 600000,
 			"item": ["w505",60],
 			"effect": ["05z1","wp_star_05",""],
 			"golden": 0,
@@ -40227,8 +40227,8 @@
 		{
 			"id": 5,
 			"star": 6,
-			"charm": 270,
-			"cost": 1000000,
+			"charm": 600,
+			"cost": 840000,
 			"item": ["w505",100],
 			"effect": ["05z1","wp_star_05",""],
 			"golden": 0,
@@ -40245,8 +40245,8 @@
 		{
 			"id": 5,
 			"star": 7,
-			"charm": 315,
-			"cost": 1500000,
+			"charm": 675,
+			"cost": 1120000,
 			"item": ["w505",150],
 			"effect": ["05z1","wp_star_05",""],
 			"golden": 0,
@@ -40263,8 +40263,8 @@
 		{
 			"id": 5,
 			"star": 8,
-			"charm": 360,
-			"cost": 2000000,
+			"charm": 750,
+			"cost": 1440000,
 			"item": ["w505",200],
 			"effect": ["05z1","wp_star_05","3jie"],
 			"golden": 0,
@@ -40281,8 +40281,8 @@
 		{
 			"id": 5,
 			"star": 9,
-			"charm": 450,
-			"cost": 2500000,
+			"charm": 900,
+			"cost": 1800000,
 			"item": ["w505",300],
 			"effect": ["05z1","wp_star_05","3jie"],
 			"golden": 0,
@@ -40299,8 +40299,8 @@
 		{
 			"id": 5,
 			"star": 10,
-			"charm": 540,
-			"cost": 3000000,
+			"charm": 1050,
+			"cost": 2200000,
 			"item": ["w505",400],
 			"effect": ["05z1","wp_star_05","4jie"],
 			"golden": 0,
@@ -40317,8 +40317,8 @@
 		{
 			"id": 5,
 			"star": 11,
-			"charm": 630,
-			"cost": 4000000,
+			"charm": 1200,
+			"cost": 2640000,
 			"item": ["w505",600],
 			"effect": ["05z1","wp_star_05","4jie"],
 			"golden": 0,
@@ -40335,8 +40335,8 @@
 		{
 			"id": 5,
 			"star": 12,
-			"charm": 720,
-			"cost": 5000000,
+			"charm": 1350,
+			"cost": 3120000,
 			"item": ["w505",800],
 			"effect": ["05z1","wp_star_05","4jie"],
 			"golden": 0,
@@ -40353,7 +40353,7 @@
 		{
 			"id": 6,
 			"star": 0,
-			"charm": 0,
+			"charm": 1050,
 			"cost": 0,
 			"item": [],
 			"effect": ["","",""],
@@ -40371,8 +40371,8 @@
 		{
 			"id": 6,
 			"star": 1,
-			"charm": 315,
-			"cost": 50000,
+			"charm": 1575,
+			"cost": 40000,
 			"item": ["w506",5],
 			"effect": ["","",""],
 			"golden": 0,
@@ -40389,8 +40389,8 @@
 		{
 			"id": 6,
 			"star": 2,
-			"charm": 630,
-			"cost": 200000,
+			"charm": 2100,
+			"cost": 120000,
 			"item": ["w506",10],
 			"effect": ["06z1","",""],
 			"golden": 0,
@@ -40407,8 +40407,8 @@
 		{
 			"id": 6,
 			"star": 3,
-			"charm": 945,
-			"cost": 400000,
+			"charm": 2625,
+			"cost": 240000,
 			"item": ["w506",20],
 			"effect": ["06z1","",""],
 			"golden": 0,
@@ -40425,8 +40425,8 @@
 		{
 			"id": 6,
 			"star": 4,
-			"charm": 1260,
-			"cost": 600000,
+			"charm": 3150,
+			"cost": 400000,
 			"item": ["w506",30],
 			"effect": ["06z1","",""],
 			"golden": 0,
@@ -40443,8 +40443,8 @@
 		{
 			"id": 6,
 			"star": 5,
-			"charm": 1575,
-			"cost": 800000,
+			"charm": 3675,
+			"cost": 600000,
 			"item": ["w506",60],
 			"effect": ["06z1","wp_star_06",""],
 			"golden": 0,
@@ -40461,8 +40461,8 @@
 		{
 			"id": 6,
 			"star": 6,
-			"charm": 1890,
-			"cost": 1000000,
+			"charm": 4200,
+			"cost": 840000,
 			"item": ["w506",100],
 			"effect": ["06z1","wp_star_06",""],
 			"golden": 0,
@@ -40479,8 +40479,8 @@
 		{
 			"id": 6,
 			"star": 7,
-			"charm": 2205,
-			"cost": 1500000,
+			"charm": 4725,
+			"cost": 1120000,
 			"item": ["w506",150],
 			"effect": ["06z1","wp_star_06",""],
 			"golden": 0,
@@ -40497,8 +40497,8 @@
 		{
 			"id": 6,
 			"star": 8,
-			"charm": 2520,
-			"cost": 2000000,
+			"charm": 5250,
+			"cost": 1440000,
 			"item": ["w506",200],
 			"effect": ["06z1","wp_star_06","3jie"],
 			"golden": 0,
@@ -40515,8 +40515,8 @@
 		{
 			"id": 6,
 			"star": 9,
-			"charm": 3150,
-			"cost": 2500000,
+			"charm": 6300,
+			"cost": 1800000,
 			"item": ["w506",300],
 			"effect": ["06z1","wp_star_06","3jie"],
 			"golden": 0,
@@ -40533,8 +40533,8 @@
 		{
 			"id": 6,
 			"star": 10,
-			"charm": 3780,
-			"cost": 3000000,
+			"charm": 7350,
+			"cost": 2200000,
 			"item": ["w506",400],
 			"effect": ["06z1","wp_star_06","4jie"],
 			"golden": 0,
@@ -40551,8 +40551,8 @@
 		{
 			"id": 6,
 			"star": 11,
-			"charm": 4410,
-			"cost": 4000000,
+			"charm": 8400,
+			"cost": 2640000,
 			"item": ["w506",600],
 			"effect": ["06z1","wp_star_06","4jie"],
 			"golden": 0,
@@ -40569,8 +40569,8 @@
 		{
 			"id": 6,
 			"star": 12,
-			"charm": 5040,
-			"cost": 5000000,
+			"charm": 9450,
+			"cost": 3120000,
 			"item": ["w506",800],
 			"effect": ["06z1","wp_star_06","4jie"],
 			"golden": 0,
@@ -40587,7 +40587,7 @@
 		{
 			"id": 7,
 			"star": 0,
-			"charm": 0,
+			"charm": 1150,
 			"cost": 0,
 			"item": [],
 			"effect": ["","",""],
@@ -40605,8 +40605,8 @@
 		{
 			"id": 7,
 			"star": 1,
-			"charm": 345,
-			"cost": 50000,
+			"charm": 1725,
+			"cost": 40000,
 			"item": ["w507",5],
 			"effect": ["","",""],
 			"golden": 0,
@@ -40623,8 +40623,8 @@
 		{
 			"id": 7,
 			"star": 2,
-			"charm": 690,
-			"cost": 200000,
+			"charm": 2300,
+			"cost": 120000,
 			"item": ["w507",10],
 			"effect": ["07z1","",""],
 			"golden": 0,
@@ -40641,8 +40641,8 @@
 		{
 			"id": 7,
 			"star": 3,
-			"charm": 1035,
-			"cost": 400000,
+			"charm": 2875,
+			"cost": 240000,
 			"item": ["w507",20],
 			"effect": ["07z1","",""],
 			"golden": 0,
@@ -40659,8 +40659,8 @@
 		{
 			"id": 7,
 			"star": 4,
-			"charm": 1380,
-			"cost": 600000,
+			"charm": 3450,
+			"cost": 400000,
 			"item": ["w507",30],
 			"effect": ["07z1","",""],
 			"golden": 0,
@@ -40677,8 +40677,8 @@
 		{
 			"id": 7,
 			"star": 5,
-			"charm": 1725,
-			"cost": 800000,
+			"charm": 4025,
+			"cost": 600000,
 			"item": ["w507",60],
 			"effect": ["07z1","wp_star_07",""],
 			"golden": 0,
@@ -40695,8 +40695,8 @@
 		{
 			"id": 7,
 			"star": 6,
-			"charm": 2070,
-			"cost": 1000000,
+			"charm": 4600,
+			"cost": 840000,
 			"item": ["w507",100],
 			"effect": ["07z1","wp_star_07",""],
 			"golden": 0,
@@ -40713,8 +40713,8 @@
 		{
 			"id": 7,
 			"star": 7,
-			"charm": 2415,
-			"cost": 1500000,
+			"charm": 5175,
+			"cost": 1120000,
 			"item": ["w507",150],
 			"effect": ["07z1","wp_star_07",""],
 			"golden": 0,
@@ -40731,8 +40731,8 @@
 		{
 			"id": 7,
 			"star": 8,
-			"charm": 2760,
-			"cost": 2000000,
+			"charm": 5750,
+			"cost": 1440000,
 			"item": ["w507",200],
 			"effect": ["07z1","wp_star_07","3jie"],
 			"golden": 0,
@@ -40749,8 +40749,8 @@
 		{
 			"id": 7,
 			"star": 9,
-			"charm": 3450,
-			"cost": 2500000,
+			"charm": 6900,
+			"cost": 1800000,
 			"item": ["w507",300],
 			"effect": ["07z1","wp_star_07","3jie"],
 			"golden": 0,
@@ -40767,8 +40767,8 @@
 		{
 			"id": 7,
 			"star": 10,
-			"charm": 4140,
-			"cost": 3000000,
+			"charm": 8050,
+			"cost": 2200000,
 			"item": ["w507",400],
 			"effect": ["07z1","wp_star_07","4jie"],
 			"golden": 0,
@@ -40785,8 +40785,8 @@
 		{
 			"id": 7,
 			"star": 11,
-			"charm": 4830,
-			"cost": 4000000,
+			"charm": 9200,
+			"cost": 2640000,
 			"item": ["w507",600],
 			"effect": ["07z1","wp_star_07","4jie"],
 			"golden": 0,
@@ -40803,8 +40803,8 @@
 		{
 			"id": 7,
 			"star": 12,
-			"charm": 5520,
-			"cost": 5000000,
+			"charm": 10350,
+			"cost": 3120000,
 			"item": ["w507",800],
 			"effect": ["07z1","wp_star_07","4jie"],
 			"golden": 0,
@@ -40821,7 +40821,7 @@
 		{
 			"id": 8,
 			"star": 0,
-			"charm": 0,
+			"charm": 1250,
 			"cost": 0,
 			"item": [],
 			"effect": ["","",""],
@@ -40839,8 +40839,8 @@
 		{
 			"id": 8,
 			"star": 1,
-			"charm": 375,
-			"cost": 50000,
+			"charm": 1875,
+			"cost": 40000,
 			"item": ["w508",5],
 			"effect": ["","",""],
 			"golden": 0,
@@ -40857,8 +40857,8 @@
 		{
 			"id": 8,
 			"star": 2,
-			"charm": 750,
-			"cost": 200000,
+			"charm": 2500,
+			"cost": 120000,
 			"item": ["w508",10],
 			"effect": ["08z1","",""],
 			"golden": 0,
@@ -40875,8 +40875,8 @@
 		{
 			"id": 8,
 			"star": 3,
-			"charm": 1125,
-			"cost": 400000,
+			"charm": 3125,
+			"cost": 240000,
 			"item": ["w508",20],
 			"effect": ["08z1","",""],
 			"golden": 0,
@@ -40893,8 +40893,8 @@
 		{
 			"id": 8,
 			"star": 4,
-			"charm": 1500,
-			"cost": 600000,
+			"charm": 3750,
+			"cost": 400000,
 			"item": ["w508",30],
 			"effect": ["08z1","",""],
 			"golden": 0,
@@ -40911,8 +40911,8 @@
 		{
 			"id": 8,
 			"star": 5,
-			"charm": 1875,
-			"cost": 800000,
+			"charm": 4375,
+			"cost": 600000,
 			"item": ["w508",60],
 			"effect": ["08z1","wp_star_08",""],
 			"golden": 0,
@@ -40929,8 +40929,8 @@
 		{
 			"id": 8,
 			"star": 6,
-			"charm": 2250,
-			"cost": 1000000,
+			"charm": 5000,
+			"cost": 840000,
 			"item": ["w508",100],
 			"effect": ["08z1","wp_star_08",""],
 			"golden": 0,
@@ -40947,8 +40947,8 @@
 		{
 			"id": 8,
 			"star": 7,
-			"charm": 2625,
-			"cost": 1500000,
+			"charm": 5625,
+			"cost": 1120000,
 			"item": ["w508",150],
 			"effect": ["08z1","wp_star_08",""],
 			"golden": 0,
@@ -40965,8 +40965,8 @@
 		{
 			"id": 8,
 			"star": 8,
-			"charm": 3000,
-			"cost": 2000000,
+			"charm": 6250,
+			"cost": 1440000,
 			"item": ["w508",200],
 			"effect": ["08z1","wp_star_08","3jie"],
 			"golden": 0,
@@ -40983,8 +40983,8 @@
 		{
 			"id": 8,
 			"star": 9,
-			"charm": 3750,
-			"cost": 2500000,
+			"charm": 7500,
+			"cost": 1800000,
 			"item": ["w508",300],
 			"effect": ["08z1","wp_star_08","3jie"],
 			"golden": 0,
@@ -41001,8 +41001,8 @@
 		{
 			"id": 8,
 			"star": 10,
-			"charm": 4500,
-			"cost": 3000000,
+			"charm": 8750,
+			"cost": 2200000,
 			"item": ["w508",400],
 			"effect": ["08z1","wp_star_08","4jie"],
 			"golden": 0,
@@ -41019,8 +41019,8 @@
 		{
 			"id": 8,
 			"star": 11,
-			"charm": 5250,
-			"cost": 4000000,
+			"charm": 10000,
+			"cost": 2640000,
 			"item": ["w508",600],
 			"effect": ["08z1","wp_star_08","4jie"],
 			"golden": 0,
@@ -41037,8 +41037,8 @@
 		{
 			"id": 8,
 			"star": 12,
-			"charm": 6000,
-			"cost": 5000000,
+			"charm": 11250,
+			"cost": 3120000,
 			"item": ["w508",800],
 			"effect": ["08z1","wp_star_08","4jie"],
 			"golden": 0,
@@ -41055,7 +41055,7 @@
 		{
 			"id": 9,
 			"star": 0,
-			"charm": 0,
+			"charm": 1050,
 			"cost": 0,
 			"item": [],
 			"effect": ["","",""],
@@ -41073,8 +41073,8 @@
 		{
 			"id": 9,
 			"star": 1,
-			"charm": 315,
-			"cost": 50000,
+			"charm": 1575,
+			"cost": 40000,
 			"item": ["w509",5],
 			"effect": ["","",""],
 			"golden": 0,
@@ -41091,8 +41091,8 @@
 		{
 			"id": 9,
 			"star": 2,
-			"charm": 630,
-			"cost": 200000,
+			"charm": 2100,
+			"cost": 120000,
 			"item": ["w509",10],
 			"effect": ["09z1","",""],
 			"golden": 0,
@@ -41109,8 +41109,8 @@
 		{
 			"id": 9,
 			"star": 3,
-			"charm": 945,
-			"cost": 400000,
+			"charm": 2625,
+			"cost": 240000,
 			"item": ["w509",20],
 			"effect": ["09z1","",""],
 			"golden": 0,
@@ -41127,8 +41127,8 @@
 		{
 			"id": 9,
 			"star": 4,
-			"charm": 1260,
-			"cost": 600000,
+			"charm": 3150,
+			"cost": 400000,
 			"item": ["w509",30],
 			"effect": ["09z1","",""],
 			"golden": 0,
@@ -41145,8 +41145,8 @@
 		{
 			"id": 9,
 			"star": 5,
-			"charm": 1575,
-			"cost": 800000,
+			"charm": 3675,
+			"cost": 600000,
 			"item": ["w509",60],
 			"effect": ["09z1","wp_star_09",""],
 			"golden": 0,
@@ -41163,8 +41163,8 @@
 		{
 			"id": 9,
 			"star": 6,
-			"charm": 1890,
-			"cost": 1000000,
+			"charm": 4200,
+			"cost": 840000,
 			"item": ["w509",100],
 			"effect": ["09z1","wp_star_09",""],
 			"golden": 0,
@@ -41181,8 +41181,8 @@
 		{
 			"id": 9,
 			"star": 7,
-			"charm": 2205,
-			"cost": 1500000,
+			"charm": 4725,
+			"cost": 1120000,
 			"item": ["w509",150],
 			"effect": ["09z1","wp_star_09",""],
 			"golden": 0,
@@ -41199,8 +41199,8 @@
 		{
 			"id": 9,
 			"star": 8,
-			"charm": 2520,
-			"cost": 2000000,
+			"charm": 5250,
+			"cost": 1440000,
 			"item": ["w509",200],
 			"effect": ["09z1","wp_star_09","3jie"],
 			"golden": 0,
@@ -41217,8 +41217,8 @@
 		{
 			"id": 9,
 			"star": 9,
-			"charm": 3150,
-			"cost": 2500000,
+			"charm": 6300,
+			"cost": 1800000,
 			"item": ["w509",300],
 			"effect": ["09z1","wp_star_09","3jie"],
 			"golden": 0,
@@ -41235,8 +41235,8 @@
 		{
 			"id": 9,
 			"star": 10,
-			"charm": 3780,
-			"cost": 3000000,
+			"charm": 7350,
+			"cost": 2200000,
 			"item": ["w509",400],
 			"effect": ["09z1","wp_star_09","4jie"],
 			"golden": 0,
@@ -41253,8 +41253,8 @@
 		{
 			"id": 9,
 			"star": 11,
-			"charm": 4410,
-			"cost": 4000000,
+			"charm": 8400,
+			"cost": 2640000,
 			"item": ["w509",600],
 			"effect": ["09z1","wp_star_09","4jie"],
 			"golden": 0,
@@ -41271,8 +41271,8 @@
 		{
 			"id": 9,
 			"star": 12,
-			"charm": 5040,
-			"cost": 5000000,
+			"charm": 9450,
+			"cost": 3120000,
 			"item": ["w509",800],
 			"effect": ["09z1","wp_star_09","4jie"],
 			"golden": 0,
@@ -41289,7 +41289,7 @@
 		{
 			"id": 10,
 			"star": 0,
-			"charm": 0,
+			"charm": 800,
 			"cost": 0,
 			"item": [],
 			"effect": ["","",""],
@@ -41307,8 +41307,8 @@
 		{
 			"id": 10,
 			"star": 1,
-			"charm": 240,
-			"cost": 50000,
+			"charm": 1200,
+			"cost": 40000,
 			"item": ["w510",5],
 			"effect": ["","",""],
 			"golden": 0.02,
@@ -41325,8 +41325,8 @@
 		{
 			"id": 10,
 			"star": 2,
-			"charm": 480,
-			"cost": 200000,
+			"charm": 1600,
+			"cost": 120000,
 			"item": ["w510",10],
 			"effect": ["10z1","",""],
 			"golden": 0.02,
@@ -41343,8 +41343,8 @@
 		{
 			"id": 10,
 			"star": 3,
-			"charm": 720,
-			"cost": 400000,
+			"charm": 2000,
+			"cost": 240000,
 			"item": ["w510",20],
 			"effect": ["10z1","",""],
 			"golden": 0.02,
@@ -41361,8 +41361,8 @@
 		{
 			"id": 10,
 			"star": 4,
-			"charm": 960,
-			"cost": 600000,
+			"charm": 2400,
+			"cost": 400000,
 			"item": ["w510",30],
 			"effect": ["10z1","",""],
 			"golden": 0.04,
@@ -41379,8 +41379,8 @@
 		{
 			"id": 10,
 			"star": 5,
-			"charm": 1200,
-			"cost": 800000,
+			"charm": 2800,
+			"cost": 600000,
 			"item": ["w510",60],
 			"effect": ["10z1","wp_star_10",""],
 			"golden": 0.04,
@@ -41397,8 +41397,8 @@
 		{
 			"id": 10,
 			"star": 6,
-			"charm": 1440,
-			"cost": 1000000,
+			"charm": 3200,
+			"cost": 840000,
 			"item": ["w510",100],
 			"effect": ["10z1","wp_star_10",""],
 			"golden": 0.04,
@@ -41415,8 +41415,8 @@
 		{
 			"id": 10,
 			"star": 7,
-			"charm": 1680,
-			"cost": 1500000,
+			"charm": 3600,
+			"cost": 1120000,
 			"item": ["w510",150],
 			"effect": ["10z1","wp_star_10",""],
 			"golden": 0.06,
@@ -41433,8 +41433,8 @@
 		{
 			"id": 10,
 			"star": 8,
-			"charm": 1920,
-			"cost": 2000000,
+			"charm": 4000,
+			"cost": 1440000,
 			"item": ["w510",200],
 			"effect": ["10z1","wp_star_10","3jie"],
 			"golden": 0.06,
@@ -41451,8 +41451,8 @@
 		{
 			"id": 10,
 			"star": 9,
-			"charm": 2400,
-			"cost": 2500000,
+			"charm": 4800,
+			"cost": 1800000,
 			"item": ["w510",300],
 			"effect": ["10z1","wp_star_10","3jie"],
 			"golden": 0.08,
@@ -41469,8 +41469,8 @@
 		{
 			"id": 10,
 			"star": 10,
-			"charm": 2880,
-			"cost": 3000000,
+			"charm": 5600,
+			"cost": 2200000,
 			"item": ["w510",400],
 			"effect": ["10z1","wp_star_10","4jie"],
 			"golden": 0.08,
@@ -41487,8 +41487,8 @@
 		{
 			"id": 10,
 			"star": 11,
-			"charm": 3360,
-			"cost": 4000000,
+			"charm": 6400,
+			"cost": 2640000,
 			"item": ["w510",600],
 			"effect": ["10z1","wp_star_10","4jie"],
 			"golden": 0.1,
@@ -41505,8 +41505,8 @@
 		{
 			"id": 10,
 			"star": 12,
-			"charm": 3840,
-			"cost": 5000000,
+			"charm": 7200,
+			"cost": 3120000,
 			"item": ["w510",800],
 			"effect": ["10z1","wp_star_10","4jie"],
 			"golden": 0.1,
@@ -41523,7 +41523,7 @@
 		{
 			"id": 11,
 			"star": 0,
-			"charm": 0,
+			"charm": 1100,
 			"cost": 0,
 			"item": [],
 			"effect": ["","",""],
@@ -41541,8 +41541,8 @@
 		{
 			"id": 11,
 			"star": 1,
-			"charm": 330,
-			"cost": 50000,
+			"charm": 1650,
+			"cost": 40000,
 			"item": ["w511",5],
 			"effect": ["","",""],
 			"golden": 0.01,
@@ -41559,8 +41559,8 @@
 		{
 			"id": 11,
 			"star": 2,
-			"charm": 660,
-			"cost": 200000,
+			"charm": 2200,
+			"cost": 120000,
 			"item": ["w511",10],
 			"effect": ["11z1","",""],
 			"golden": 0.01,
@@ -41577,8 +41577,8 @@
 		{
 			"id": 11,
 			"star": 3,
-			"charm": 990,
-			"cost": 400000,
+			"charm": 2750,
+			"cost": 240000,
 			"item": ["w511",20],
 			"effect": ["11z1","",""],
 			"golden": 0.01,
@@ -41595,8 +41595,8 @@
 		{
 			"id": 11,
 			"star": 4,
-			"charm": 1320,
-			"cost": 600000,
+			"charm": 3300,
+			"cost": 400000,
 			"item": ["w511",30],
 			"effect": ["11z1","",""],
 			"golden": 0.02,
@@ -41613,8 +41613,8 @@
 		{
 			"id": 11,
 			"star": 5,
-			"charm": 1650,
-			"cost": 800000,
+			"charm": 3850,
+			"cost": 600000,
 			"item": ["w511",60],
 			"effect": ["11z1","wp_star_11",""],
 			"golden": 0.02,
@@ -41631,8 +41631,8 @@
 		{
 			"id": 11,
 			"star": 6,
-			"charm": 1980,
-			"cost": 1000000,
+			"charm": 4400,
+			"cost": 840000,
 			"item": ["w511",100],
 			"effect": ["11z1","wp_star_11",""],
 			"golden": 0.02,
@@ -41649,8 +41649,8 @@
 		{
 			"id": 11,
 			"star": 7,
-			"charm": 2310,
-			"cost": 1500000,
+			"charm": 4950,
+			"cost": 1120000,
 			"item": ["w511",150],
 			"effect": ["11z1","wp_star_11",""],
 			"golden": 0.03,
@@ -41667,8 +41667,8 @@
 		{
 			"id": 11,
 			"star": 8,
-			"charm": 2640,
-			"cost": 2000000,
+			"charm": 5500,
+			"cost": 1440000,
 			"item": ["w511",200],
 			"effect": ["11z1","wp_star_11","3jie"],
 			"golden": 0.03,
@@ -41685,8 +41685,8 @@
 		{
 			"id": 11,
 			"star": 9,
-			"charm": 3300,
-			"cost": 2500000,
+			"charm": 6600,
+			"cost": 1800000,
 			"item": ["w511",300],
 			"effect": ["11z1","wp_star_11","3jie"],
 			"golden": 0.04,
@@ -41703,8 +41703,8 @@
 		{
 			"id": 11,
 			"star": 10,
-			"charm": 3960,
-			"cost": 3000000,
+			"charm": 7700,
+			"cost": 2200000,
 			"item": ["w511",400],
 			"effect": ["11z1","wp_star_11","4jie"],
 			"golden": 0.04,
@@ -41721,8 +41721,8 @@
 		{
 			"id": 11,
 			"star": 11,
-			"charm": 4620,
-			"cost": 4000000,
+			"charm": 8800,
+			"cost": 2640000,
 			"item": ["w511",600],
 			"effect": ["11z1","wp_star_11","4jie"],
 			"golden": 0.05,
@@ -41739,8 +41739,8 @@
 		{
 			"id": 11,
 			"star": 12,
-			"charm": 5280,
-			"cost": 5000000,
+			"charm": 9900,
+			"cost": 3120000,
 			"item": ["w511",800],
 			"effect": ["11z1","wp_star_11","4jie"],
 			"golden": 0.05,
@@ -41757,7 +41757,7 @@
 		{
 			"id": 12,
 			"star": 0,
-			"charm": 0,
+			"charm": 1300,
 			"cost": 0,
 			"item": [],
 			"effect": ["","",""],
@@ -41775,8 +41775,8 @@
 		{
 			"id": 12,
 			"star": 1,
-			"charm": 390,
-			"cost": 50000,
+			"charm": 1950,
+			"cost": 40000,
 			"item": ["w512",5],
 			"effect": ["","",""],
 			"golden": 0,
@@ -41793,8 +41793,8 @@
 		{
 			"id": 12,
 			"star": 2,
-			"charm": 780,
-			"cost": 200000,
+			"charm": 2600,
+			"cost": 120000,
 			"item": ["w512",10],
 			"effect": ["12z1","",""],
 			"golden": 0,
@@ -41811,8 +41811,8 @@
 		{
 			"id": 12,
 			"star": 3,
-			"charm": 1170,
-			"cost": 400000,
+			"charm": 3250,
+			"cost": 240000,
 			"item": ["w512",20],
 			"effect": ["12z1","",""],
 			"golden": 0,
@@ -41829,8 +41829,8 @@
 		{
 			"id": 12,
 			"star": 4,
-			"charm": 1560,
-			"cost": 600000,
+			"charm": 3900,
+			"cost": 400000,
 			"item": ["w512",30],
 			"effect": ["12z1","",""],
 			"golden": 0,
@@ -41847,8 +41847,8 @@
 		{
 			"id": 12,
 			"star": 5,
-			"charm": 1950,
-			"cost": 800000,
+			"charm": 4550,
+			"cost": 600000,
 			"item": ["w512",60],
 			"effect": ["12z1","wp_star_12",""],
 			"golden": 0,
@@ -41865,8 +41865,8 @@
 		{
 			"id": 12,
 			"star": 6,
-			"charm": 2340,
-			"cost": 1000000,
+			"charm": 5200,
+			"cost": 840000,
 			"item": ["w512",100],
 			"effect": ["12z1","wp_star_12",""],
 			"golden": 0,
@@ -41883,8 +41883,8 @@
 		{
 			"id": 12,
 			"star": 7,
-			"charm": 2730,
-			"cost": 1500000,
+			"charm": 5850,
+			"cost": 1120000,
 			"item": ["w512",150],
 			"effect": ["12z1","wp_star_12",""],
 			"golden": 0,
@@ -41901,8 +41901,8 @@
 		{
 			"id": 12,
 			"star": 8,
-			"charm": 3120,
-			"cost": 2000000,
+			"charm": 6500,
+			"cost": 1440000,
 			"item": ["w512",200],
 			"effect": ["12z1","wp_star_12","3jie"],
 			"golden": 0,
@@ -41919,8 +41919,8 @@
 		{
 			"id": 12,
 			"star": 9,
-			"charm": 3900,
-			"cost": 2500000,
+			"charm": 7800,
+			"cost": 1800000,
 			"item": ["w512",300],
 			"effect": ["12z1","wp_star_12","3jie"],
 			"golden": 0,
@@ -41937,8 +41937,8 @@
 		{
 			"id": 12,
 			"star": 10,
-			"charm": 4680,
-			"cost": 3000000,
+			"charm": 9100,
+			"cost": 2200000,
 			"item": ["w512",400],
 			"effect": ["12z1","wp_star_12","4jie"],
 			"golden": 0,
@@ -41955,8 +41955,8 @@
 		{
 			"id": 12,
 			"star": 11,
-			"charm": 5460,
-			"cost": 4000000,
+			"charm": 10400,
+			"cost": 2640000,
 			"item": ["w512",600],
 			"effect": ["12z1","wp_star_12","4jie"],
 			"golden": 0,
@@ -41973,8 +41973,8 @@
 		{
 			"id": 12,
 			"star": 12,
-			"charm": 6240,
-			"cost": 5000000,
+			"charm": 11700,
+			"cost": 3120000,
 			"item": ["w512",800],
 			"effect": ["12z1","wp_star_12","4jie"],
 			"golden": 0,
@@ -41991,7 +41991,7 @@
 		{
 			"id": 13,
 			"star": 0,
-			"charm": 0,
+			"charm": 1550,
 			"cost": 0,
 			"item": [],
 			"effect": ["","",""],
@@ -42009,8 +42009,8 @@
 		{
 			"id": 13,
 			"star": 1,
-			"charm": 465,
-			"cost": 50000,
+			"charm": 2325,
+			"cost": 40000,
 			"item": ["w513",5],
 			"effect": ["","",""],
 			"golden": 0,
@@ -42027,8 +42027,8 @@
 		{
 			"id": 13,
 			"star": 2,
-			"charm": 930,
-			"cost": 200000,
+			"charm": 3100,
+			"cost": 120000,
 			"item": ["w513",10],
 			"effect": ["13z1","",""],
 			"golden": 0,
@@ -42045,8 +42045,8 @@
 		{
 			"id": 13,
 			"star": 3,
-			"charm": 1395,
-			"cost": 400000,
+			"charm": 3875,
+			"cost": 240000,
 			"item": ["w513",20],
 			"effect": ["13z1","",""],
 			"golden": 0,
@@ -42063,8 +42063,8 @@
 		{
 			"id": 13,
 			"star": 4,
-			"charm": 1860,
-			"cost": 600000,
+			"charm": 4650,
+			"cost": 400000,
 			"item": ["w513",30],
 			"effect": ["13z1","",""],
 			"golden": 0,
@@ -42081,8 +42081,8 @@
 		{
 			"id": 13,
 			"star": 5,
-			"charm": 2325,
-			"cost": 800000,
+			"charm": 5425,
+			"cost": 600000,
 			"item": ["w513",60],
 			"effect": ["13z1","wp_star_13",""],
 			"golden": 0,
@@ -42099,8 +42099,8 @@
 		{
 			"id": 13,
 			"star": 6,
-			"charm": 2790,
-			"cost": 1000000,
+			"charm": 6200,
+			"cost": 840000,
 			"item": ["w513",100],
 			"effect": ["13z1","wp_star_13",""],
 			"golden": 0,
@@ -42117,8 +42117,8 @@
 		{
 			"id": 13,
 			"star": 7,
-			"charm": 3255,
-			"cost": 1500000,
+			"charm": 6975,
+			"cost": 1120000,
 			"item": ["w513",150],
 			"effect": ["13z1","wp_star_13",""],
 			"golden": 0,
@@ -42135,8 +42135,8 @@
 		{
 			"id": 13,
 			"star": 8,
-			"charm": 3720,
-			"cost": 2000000,
+			"charm": 7750,
+			"cost": 1440000,
 			"item": ["w513",200],
 			"effect": ["13z1","wp_star_13","3jie"],
 			"golden": 0,
@@ -42153,8 +42153,8 @@
 		{
 			"id": 13,
 			"star": 9,
-			"charm": 4650,
-			"cost": 2500000,
+			"charm": 9300,
+			"cost": 1800000,
 			"item": ["w513",300],
 			"effect": ["13z1","wp_star_13","3jie"],
 			"golden": 0,
@@ -42171,8 +42171,8 @@
 		{
 			"id": 13,
 			"star": 10,
-			"charm": 5580,
-			"cost": 3000000,
+			"charm": 10850,
+			"cost": 2200000,
 			"item": ["w513",400],
 			"effect": ["13z1","wp_star_13","4jie"],
 			"golden": 0,
@@ -42189,8 +42189,8 @@
 		{
 			"id": 13,
 			"star": 11,
-			"charm": 6510,
-			"cost": 4000000,
+			"charm": 12400,
+			"cost": 2640000,
 			"item": ["w513",600],
 			"effect": ["13z1","wp_star_13","4jie"],
 			"golden": 0,
@@ -42207,8 +42207,8 @@
 		{
 			"id": 13,
 			"star": 12,
-			"charm": 7440,
-			"cost": 5000000,
+			"charm": 13950,
+			"cost": 3120000,
 			"item": ["w513",800],
 			"effect": ["13z1","wp_star_13","4jie"],
 			"golden": 0,
@@ -42225,7 +42225,7 @@
 		{
 			"id": 14,
 			"star": 0,
-			"charm": 0,
+			"charm": 1800,
 			"cost": 0,
 			"item": [],
 			"effect": ["","",""],
@@ -42243,8 +42243,8 @@
 		{
 			"id": 14,
 			"star": 1,
-			"charm": 540,
-			"cost": 50000,
+			"charm": 2700,
+			"cost": 40000,
 			"item": ["w514",5],
 			"effect": ["","",""],
 			"golden": 0,
@@ -42261,8 +42261,8 @@
 		{
 			"id": 14,
 			"star": 2,
-			"charm": 1080,
-			"cost": 200000,
+			"charm": 3600,
+			"cost": 120000,
 			"item": ["w514",10],
 			"effect": ["14z1","",""],
 			"golden": 0,
@@ -42279,8 +42279,8 @@
 		{
 			"id": 14,
 			"star": 3,
-			"charm": 1620,
-			"cost": 400000,
+			"charm": 4500,
+			"cost": 240000,
 			"item": ["w514",20],
 			"effect": ["14z1","",""],
 			"golden": 0,
@@ -42297,8 +42297,8 @@
 		{
 			"id": 14,
 			"star": 4,
-			"charm": 2160,
-			"cost": 600000,
+			"charm": 5400,
+			"cost": 400000,
 			"item": ["w514",30],
 			"effect": ["14z1","",""],
 			"golden": 0,
@@ -42315,8 +42315,8 @@
 		{
 			"id": 14,
 			"star": 5,
-			"charm": 2700,
-			"cost": 800000,
+			"charm": 6300,
+			"cost": 600000,
 			"item": ["w514",60],
 			"effect": ["14z1","wp_star_14",""],
 			"golden": 0,
@@ -42333,8 +42333,8 @@
 		{
 			"id": 14,
 			"star": 6,
-			"charm": 3240,
-			"cost": 1000000,
+			"charm": 7200,
+			"cost": 840000,
 			"item": ["w514",100],
 			"effect": ["14z1","wp_star_14",""],
 			"golden": 0,
@@ -42351,8 +42351,8 @@
 		{
 			"id": 14,
 			"star": 7,
-			"charm": 3780,
-			"cost": 1500000,
+			"charm": 8100,
+			"cost": 1120000,
 			"item": ["w514",150],
 			"effect": ["14z1","wp_star_14",""],
 			"golden": 0,
@@ -42369,8 +42369,8 @@
 		{
 			"id": 14,
 			"star": 8,
-			"charm": 4320,
-			"cost": 2000000,
+			"charm": 9000,
+			"cost": 1440000,
 			"item": ["w514",200],
 			"effect": ["14z1","wp_star_14","3jie"],
 			"golden": 0,
@@ -42387,8 +42387,8 @@
 		{
 			"id": 14,
 			"star": 9,
-			"charm": 5400,
-			"cost": 2500000,
+			"charm": 10800,
+			"cost": 1800000,
 			"item": ["w514",300],
 			"effect": ["14z1","wp_star_14","3jie"],
 			"golden": 0,
@@ -42405,8 +42405,8 @@
 		{
 			"id": 14,
 			"star": 10,
-			"charm": 6480,
-			"cost": 3000000,
+			"charm": 12600,
+			"cost": 2200000,
 			"item": ["w514",400],
 			"effect": ["14z1","wp_star_14","4jie"],
 			"golden": 0,
@@ -42423,8 +42423,8 @@
 		{
 			"id": 14,
 			"star": 11,
-			"charm": 7560,
-			"cost": 4000000,
+			"charm": 14400,
+			"cost": 2640000,
 			"item": ["w514",600],
 			"effect": ["14z1","wp_star_14","4jie"],
 			"golden": 0,
@@ -42441,8 +42441,8 @@
 		{
 			"id": 14,
 			"star": 12,
-			"charm": 8640,
-			"cost": 5000000,
+			"charm": 16200,
+			"cost": 3120000,
 			"item": ["w514",800],
 			"effect": ["14z1","wp_star_14","4jie"],
 			"golden": 0,
@@ -42459,7 +42459,7 @@
 		{
 			"id": 15,
 			"star": 0,
-			"charm": 0,
+			"charm": 1800,
 			"cost": 0,
 			"item": [],
 			"effect": ["","",""],
@@ -42477,8 +42477,8 @@
 		{
 			"id": 15,
 			"star": 1,
-			"charm": 540,
-			"cost": 50000,
+			"charm": 2700,
+			"cost": 40000,
 			"item": ["w515",5],
 			"effect": ["","",""],
 			"golden": 0.01,
@@ -42495,8 +42495,8 @@
 		{
 			"id": 15,
 			"star": 2,
-			"charm": 1080,
-			"cost": 200000,
+			"charm": 3600,
+			"cost": 120000,
 			"item": ["w515",10],
 			"effect": ["15z1","",""],
 			"golden": 0.01,
@@ -42513,8 +42513,8 @@
 		{
 			"id": 15,
 			"star": 3,
-			"charm": 1620,
-			"cost": 400000,
+			"charm": 4500,
+			"cost": 240000,
 			"item": ["w515",20],
 			"effect": ["15z1","",""],
 			"golden": 0.01,
@@ -42531,8 +42531,8 @@
 		{
 			"id": 15,
 			"star": 4,
-			"charm": 2160,
-			"cost": 600000,
+			"charm": 5400,
+			"cost": 400000,
 			"item": ["w515",30],
 			"effect": ["15z1","",""],
 			"golden": 0.02,
@@ -42549,8 +42549,8 @@
 		{
 			"id": 15,
 			"star": 5,
-			"charm": 2700,
-			"cost": 800000,
+			"charm": 6300,
+			"cost": 600000,
 			"item": ["w515",60],
 			"effect": ["15z1","wp_star_15",""],
 			"golden": 0.02,
@@ -42567,8 +42567,8 @@
 		{
 			"id": 15,
 			"star": 6,
-			"charm": 3240,
-			"cost": 1000000,
+			"charm": 7200,
+			"cost": 840000,
 			"item": ["w515",100],
 			"effect": ["15z1","wp_star_15",""],
 			"golden": 0.02,
@@ -42585,8 +42585,8 @@
 		{
 			"id": 15,
 			"star": 7,
-			"charm": 3780,
-			"cost": 1500000,
+			"charm": 8100,
+			"cost": 1120000,
 			"item": ["w515",150],
 			"effect": ["15z1","wp_star_15",""],
 			"golden": 0.03,
@@ -42603,8 +42603,8 @@
 		{
 			"id": 15,
 			"star": 8,
-			"charm": 4320,
-			"cost": 2000000,
+			"charm": 9000,
+			"cost": 1440000,
 			"item": ["w515",200],
 			"effect": ["15z1","wp_star_15","3jie"],
 			"golden": 0.03,
@@ -42621,8 +42621,8 @@
 		{
 			"id": 15,
 			"star": 9,
-			"charm": 5400,
-			"cost": 2500000,
+			"charm": 10800,
+			"cost": 1800000,
 			"item": ["w515",300],
 			"effect": ["15z1","wp_star_15","3jie"],
 			"golden": 0.04,
@@ -42639,8 +42639,8 @@
 		{
 			"id": 15,
 			"star": 10,
-			"charm": 6480,
-			"cost": 3000000,
+			"charm": 12600,
+			"cost": 2200000,
 			"item": ["w515",400],
 			"effect": ["15z1","wp_star_15","4jie"],
 			"golden": 0.04,
@@ -42657,8 +42657,8 @@
 		{
 			"id": 15,
 			"star": 11,
-			"charm": 7560,
-			"cost": 4000000,
+			"charm": 14400,
+			"cost": 2640000,
 			"item": ["w515",600],
 			"effect": ["15z1","wp_star_15","4jie"],
 			"golden": 0.05,
@@ -42675,8 +42675,8 @@
 		{
 			"id": 15,
 			"star": 12,
-			"charm": 8640,
-			"cost": 5000000,
+			"charm": 16200,
+			"cost": 3120000,
 			"item": ["w515",800],
 			"effect": ["15z1","wp_star_15","4jie"],
 			"golden": 0.05,
@@ -44493,7 +44493,7 @@
 			"maxranking": 0,
 			"integral": 2500,
 			"value": 19,
-			"charm": 1000,
+			"charm": 1200,
 			"nbgold": 57000,
 			"seasonreward": [["i001",1600000],["i002",320],["i254",1]],
 			"treasure1": 1,
@@ -44510,7 +44510,7 @@
 			"maxranking": 0,
 			"integral": 2600,
 			"value": 20,
-			"charm": 1200,
+			"charm": 1400,
 			"nbgold": 57500,
 			"seasonreward": [["i001",1700000],["i002",340],["i254",1]],
 			"treasure1": 1,
@@ -44527,7 +44527,7 @@
 			"maxranking": 0,
 			"integral": 2700,
 			"value": 21,
-			"charm": 1400,
+			"charm": 1600,
 			"nbgold": 58000,
 			"seasonreward": [["i001",1800000],["i002",360],["i254",1]],
 			"treasure1": 1,
@@ -44544,7 +44544,7 @@
 			"maxranking": 0,
 			"integral": 2800,
 			"value": 22,
-			"charm": 1600,
+			"charm": 1800,
 			"nbgold": 58500,
 			"seasonreward": [["i001",1900000],["i002",380],["i254",1]],
 			"treasure1": 1,
@@ -44561,7 +44561,7 @@
 			"maxranking": 0,
 			"integral": 2900,
 			"value": 23,
-			"charm": 1800,
+			"charm": 2000,
 			"nbgold": 59000,
 			"seasonreward": [["i001",2000000],["i002",400],["i254",1]],
 			"treasure1": 1,
@@ -44578,7 +44578,7 @@
 			"maxranking": 0,
 			"integral": 3100,
 			"value": 24,
-			"charm": 2000,
+			"charm": 2400,
 			"nbgold": 59500,
 			"seasonreward": [["i001",2200000],["i002",440],["i255",1]],
 			"treasure1": 1,
@@ -44595,7 +44595,7 @@
 			"maxranking": 0,
 			"integral": 3200,
 			"value": 25,
-			"charm": 2200,
+			"charm": 2800,
 			"nbgold": 60000,
 			"seasonreward": [["i001",2400000],["i002",480],["i255",1]],
 			"treasure1": 1,
@@ -44612,7 +44612,7 @@
 			"maxranking": 0,
 			"integral": 3300,
 			"value": 26,
-			"charm": 2400,
+			"charm": 3200,
 			"nbgold": 60500,
 			"seasonreward": [["i001",2600000],["i002",520],["i255",1]],
 			"treasure1": 1,
@@ -44629,7 +44629,7 @@
 			"maxranking": 0,
 			"integral": 3400,
 			"value": 27,
-			"charm": 2600,
+			"charm": 3600,
 			"nbgold": 61000,
 			"seasonreward": [["i001",2800000],["i002",560],["i255",1]],
 			"treasure1": 1,
@@ -44646,7 +44646,7 @@
 			"maxranking": 0,
 			"integral": 3500,
 			"value": 28,
-			"charm": 2800,
+			"charm": 4000,
 			"nbgold": 61500,
 			"seasonreward": [["i001",3000000],["i002",600],["i255",1]],
 			"treasure1": 1,
@@ -44663,7 +44663,7 @@
 			"maxranking": 10,
 			"integral": 3600,
 			"value": 29,
-			"charm": 3000,
+			"charm": 5000,
 			"nbgold": 62000,
 			"seasonreward": [["i001",4000000],["i002",800],["i256",1]],
 			"treasure1": 1,
@@ -44680,7 +44680,7 @@
 			"maxranking": 1,
 			"integral": 3800,
 			"value": 30,
-			"charm": 3200,
+			"charm": 6000,
 			"nbgold": 63000,
 			"seasonreward": [["i001",5000000],["i002",1000],["i257",1]],
 			"treasure1": 1,
@@ -56204,7 +56204,7 @@
 			"friend": 15,
 			"vip_dailyDiamond": 0,
 			"drawtimes": 12,
-			"charm": 1000,
+			"charm": 300,
 			"vip_miniGameAdd": [],
 			"chatpic": "speak_02",
 			"chatcolor": "#f8df40",
@@ -56219,7 +56219,7 @@
 			"vip_alms_times": 3,
 			"gift_price1": 110,
 			"gift_price2": 10,
-			"gift_item": [["i001",50000],["i013",5],["i007",20]],
+			"gift_item": [["i001",50000],["i013",5],["i006",2]],
 			"gift_free": [["i001",5000],["i002",1]],
 			"vip_autoattact": [],
 			"description": "vip_desc_1",
@@ -56232,7 +56232,7 @@
 			"friend": 20,
 			"vip_dailyDiamond": 0,
 			"drawtimes": 18,
-			"charm": 2000,
+			"charm": 600,
 			"vip_miniGameAdd": [],
 			"chatpic": "speak_02",
 			"chatcolor": "#f8df40",
@@ -56247,7 +56247,7 @@
 			"vip_alms_times": 4,
 			"gift_price1": 300,
 			"gift_price2": 30,
-			"gift_item": [["i001",100000],["i012",50],["i007",30]],
+			"gift_item": [["i001",100000],["i012",50],["i006",3]],
 			"gift_free": [["i001",10000],["i002",1]],
 			"vip_autoattact": [],
 			"description": "vip_desc_2",
@@ -56260,7 +56260,7 @@
 			"friend": 25,
 			"vip_dailyDiamond": 0,
 			"drawtimes": 24,
-			"charm": 4000,
+			"charm": 1000,
 			"vip_miniGameAdd": [],
 			"chatpic": "speak_02",
 			"chatcolor": "#f8df40",
@@ -56275,7 +56275,7 @@
 			"vip_alms_times": 4,
 			"gift_price1": 550,
 			"gift_price2": 55,
-			"gift_item": [["i001",150000],["i015",5],["i007",40]],
+			"gift_item": [["i001",150000],["i015",5],["i006",4]],
 			"gift_free": [["i001",15000],["i002",1],["i220",1]],
 			"vip_autoattact": [],
 			"description": "vip_desc_3",
@@ -56288,7 +56288,7 @@
 			"friend": 30,
 			"vip_dailyDiamond": 0,
 			"drawtimes": 32,
-			"charm": 7000,
+			"charm": 2000,
 			"vip_miniGameAdd": [],
 			"chatpic": "speak_03",
 			"chatcolor": "#d2f5bb",
@@ -56303,7 +56303,7 @@
 			"vip_alms_times": 5,
 			"gift_price1": 700,
 			"gift_price2": 80,
-			"gift_item": [["i001",200000],["i012",100],["i007",50]],
+			"gift_item": [["i001",200000],["i012",100],["i006",5]],
 			"gift_free": [["i001",20000],["i002",1],["i220",1]],
 			"vip_autoattact": [11,17,20],
 			"description": "vip_desc_4",
@@ -56316,7 +56316,7 @@
 			"friend": 35,
 			"vip_dailyDiamond": 0,
 			"drawtimes": 38,
-			"charm": 10000,
+			"charm": 3000,
 			"vip_miniGameAdd": [[0,0.02]],
 			"chatpic": "speak_03",
 			"chatcolor": "#d2f5bb",
@@ -56331,7 +56331,7 @@
 			"vip_alms_times": 5,
 			"gift_price1": 1000,
 			"gift_price2": 120,
-			"gift_item": [["i001",250000],["i015",10],["i007",60]],
+			"gift_item": [["i001",250000],["i015",10],["i006",6]],
 			"gift_free": [["i001",25000],["i002",1],["i220",1]],
 			"vip_autoattact": [11,17,20],
 			"description": "vip_desc_5",
@@ -56344,7 +56344,7 @@
 			"friend": 40,
 			"vip_dailyDiamond": 20,
 			"drawtimes": 44,
-			"charm": 15000,
+			"charm": 4000,
 			"vip_miniGameAdd": [[0,0.04]],
 			"chatpic": "speak_04",
 			"chatcolor": "#ffb655",
@@ -56359,7 +56359,7 @@
 			"vip_alms_times": 6,
 			"gift_price1": 1400,
 			"gift_price2": 180,
-			"gift_item": [["i001",500000],["i013",200],["i007",70]],
+			"gift_item": [["i001",500000],["i013",200],["i006",7]],
 			"gift_free": [["i001",30000],["i002",1],["i220",1]],
 			"vip_autoattact": [11,17,20],
 			"description": "vip_desc_6",
@@ -56372,7 +56372,7 @@
 			"friend": 45,
 			"vip_dailyDiamond": 30,
 			"drawtimes": 50,
-			"charm": 20000,
+			"charm": 7000,
 			"vip_miniGameAdd": [[0,0.06]],
 			"chatpic": "speak_04",
 			"chatcolor": "#ffb655",
@@ -56387,7 +56387,7 @@
 			"vip_alms_times": 6,
 			"gift_price1": 1750,
 			"gift_price2": 200,
-			"gift_item": [["i001",500000],["i016",5],["i007",80]],
+			"gift_item": [["i001",500000],["i016",5],["i006",8]],
 			"gift_free": [["i001",35000],["i002",2],["i220",2]],
 			"vip_autoattact": [11,17,20],
 			"description": "vip_desc_7",
@@ -56400,7 +56400,7 @@
 			"friend": 50,
 			"vip_dailyDiamond": 40,
 			"drawtimes": 60,
-			"charm": 30000,
+			"charm": 10000,
 			"vip_miniGameAdd": [[0,0.06],[1,0.02]],
 			"chatpic": "speak_05",
 			"chatcolor": "#655b09",
@@ -56415,7 +56415,7 @@
 			"vip_alms_times": 7,
 			"gift_price1": 2100,
 			"gift_price2": 280,
-			"gift_item": [["i001",1000000],["i012",200],["i007",100]],
+			"gift_item": [["i001",1000000],["i012",200],["i006",10]],
 			"gift_free": [["i001",40000],["i002",2],["i220",2]],
 			"vip_autoattact": [11,17,20],
 			"description": "vip_desc_8",
@@ -56428,7 +56428,7 @@
 			"friend": 55,
 			"vip_dailyDiamond": 50,
 			"drawtimes": 70,
-			"charm": 40000,
+			"charm": 20000,
 			"vip_miniGameAdd": [[0,0.06],[1,0.04]],
 			"chatpic": "speak_05",
 			"chatcolor": "#655b09",
@@ -56443,7 +56443,7 @@
 			"vip_alms_times": 7,
 			"gift_price1": 2700,
 			"gift_price2": 360,
-			"gift_item": [["i001",1000000],["i016",10],["i007",100]],
+			"gift_item": [["i001",1000000],["i016",10],["i006",10]],
 			"gift_free": [["i001",45000],["i002",2],["i220",2]],
 			"vip_autoattact": [11,17,20],
 			"description": "vip_desc_9",
@@ -56456,7 +56456,7 @@
 			"friend": 60,
 			"vip_dailyDiamond": 60,
 			"drawtimes": 80,
-			"charm": 50000,
+			"charm": 40000,
 			"vip_miniGameAdd": [[0,0.06],[1,0.04],[2,0.02]],
 			"chatpic": "speak_06",
 			"chatcolor": "#b6580b",
@@ -56471,7 +56471,7 @@
 			"vip_alms_times": 8,
 			"gift_price1": 3500,
 			"gift_price2": 500,
-			"gift_item": [["i001",1500000],["i016",10],["i007",100],["i400",10]],
+			"gift_item": [["i001",1500000],["i016",10],["i006",10],["i400",10]],
 			"gift_free": [["i001",50000],["i002",2],["i220",2]],
 			"vip_autoattact": [11,17,20],
 			"description": "vip_desc_10",
@@ -56499,7 +56499,7 @@
 			"vip_alms_times": 8,
 			"gift_price1": 4000,
 			"gift_price2": 600,
-			"gift_item": [["i001",2000000],["i015",20],["i007",120],["i400",12]],
+			"gift_item": [["i001",2000000],["i015",20],["i006",12],["i400",12]],
 			"gift_free": [["i001",55000],["i002",3],["i220",3]],
 			"vip_autoattact": [11,17,20],
 			"description": "vip_desc_11",
@@ -56527,7 +56527,7 @@
 			"vip_alms_times": 9,
 			"gift_price1": 5000,
 			"gift_price2": 800,
-			"gift_item": [["i001",3000000],["i015",20],["i007",140],["i400",14]],
+			"gift_item": [["i001",3000000],["i015",20],["i006",14],["i400",14]],
 			"gift_free": [["i001",60000],["i002",3],["i220",3]],
 			"vip_autoattact": [11,17,20],
 			"description": "vip_desc_12",
@@ -56555,7 +56555,7 @@
 			"vip_alms_times": 9,
 			"gift_price1": 6100,
 			"gift_price2": 1000,
-			"gift_item": [["i001",4000000],["i011",100],["i007",160],["i400",16]],
+			"gift_item": [["i001",4000000],["i011",100],["i006",16],["i400",16]],
 			"gift_free": [["i001",65000],["i002",3],["i220",3]],
 			"vip_autoattact": [11,17,20],
 			"description": "vip_desc_13",
@@ -56568,7 +56568,7 @@
 			"friend": 80,
 			"vip_dailyDiamond": 100,
 			"drawtimes": 200,
-			"charm": 120000,
+			"charm": 150000,
 			"vip_miniGameAdd": [[0,0.06],[1,0.06],[2,0.06]],
 			"chatpic": "speak_07",
 			"chatcolor": "#20242e",
@@ -56583,7 +56583,7 @@
 			"vip_alms_times": 10,
 			"gift_price1": 8000,
 			"gift_price2": 1500,
-			"gift_item": [["i001",4000000],["i017",5],["i007",180],["i400",18]],
+			"gift_item": [["i001",4000000],["i017",5],["i006",18],["i400",18]],
 			"gift_free": [["i001",70000],["i002",4],["i220",4]],
 			"vip_autoattact": [11,17,20],
 			"description": "vip_desc_14",
@@ -56596,7 +56596,7 @@
 			"friend": 85,
 			"vip_dailyDiamond": 120,
 			"drawtimes": 300,
-			"charm": 150000,
+			"charm": 200000,
 			"vip_miniGameAdd": [[0,0.06],[1,0.06],[2,0.06]],
 			"chatpic": "speak_07",
 			"chatcolor": "#20242e",
@@ -56611,7 +56611,7 @@
 			"vip_alms_times": 10,
 			"gift_price1": 10500,
 			"gift_price2": 2000,
-			"gift_item": [["i001",5000000],["i017",10],["i007",200],["i400",20]],
+			"gift_item": [["i001",5000000],["i017",10],["i006",20],["i400",20]],
 			"gift_free": [["i001",80000],["i002",5],["i220",5]],
 			"vip_autoattact": [11,17,20],
 			"description": "vip_desc_15",
@@ -59613,49 +59613,49 @@
 			"cn": "Lợi dụng Cá Mìn nổ chết 1000000 con cá khác "
 		},
 		"quest_name_206000": {
-			"cn": "Mua 2 loại súng khác nhau"
+			"cn": "Mua súng Ác Ma "
 		},
 		"quest_name_206001": {
-			"cn": "Mua 3 loại súng khác nhau"
+			"cn": "Mua súng Thiên Sứ "
 		},
 		"quest_name_206002": {
-			"cn": "Mua 4 loại súng khác nhau"
+			"cn": "Mua súng Tia Chớp "
 		},
 		"quest_name_206003": {
-			"cn": "Mua 5 loại súng khác nhau"
+			"cn": "Số lượng súng sở hữu"
 		},
 		"quest_name_206004": {
-			"cn": "Mua 6 loại súng khác nhau"
+			"cn": "Mua súng Cáp Vương "
 		},
 		"quest_name_206005": {
-			"cn": "Mua 7 loại súng khác nhau"
+			"cn": "Mua súng Thiên Hà "
 		},
 		"quest_name_206006": {
-			"cn": "Mua 8 loại súng khác nhau"
+			"cn": "Mua súng Ngọc Hồn "
 		},
 		"quest_name_206007": {
-			"cn": "Mua 9 loại súng khác nhau"
+			"cn": "Mua súng Huyền Kích "
 		},
 		"quest_name_206008": {
-			"cn": "Mua 10 loại súng khác nhau"
+			"cn": "Mua súng Độc Lang "
 		},
 		"quest_name_206009": {
-			"cn": "Mua 11 loại súng khác nhau"
+			"cn": "Mua súng Tinh Anh "
 		},
 		"quest_name_206010": {
-			"cn": "Mua 12 loại súng khác nhau"
+			"cn": "Mua súng Băng Thiên Phách "
 		},
 		"quest_name_206011": {
-			"cn": "Mua 13 loại súng khác nhau"
+			"cn": "Mua súng Thiên Hỏa Phụng "
 		},
 		"quest_name_206012": {
-			"cn": "Mua 14 loại súng khác nhau"
+			"cn": "Mua súng Yểm Nguyệt Thố "
 		},
 		"quest_name_206013": {
-			"cn": "Mua 15 loại súng khác nhau"
+			"cn": "Mua súng Vô Cực Chiến Thần "
 		},
 		"quest_name_206014": {
-			"cn": "Mua 16 loại súng khác nhau"
+			"cn": "Mua súng Vô Cực Chiến Thần "
 		},
 		"quest_name_207000": {
 			"cn": "Bắn 1 lần được 6 con cá "
@@ -60342,7 +60342,7 @@
 			"cn": "今日充值任意金额"
 		},
 		"newbie_name_20200": {
-			"cn": "武器精华5折限时出售"
+			"cn": "海洋之心5折限时出售"
 		},
 		"newbie_name_20300": {
 			"cn": "召唤3折限时出售"
@@ -63192,34 +63192,34 @@
 			"cn": "Có thể mua Túi Quà V0 \nBạn giới hạn 15\nMỗi ngày mua Ruby 5 lần\nMỗi lần Viện trợ nhận 5000 vàng \nMỗi ngày có thể nhận Viện trợ 3 lần"
 		},
 		"vip_desc_1": {
-			"cn": "Có thể mua Túi Quà V1 1000 Mị Lực \nBạn giới hạn 15\nNhận hàng ngày khi còn dưới 20 Ruby (1 lần/ngày)\nEXP nhân vật +1%\nKích Quang Mị Lực +1%\nMỗi ngày mua Ruby 10 lần\nMỗi lần Viện trợ nhận 10000 vàng \nMỗi ngày có thể nhận Viện trợ 3 lần"
+			"cn": "Có thể mua Túi Quà V1 300 Mị Lực \nBạn giới hạn 15\nNhận hàng ngày khi còn dưới 20 Ruby (1 lần/ngày)\nEXP nhân vật +1%\nKích Quang Mị Lực +1%\nMỗi ngày mua Ruby 10 lần\nMỗi lần Viện trợ nhận 10000 vàng \nMỗi ngày có thể nhận Viện trợ 3 lần"
 		},
 		"vip_desc_2": {
-			"cn": "Có thể mua Túi Quà V2 2000 Mị Lực \nBạn giới hạn 20\nNhận hàng ngày khi còn dưới 30 Ruby (1 lần/ngày)\nEXP nhân vật +2%\nKích Quang Mị Lực +1%\nMỗi ngày mua Ruby 15 lần\nMỗi lần Viện trợ nhận 15000 vàng \nMỗi ngày có thể nhận Viện trợ 4 lần"
+			"cn": "Có thể mua Túi Quà V2 600 Mị Lực \nBạn giới hạn 20\nNhận hàng ngày khi còn dưới 30 Ruby (1 lần/ngày)\nEXP nhân vật +2%\nKích Quang Mị Lực +1%\nMỗi ngày mua Ruby 15 lần\nMỗi lần Viện trợ nhận 15000 vàng \nMỗi ngày có thể nhận Viện trợ 4 lần"
 		},
 		"vip_desc_3": {
-			"cn": "Có thể mua Túi Quà V3 4000 Mị Lực \nBạn giới hạn 25\nNhận hàng ngày khi còn dưới 40 Ruby (1 lần/ngày)\nEXP nhân vật +3%\nKích Quang Mị Lực +1%\nMỗi ngày mua Ruby 20 lần\nMỗi lần Viện trợ nhận 20000 vàng \nMỗi ngày có thể nhận Viện trợ 4 lần"
+			"cn": "Có thể mua Túi Quà V3 1000 Mị Lực \nBạn giới hạn 25\nNhận hàng ngày khi còn dưới 40 Ruby (1 lần/ngày)\nEXP nhân vật +3%\nKích Quang Mị Lực +1%\nMỗi ngày mua Ruby 20 lần\nMỗi lần Viện trợ nhận 20000 vàng \nMỗi ngày có thể nhận Viện trợ 4 lần"
 		},
 		"vip_desc_4": {
-			"cn": "Có thể mua Túi Quà V4 7000 Mị Lực \nBạn giới hạn 30\nNhận hàng ngày khi còn dưới 50 Ruby (1 lần/ngày)\nEXP nhân vật +4%\nKích Quang Mị Lực +1%\nMỗi ngày mua Ruby 30 lần \nMỗi lần Viện trợ nhận 25000 vàng \nMỗi ngày có thể nhận Viện trợ 5 lần"
+			"cn": "Có thể mua Túi Quà V4 2000 Mị Lực \nBạn giới hạn 30\nNhận hàng ngày khi còn dưới 50 Ruby (1 lần/ngày)\nEXP nhân vật +4%\nKích Quang Mị Lực +1%\nMỗi ngày mua Ruby 30 lần \nMỗi lần Viện trợ nhận 25000 vàng \nMỗi ngày có thể nhận Viện trợ 5 lần"
 		},
 		"vip_desc_5": {
-			"cn": "Có thể mua Túi Quà V5 10000 Mị Lực \nBạn giới hạn 35\nNhận hàng ngày khi còn dưới 60 Ruby (1 lần/ngày)\nEXP nhân vật +5%\nKích Quang Mị Lực +4%\nMỗi ngày mua Ruby 40 lần \nMỗi lần Viện trợ nhận 30000 vàng \nMỗi ngày có thể nhận Viện trợ 5 lần"
+			"cn": "Có thể mua Túi Quà V5 3000 Mị Lực \nBạn giới hạn 35\nNhận hàng ngày khi còn dưới 60 Ruby (1 lần/ngày)\nEXP nhân vật +5%\nKích Quang Mị Lực +4%\nMỗi ngày mua Ruby 40 lần \nMỗi lần Viện trợ nhận 30000 vàng \nMỗi ngày có thể nhận Viện trợ 5 lần"
 		},
 		"vip_desc_6": {
-			"cn": "Có thể mua Túi Quà V6 15000 Mị Lực \nBạn giới hạn 40\nNhận hàng ngày khi còn dưới 70 Ruby (1 lần/ngày)\nEXP nhân vật +6%\nKích Quang Mị Lực +5%\nMỗi ngày mua Ruby 60 lần \nMỗi lần Viện trợ nhận 35000 vàng \nMỗi ngày có thể nhận Viện trợ 6 lần"
+			"cn": "Có thể mua Túi Quà V6 4000 Mị Lực \nBạn giới hạn 40\nNhận hàng ngày khi còn dưới 70 Ruby (1 lần/ngày)\nEXP nhân vật +6%\nKích Quang Mị Lực +5%\nMỗi ngày mua Ruby 60 lần \nMỗi lần Viện trợ nhận 35000 vàng \nMỗi ngày có thể nhận Viện trợ 6 lần"
 		},
 		"vip_desc_7": {
-			"cn": "Có thể mua Túi Quà V7 20000 Mị Lực \nBạn giới hạn 45\nNhận hàng ngày khi còn dưới 80 Ruby (1 lần/ngày)\nEXP nhân vật +7%\nKích Quang Mị Lực +5%\nBom Sơ Cấp Mị Lực +1%\nMỗi ngày mua Ruby 80 lần \nMỗi lần Viện trợ nhận 40000 vàng \nMỗi ngày có thể nhận Viện trợ 6 lần"
+			"cn": "Có thể mua Túi Quà V7 7000 Mị Lực \nBạn giới hạn 45\nNhận hàng ngày khi còn dưới 80 Ruby (1 lần/ngày)\nEXP nhân vật +7%\nKích Quang Mị Lực +5%\nBom Sơ Cấp Mị Lực +1%\nMỗi ngày mua Ruby 80 lần \nMỗi lần Viện trợ nhận 40000 vàng \nMỗi ngày có thể nhận Viện trợ 6 lần"
 		},
 		"vip_desc_8": {
-			"cn": "Có thể mua Túi Quà V8 30000 Mị Lực \nBạn giới hạn 50\nNhận hàng ngày khi còn dưới 90 Ruby (1 lần/ngày)\nEXP nhân vật +8%\nKích Quang Mị Lực +5%\nBom Sơ Cấp Mị Lực +2%\nMỗi ngày mua Ruby 100 lần \nMỗi lần Viện trợ nhận 45000 vàng \nMỗi ngày có thể nhận Viện trợ 7 lần"
+			"cn": "Có thể mua Túi Quà V8 10000 Mị Lực \nBạn giới hạn 50\nNhận hàng ngày khi còn dưới 90 Ruby (1 lần/ngày)\nEXP nhân vật +8%\nKích Quang Mị Lực +5%\nBom Sơ Cấp Mị Lực +2%\nMỗi ngày mua Ruby 100 lần \nMỗi lần Viện trợ nhận 45000 vàng \nMỗi ngày có thể nhận Viện trợ 7 lần"
 		},
 		"vip_desc_9": {
-			"cn": "Có thể mua Túi Quà V9 40000 Mị Lực \nBạn giới hạn 55\nNhận hàng ngày khi còn dưới 100 Ruby (1 lần/ngày)\nEXP nhân vật +9%\nKích Quang Mị Lực +5%\nBom Sơ Cấp Mị Lực +2%\nBom Trung Cấp Mị Lực +1%\nMỗi ngày mua Ruby 150 lần \nMỗi lần Viện trợ nhận 50000 vàng \nMỗi ngày có thể nhận Viện trợ 7 lần"
+			"cn": "Có thể mua Túi Quà V9 20000 Mị Lực \nBạn giới hạn 55\nNhận hàng ngày khi còn dưới 100 Ruby (1 lần/ngày)\nEXP nhân vật +9%\nKích Quang Mị Lực +5%\nBom Sơ Cấp Mị Lực +2%\nBom Trung Cấp Mị Lực +1%\nMỗi ngày mua Ruby 150 lần \nMỗi lần Viện trợ nhận 50000 vàng \nMỗi ngày có thể nhận Viện trợ 7 lần"
 		},
 		"vip_desc_10": {
-			"cn": "Có thể mua Túi Quà V10 50000 Mị Lực \nBạn giới hạn 60\nNhận hàng ngày khi còn dưới 110 Ruby (1 lần/ngày)\nEXP nhân vật +10%\nKích Quang Mị Lực +5%\nBom Sơ Cấp Mị Lực +2%\nBom Trung Cấp Mị Lực +2%\nMỗi ngày mua Ruby 200 lần \nMỗi lần Viện trợ nhận 55000 vàng \nMỗi ngày có thể nhận Viện trợ 8 lần"
+			"cn": "Có thể mua Túi Quà V10 40000 Mị Lực \nBạn giới hạn 60\nNhận hàng ngày khi còn dưới 110 Ruby (1 lần/ngày)\nEXP nhân vật +10%\nKích Quang Mị Lực +5%\nBom Sơ Cấp Mị Lực +2%\nBom Trung Cấp Mị Lực +2%\nMỗi ngày mua Ruby 200 lần \nMỗi lần Viện trợ nhận 55000 vàng \nMỗi ngày có thể nhận Viện trợ 8 lần"
 		},
 		"vip_desc_11": {
 			"cn": "Có thể mua Túi Quà V11 60000 Mị Lực \nBạn giới hạn 65\nNhận hàng ngày khi còn dưới 120 Ruby (1 lần/ngày)\nEXP nhân vật +11%\nKích Quang Mị Lực +5%\nBom Sơ Cấp Mị Lực +3%\nBom Trung Cấp Mị Lực +2%\nMỗi ngày mua Ruby 300 lần \nMỗi lần Viện trợ nhận 60000 vàng \nMỗi ngày có thể nhận Viện trợ 8 lần"
@@ -63231,10 +63231,10 @@
 			"cn": "Có thể mua Túi Quà V13 100000 Mị Lực \nBạn giới hạn 75\nNhận hàng ngày khi còn dưới 140 Ruby (1 lần/ngày)\nEXP nhân vật +13%\nKích Quang Mị Lực +5%\nBom Sơ Cấp Mị Lực +4%\nBom Trung Cấp Mị Lực +3%\nMỗi ngày mua Ruby 600 lần \nMỗi lần Viện trợ nhận 70000 vàng \nMỗi ngày có thể nhận Viện trợ 9 lần"
 		},
 		"vip_desc_14": {
-			"cn": "Có thể mua Túi Quà V14 120000 Mị Lực \nBạn giới hạn 80\nNhận hàng ngày khi còn dưới 150 Ruby (1 lần/ngày)\nEXP nhân vật +14%\nKích Quang Mị Lực +5%\nBom Sơ Cấp Mị Lực +4%\nBom Trung Cấp Mị Lực +4%\nMỗi ngày mua Ruby 800 lần \nMỗi lần Viện trợ nhận 75000 vàng \nMỗi ngày có thể nhận Viện trợ 10 lần"
+			"cn": "Có thể mua Túi Quà V14 150000 Mị Lực \nBạn giới hạn 80\nNhận hàng ngày khi còn dưới 150 Ruby (1 lần/ngày)\nEXP nhân vật +14%\nKích Quang Mị Lực +5%\nBom Sơ Cấp Mị Lực +4%\nBom Trung Cấp Mị Lực +4%\nMỗi ngày mua Ruby 800 lần \nMỗi lần Viện trợ nhận 75000 vàng \nMỗi ngày có thể nhận Viện trợ 10 lần"
 		},
 		"vip_desc_15": {
-			"cn": "Có thể mua Túi Quà V15 150000 Mị Lực \nBạn giới hạn 85\nNhận hàng ngày khi còn dưới 160 Ruby (1 lần/ngày)\nEXP nhân vật +15%\nKích Quang Mị Lực +5%\nBom Sơ Cấp Mị Lực +5%\nBom Trung Cấp Mị Lực +5%\nMỗi ngày mua Ruby 1000 lần \nMỗi lần Viện trợ nhận 80000 vàng \nMỗi ngày có thể nhận Viện trợ 10 lần"
+			"cn": "Có thể mua Túi Quà V15 200000 Mị Lực \nBạn giới hạn 85\nNhận hàng ngày khi còn dưới 160 Ruby (1 lần/ngày)\nEXP nhân vật +15%\nKích Quang Mị Lực +5%\nBom Sơ Cấp Mị Lực +5%\nBom Trung Cấp Mị Lực +5%\nMỗi ngày mua Ruby 1000 lần \nMỗi lần Viện trợ nhận 80000 vàng \nMỗi ngày có thể nhận Viện trợ 10 lần"
 		},
 		"str_wp_tip": {
 			"cn": "%d lần "
@@ -63450,7 +63450,7 @@
 			"cn": "*vip**charm*<color=#00ff00>xx</> Bảo Vệ Nữ Thần đã vượt thành công <color=#00ff00>xx</> ải "
 		},
 		"notify_draw_reward": {
-			"cn": "*vip**charm*<color=#00ff00>xx</> rút thăm Linh kiện nhận <color=#00ff00>xx*xx</>!"
+			"cn": "*vip**charm*<color=#00ff00>xx</> rút thăm Quà may mắn nhận <color=#00ff00>xx*xx</>!"
 		},
 		"notify_goddess_unlock": {
 			"cn": "*vip**charm*<color=#00ff00>xx</> đã mở khóa <color=#00ff00>xx</>, ngưỡng mộ quá đi!"
@@ -65781,16 +65781,7 @@
 			"cn": "%s后关闭新手狂欢"
 		},
 		"str_newbie_1": {
-			"cn": "明日登录送话费券"
-		},
-		"str_newbie_2": {
 			"cn": "明日登录送皮肤"
-		},
-		"str_newbie_3": {
-			"cn": "明日登录送百万金币"
-		},
-		"str_newbie_4": {
-			"cn": "明日登录送核弹"
 		},
 		"str_goddess_free_enter": {
 			"cn": "今日还可免费进入%d次"
@@ -66157,7 +66148,7 @@
 			"name": "newbie_name_10605",
 			"condition": 3,
 			"value1": 0,
-			"value2": 26,
+			"value2": 27,
 			"reward": [["i400",3],["i012",3]],
 			"opendays": 6
 		},
@@ -66168,7 +66159,7 @@
 			"name": "newbie_name_10606",
 			"condition": 3,
 			"value1": 0,
-			"value2": 28,
+			"value2": 30,
 			"reward": [["i400",4],["i012",4]],
 			"opendays": 7
 		},
@@ -67346,7 +67337,7 @@
 			"condition": 29,
 			"value1": 0,
 			"value2": 6,
-			"reward": [["i007",5],["i004",1]],
+			"reward": [["i002",1],["i004",1]],
 			"opendays": 5
 		},
 		{
@@ -67357,7 +67348,7 @@
 			"condition": 29,
 			"value1": 0,
 			"value2": 10,
-			"reward": [["i007",5],["i004",1]],
+			"reward": [["i002",1],["i004",1]],
 			"opendays": 5
 		},
 		{
@@ -67368,7 +67359,7 @@
 			"condition": 29,
 			"value1": 0,
 			"value2": 11,
-			"reward": [["i007",10],["i004",1]],
+			"reward": [["i002",2],["i004",1]],
 			"opendays": 5
 		},
 		{
@@ -67379,7 +67370,7 @@
 			"condition": 29,
 			"value1": 0,
 			"value2": 15,
-			"reward": [["i007",10],["i004",1]],
+			"reward": [["i002",2],["i004",1]],
 			"opendays": 5
 		},
 		{
@@ -67390,7 +67381,7 @@
 			"condition": 29,
 			"value1": 0,
 			"value2": 16,
-			"reward": [["i007",15],["i004",1]],
+			"reward": [["i002",3],["i004",1]],
 			"opendays": 5
 		},
 		{
@@ -67401,7 +67392,7 @@
 			"condition": 29,
 			"value1": 0,
 			"value2": 18,
-			"reward": [["i007",15],["i004",1]],
+			"reward": [["i002",3],["i004",1]],
 			"opendays": 5
 		},
 		{
@@ -67412,7 +67403,7 @@
 			"condition": 29,
 			"value1": 0,
 			"value2": 20,
-			"reward": [["i007",15],["i004",1]],
+			"reward": [["i002",3],["i004",1]],
 			"opendays": 5
 		},
 		{
@@ -67423,7 +67414,7 @@
 			"condition": 29,
 			"value1": 0,
 			"value2": 21,
-			"reward": [["i007",20],["i004",2]],
+			"reward": [["i002",4],["i004",2]],
 			"opendays": 6
 		},
 		{
@@ -67434,7 +67425,7 @@
 			"condition": 29,
 			"value1": 0,
 			"value2": 22,
-			"reward": [["i007",20],["i004",2]],
+			"reward": [["i002",4],["i004",2]],
 			"opendays": 6
 		},
 		{
@@ -67445,7 +67436,7 @@
 			"condition": 29,
 			"value1": 0,
 			"value2": 23,
-			"reward": [["i007",20],["i004",2]],
+			"reward": [["i002",4],["i004",2]],
 			"opendays": 7
 		},
 		{
@@ -67456,7 +67447,7 @@
 			"condition": 29,
 			"value1": 0,
 			"value2": 24,
-			"reward": [["i007",20],["i004",2]],
+			"reward": [["i002",4],["i004",2]],
 			"opendays": 7
 		},
 		{
@@ -67467,7 +67458,7 @@
 			"condition": 29,
 			"value1": 0,
 			"value2": 25,
-			"reward": [["i007",20],["i004",2]],
+			"reward": [["i002",4],["i004",2]],
 			"opendays": 8
 		},
 		{
@@ -67764,7 +67755,7 @@
 			"condition": 2,
 			"value1": 9,
 			"value2": 4,
-			"reward": [["i400",1],["i004",2]],
+			"reward": [["i400",1],["i004",4]],
 			"opendays": 6
 		},
 		{
@@ -67775,7 +67766,7 @@
 			"condition": 2,
 			"value1": 9,
 			"value2": 6,
-			"reward": [["i400",1],["i004",2]],
+			"reward": [["i400",1],["i004",4]],
 			"opendays": 6
 		},
 		{
@@ -67786,7 +67777,7 @@
 			"condition": 2,
 			"value1": 9,
 			"value2": 8,
-			"reward": [["i400",1],["i004",2]],
+			"reward": [["i400",1],["i004",4]],
 			"opendays": 6
 		},
 		{
@@ -67797,7 +67788,7 @@
 			"condition": 2,
 			"value1": 9,
 			"value2": 10,
-			"reward": [["i400",1],["i004",2]],
+			"reward": [["i400",1],["i004",4]],
 			"opendays": 6
 		},
 		{
@@ -67808,7 +67799,7 @@
 			"condition": 2,
 			"value1": 9,
 			"value2": 12,
-			"reward": [["i400",1],["i004",2]],
+			"reward": [["i400",1],["i004",4]],
 			"opendays": 6
 		},
 		{
@@ -67819,7 +67810,7 @@
 			"condition": 2,
 			"value1": 9,
 			"value2": 14,
-			"reward": [["i400",1],["i004",2]],
+			"reward": [["i400",1],["i004",4]],
 			"opendays": 7
 		},
 		{
@@ -67830,7 +67821,7 @@
 			"condition": 2,
 			"value1": 9,
 			"value2": 16,
-			"reward": [["i400",1],["i004",2]],
+			"reward": [["i400",1],["i004",4]],
 			"opendays": 7
 		},
 		{
@@ -67841,7 +67832,7 @@
 			"condition": 2,
 			"value1": 9,
 			"value2": 18,
-			"reward": [["i400",1],["i004",2]],
+			"reward": [["i400",1],["i004",4]],
 			"opendays": 8
 		},
 		{
@@ -67852,7 +67843,7 @@
 			"condition": 2,
 			"value1": 9,
 			"value2": 20,
-			"reward": [["i400",1],["i004",2]],
+			"reward": [["i400",1],["i004",4]],
 			"opendays": 8
 		},
 		{
@@ -67907,7 +67898,7 @@
 			"condition": 10,
 			"value1": 0,
 			"value2": 500,
-			"reward": [["i400",2],["i240",10]],
+			"reward": [["i006",2],["i400",2]],
 			"opendays": 7
 		},
 		{
@@ -67918,7 +67909,7 @@
 			"condition": 10,
 			"value1": 0,
 			"value2": 1000,
-			"reward": [["i400",2],["i240",10]],
+			"reward": [["i006",2],["i400",2]],
 			"opendays": 7
 		},
 		{
@@ -67929,7 +67920,7 @@
 			"condition": 10,
 			"value1": 0,
 			"value2": 2000,
-			"reward": [["i400",4],["i240",20]],
+			"reward": [["i006",4],["i400",4]],
 			"opendays": 7
 		},
 		{
@@ -67940,7 +67931,7 @@
 			"condition": 10,
 			"value1": 0,
 			"value2": 4000,
-			"reward": [["i400",8],["i240",40]],
+			"reward": [["i006",8],["i400",8]],
 			"opendays": 7
 		},
 		{
@@ -67951,7 +67942,7 @@
 			"condition": 10,
 			"value1": 0,
 			"value2": 6000,
-			"reward": [["i400",8],["i240",40]],
+			"reward": [["i006",8],["i400",8]],
 			"opendays": 7
 		},
 		{
@@ -67962,7 +67953,7 @@
 			"condition": 10,
 			"value1": 0,
 			"value2": 8000,
-			"reward": [["i400",8],["i240",40]],
+			"reward": [["i006",8],["i400",8]],
 			"opendays": 7
 		},
 		{
@@ -67973,7 +67964,7 @@
 			"condition": 10,
 			"value1": 0,
 			"value2": 10000,
-			"reward": [["i400",8],["i240",40]],
+			"reward": [["i006",8],["i400",8]],
 			"opendays": 7
 		},
 		{
@@ -67984,7 +67975,7 @@
 			"condition": 10,
 			"value1": 0,
 			"value2": 20000,
-			"reward": [["i400",40],["i240",200]],
+			"reward": [["i006",40],["i400",40]],
 			"opendays": 7
 		},
 		{
@@ -67995,7 +67986,7 @@
 			"condition": 10,
 			"value1": 0,
 			"value2": 30000,
-			"reward": [["i400",40],["i240",200]],
+			"reward": [["i006",40],["i400",40]],
 			"opendays": 7
 		},
 		{
@@ -68006,7 +67997,7 @@
 			"condition": 10,
 			"value1": 2,
 			"value2": 50000,
-			"reward": [["i400",80],["i240",400]],
+			"reward": [["i006",80],["i400",80]],
 			"opendays": 7
 		},
 		{
@@ -68094,7 +68085,7 @@
 			"condition": 8,
 			"value1": 0,
 			"value2": 50000,
-			"reward": [["i006",2],["i230",5]],
+			"reward": [["i230",5],["i004",2]],
 			"opendays": 8
 		},
 		{
@@ -68105,7 +68096,7 @@
 			"condition": 8,
 			"value1": 0,
 			"value2": 100000,
-			"reward": [["i006",2],["i230",5]],
+			"reward": [["i230",5],["i004",2]],
 			"opendays": 8
 		},
 		{
@@ -68116,7 +68107,7 @@
 			"condition": 8,
 			"value1": 0,
 			"value2": 150000,
-			"reward": [["i006",2],["i230",5]],
+			"reward": [["i230",5],["i004",2]],
 			"opendays": 8
 		},
 		{
@@ -68127,7 +68118,7 @@
 			"condition": 8,
 			"value1": 0,
 			"value2": 200000,
-			"reward": [["i006",2],["i230",5]],
+			"reward": [["i230",5],["i004",2]],
 			"opendays": 8
 		},
 		{
@@ -68138,7 +68129,7 @@
 			"condition": 8,
 			"value1": 0,
 			"value2": 250000,
-			"reward": [["i006",2],["i230",5]],
+			"reward": [["i230",5],["i004",2]],
 			"opendays": 8
 		},
 		{
@@ -68149,7 +68140,7 @@
 			"condition": 8,
 			"value1": 0,
 			"value2": 300000,
-			"reward": [["i006",2],["i230",10]],
+			"reward": [["i230",10],["i004",4]],
 			"opendays": 8
 		},
 		{
@@ -68160,7 +68151,7 @@
 			"condition": 8,
 			"value1": 0,
 			"value2": 500000,
-			"reward": [["i006",2],["i230",10]],
+			"reward": [["i230",10],["i004",4]],
 			"opendays": 8
 		},
 		{
@@ -68171,7 +68162,7 @@
 			"condition": 8,
 			"value1": 0,
 			"value2": 600000,
-			"reward": [["i006",2],["i230",10]],
+			"reward": [["i230",10],["i004",4]],
 			"opendays": 8
 		},
 		{
@@ -68182,7 +68173,7 @@
 			"condition": 8,
 			"value1": 0,
 			"value2": 700000,
-			"reward": [["i006",2],["i230",10]],
+			"reward": [["i230",10],["i004",4]],
 			"opendays": 8
 		},
 		{
@@ -68193,7 +68184,7 @@
 			"condition": 8,
 			"value1": 0,
 			"value2": 800000,
-			"reward": [["i006",2],["i230",10]],
+			"reward": [["i230",10],["i004",4]],
 			"opendays": 8
 		},
 		{
@@ -68204,7 +68195,7 @@
 			"condition": 2,
 			"value1": 10,
 			"value2": 1,
-			"reward": [["i240",50],["i004",2]],
+			"reward": [["i002",10],["i004",2]],
 			"opendays": 8
 		},
 		{
@@ -68215,7 +68206,7 @@
 			"condition": 2,
 			"value1": 10,
 			"value2": 2,
-			"reward": [["i240",50],["i004",2]],
+			"reward": [["i002",10],["i004",2]],
 			"opendays": 8
 		},
 		{
@@ -68226,7 +68217,7 @@
 			"condition": 2,
 			"value1": 10,
 			"value2": 3,
-			"reward": [["i240",50],["i004",2]],
+			"reward": [["i002",10],["i004",2]],
 			"opendays": 8
 		},
 		{
@@ -68237,7 +68228,7 @@
 			"condition": 2,
 			"value1": 10,
 			"value2": 4,
-			"reward": [["i240",50],["i004",2]],
+			"reward": [["i002",10],["i004",2]],
 			"opendays": 8
 		},
 		{
@@ -68248,7 +68239,7 @@
 			"condition": 2,
 			"value1": 10,
 			"value2": 5,
-			"reward": [["i240",50],["i004",2]],
+			"reward": [["i002",10],["i004",2]],
 			"opendays": 8
 		},
 		{
@@ -68259,7 +68250,7 @@
 			"condition": 2,
 			"value1": 10,
 			"value2": 6,
-			"reward": [["i240",50],["i004",2]],
+			"reward": [["i002",10],["i004",2]],
 			"opendays": 8
 		},
 		{
@@ -68270,7 +68261,7 @@
 			"condition": 2,
 			"value1": 10,
 			"value2": 7,
-			"reward": [["i240",50],["i004",2]],
+			"reward": [["i002",10],["i004",2]],
 			"opendays": 8
 		},
 		{
@@ -68281,7 +68272,7 @@
 			"condition": 2,
 			"value1": 10,
 			"value2": 8,
-			"reward": [["i240",50],["i004",2]],
+			"reward": [["i002",10],["i004",2]],
 			"opendays": 8
 		},
 		{
@@ -68292,7 +68283,7 @@
 			"condition": 2,
 			"value1": 10,
 			"value2": 9,
-			"reward": [["i240",50],["i004",2]],
+			"reward": [["i002",10],["i004",2]],
 			"opendays": 8
 		},
 		{
@@ -68303,7 +68294,7 @@
 			"condition": 2,
 			"value1": 10,
 			"value2": 10,
-			"reward": [["i240",50],["i004",2]],
+			"reward": [["i002",10],["i004",2]],
 			"opendays": 8
 		}
 	]

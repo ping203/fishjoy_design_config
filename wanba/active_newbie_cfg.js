@@ -348,7 +348,7 @@ var active_newbie_cfg =
 		name : "newbie_name_10605",
 		condition : 3,
 		value1 : 0,
-		value2 : 26,
+		value2 : 27,
 		reward : [["i400",3],["i012",3]],
 		opendays : 6,
 	},
@@ -359,7 +359,7 @@ var active_newbie_cfg =
 		name : "newbie_name_10606",
 		condition : 3,
 		value1 : 0,
-		value2 : 28,
+		value2 : 30,
 		reward : [["i400",4],["i012",4]],
 		opendays : 7,
 	},
@@ -1537,7 +1537,7 @@ var active_newbie_cfg =
 		condition : 29,
 		value1 : 0,
 		value2 : 6,
-		reward : [["i007",5],["i004",1]],
+		reward : [["i002",1],["i004",1]],
 		opendays : 5,
 	},
 	{
@@ -1548,7 +1548,7 @@ var active_newbie_cfg =
 		condition : 29,
 		value1 : 0,
 		value2 : 10,
-		reward : [["i007",5],["i004",1]],
+		reward : [["i002",1],["i004",1]],
 		opendays : 5,
 	},
 	{
@@ -1559,7 +1559,7 @@ var active_newbie_cfg =
 		condition : 29,
 		value1 : 0,
 		value2 : 11,
-		reward : [["i007",10],["i004",1]],
+		reward : [["i002",2],["i004",1]],
 		opendays : 5,
 	},
 	{
@@ -1570,7 +1570,7 @@ var active_newbie_cfg =
 		condition : 29,
 		value1 : 0,
 		value2 : 15,
-		reward : [["i007",10],["i004",1]],
+		reward : [["i002",2],["i004",1]],
 		opendays : 5,
 	},
 	{
@@ -1581,7 +1581,7 @@ var active_newbie_cfg =
 		condition : 29,
 		value1 : 0,
 		value2 : 16,
-		reward : [["i007",15],["i004",1]],
+		reward : [["i002",3],["i004",1]],
 		opendays : 5,
 	},
 	{
@@ -1592,7 +1592,7 @@ var active_newbie_cfg =
 		condition : 29,
 		value1 : 0,
 		value2 : 18,
-		reward : [["i007",15],["i004",1]],
+		reward : [["i002",3],["i004",1]],
 		opendays : 5,
 	},
 	{
@@ -1603,7 +1603,7 @@ var active_newbie_cfg =
 		condition : 29,
 		value1 : 0,
 		value2 : 20,
-		reward : [["i007",15],["i004",1]],
+		reward : [["i002",3],["i004",1]],
 		opendays : 5,
 	},
 	{
@@ -1614,7 +1614,7 @@ var active_newbie_cfg =
 		condition : 29,
 		value1 : 0,
 		value2 : 21,
-		reward : [["i007",20],["i004",2]],
+		reward : [["i002",4],["i004",2]],
 		opendays : 6,
 	},
 	{
@@ -1625,7 +1625,7 @@ var active_newbie_cfg =
 		condition : 29,
 		value1 : 0,
 		value2 : 22,
-		reward : [["i007",20],["i004",2]],
+		reward : [["i002",4],["i004",2]],
 		opendays : 6,
 	},
 	{
@@ -1636,7 +1636,7 @@ var active_newbie_cfg =
 		condition : 29,
 		value1 : 0,
 		value2 : 23,
-		reward : [["i007",20],["i004",2]],
+		reward : [["i002",4],["i004",2]],
 		opendays : 7,
 	},
 	{
@@ -1647,7 +1647,7 @@ var active_newbie_cfg =
 		condition : 29,
 		value1 : 0,
 		value2 : 24,
-		reward : [["i007",20],["i004",2]],
+		reward : [["i002",4],["i004",2]],
 		opendays : 7,
 	},
 	{
@@ -1658,7 +1658,7 @@ var active_newbie_cfg =
 		condition : 29,
 		value1 : 0,
 		value2 : 25,
-		reward : [["i007",20],["i004",2]],
+		reward : [["i002",4],["i004",2]],
 		opendays : 8,
 	},
 	{
@@ -1955,7 +1955,7 @@ var active_newbie_cfg =
 		condition : 2,
 		value1 : 9,
 		value2 : 4,
-		reward : [["i400",1],["i004",2]],
+		reward : [["i400",1],["i004",4]],
 		opendays : 6,
 	},
 	{
@@ -1966,7 +1966,7 @@ var active_newbie_cfg =
 		condition : 2,
 		value1 : 9,
 		value2 : 6,
-		reward : [["i400",1],["i004",2]],
+		reward : [["i400",1],["i004",4]],
 		opendays : 6,
 	},
 	{
@@ -1977,7 +1977,7 @@ var active_newbie_cfg =
 		condition : 2,
 		value1 : 9,
 		value2 : 8,
-		reward : [["i400",1],["i004",2]],
+		reward : [["i400",1],["i004",4]],
 		opendays : 6,
 	},
 	{
@@ -1988,7 +1988,7 @@ var active_newbie_cfg =
 		condition : 2,
 		value1 : 9,
 		value2 : 10,
-		reward : [["i400",1],["i004",2]],
+		reward : [["i400",1],["i004",4]],
 		opendays : 6,
 	},
 	{
@@ -1999,7 +1999,7 @@ var active_newbie_cfg =
 		condition : 2,
 		value1 : 9,
 		value2 : 12,
-		reward : [["i400",1],["i004",2]],
+		reward : [["i400",1],["i004",4]],
 		opendays : 6,
 	},
 	{
@@ -2010,7 +2010,7 @@ var active_newbie_cfg =
 		condition : 2,
 		value1 : 9,
 		value2 : 14,
-		reward : [["i400",1],["i004",2]],
+		reward : [["i400",1],["i004",4]],
 		opendays : 7,
 	},
 	{
@@ -2021,7 +2021,7 @@ var active_newbie_cfg =
 		condition : 2,
 		value1 : 9,
 		value2 : 16,
-		reward : [["i400",1],["i004",2]],
+		reward : [["i400",1],["i004",4]],
 		opendays : 7,
 	},
 	{
@@ -2032,7 +2032,7 @@ var active_newbie_cfg =
 		condition : 2,
 		value1 : 9,
 		value2 : 18,
-		reward : [["i400",1],["i004",2]],
+		reward : [["i400",1],["i004",4]],
 		opendays : 8,
 	},
 	{
@@ -2043,7 +2043,7 @@ var active_newbie_cfg =
 		condition : 2,
 		value1 : 9,
 		value2 : 20,
-		reward : [["i400",1],["i004",2]],
+		reward : [["i400",1],["i004",4]],
 		opendays : 8,
 	},
 	{
@@ -2098,7 +2098,7 @@ var active_newbie_cfg =
 		condition : 10,
 		value1 : 0,
 		value2 : 500,
-		reward : [["i400",2],["i240",10]],
+		reward : [["i006",2],["i400",2]],
 		opendays : 7,
 	},
 	{
@@ -2109,7 +2109,7 @@ var active_newbie_cfg =
 		condition : 10,
 		value1 : 0,
 		value2 : 1000,
-		reward : [["i400",2],["i240",10]],
+		reward : [["i006",2],["i400",2]],
 		opendays : 7,
 	},
 	{
@@ -2120,7 +2120,7 @@ var active_newbie_cfg =
 		condition : 10,
 		value1 : 0,
 		value2 : 2000,
-		reward : [["i400",4],["i240",20]],
+		reward : [["i006",4],["i400",4]],
 		opendays : 7,
 	},
 	{
@@ -2131,7 +2131,7 @@ var active_newbie_cfg =
 		condition : 10,
 		value1 : 0,
 		value2 : 4000,
-		reward : [["i400",8],["i240",40]],
+		reward : [["i006",8],["i400",8]],
 		opendays : 7,
 	},
 	{
@@ -2142,7 +2142,7 @@ var active_newbie_cfg =
 		condition : 10,
 		value1 : 0,
 		value2 : 6000,
-		reward : [["i400",8],["i240",40]],
+		reward : [["i006",8],["i400",8]],
 		opendays : 7,
 	},
 	{
@@ -2153,7 +2153,7 @@ var active_newbie_cfg =
 		condition : 10,
 		value1 : 0,
 		value2 : 8000,
-		reward : [["i400",8],["i240",40]],
+		reward : [["i006",8],["i400",8]],
 		opendays : 7,
 	},
 	{
@@ -2164,7 +2164,7 @@ var active_newbie_cfg =
 		condition : 10,
 		value1 : 0,
 		value2 : 10000,
-		reward : [["i400",8],["i240",40]],
+		reward : [["i006",8],["i400",8]],
 		opendays : 7,
 	},
 	{
@@ -2175,7 +2175,7 @@ var active_newbie_cfg =
 		condition : 10,
 		value1 : 0,
 		value2 : 20000,
-		reward : [["i400",40],["i240",200]],
+		reward : [["i006",40],["i400",40]],
 		opendays : 7,
 	},
 	{
@@ -2186,7 +2186,7 @@ var active_newbie_cfg =
 		condition : 10,
 		value1 : 0,
 		value2 : 30000,
-		reward : [["i400",40],["i240",200]],
+		reward : [["i006",40],["i400",40]],
 		opendays : 7,
 	},
 	{
@@ -2197,7 +2197,7 @@ var active_newbie_cfg =
 		condition : 10,
 		value1 : 2,
 		value2 : 50000,
-		reward : [["i400",80],["i240",400]],
+		reward : [["i006",80],["i400",80]],
 		opendays : 7,
 	},
 	{
@@ -2285,7 +2285,7 @@ var active_newbie_cfg =
 		condition : 8,
 		value1 : 0,
 		value2 : 50000,
-		reward : [["i006",2],["i230",5]],
+		reward : [["i230",5],["i004",2]],
 		opendays : 8,
 	},
 	{
@@ -2296,7 +2296,7 @@ var active_newbie_cfg =
 		condition : 8,
 		value1 : 0,
 		value2 : 100000,
-		reward : [["i006",2],["i230",5]],
+		reward : [["i230",5],["i004",2]],
 		opendays : 8,
 	},
 	{
@@ -2307,7 +2307,7 @@ var active_newbie_cfg =
 		condition : 8,
 		value1 : 0,
 		value2 : 150000,
-		reward : [["i006",2],["i230",5]],
+		reward : [["i230",5],["i004",2]],
 		opendays : 8,
 	},
 	{
@@ -2318,7 +2318,7 @@ var active_newbie_cfg =
 		condition : 8,
 		value1 : 0,
 		value2 : 200000,
-		reward : [["i006",2],["i230",5]],
+		reward : [["i230",5],["i004",2]],
 		opendays : 8,
 	},
 	{
@@ -2329,7 +2329,7 @@ var active_newbie_cfg =
 		condition : 8,
 		value1 : 0,
 		value2 : 250000,
-		reward : [["i006",2],["i230",5]],
+		reward : [["i230",5],["i004",2]],
 		opendays : 8,
 	},
 	{
@@ -2340,7 +2340,7 @@ var active_newbie_cfg =
 		condition : 8,
 		value1 : 0,
 		value2 : 300000,
-		reward : [["i006",2],["i230",10]],
+		reward : [["i230",10],["i004",4]],
 		opendays : 8,
 	},
 	{
@@ -2351,7 +2351,7 @@ var active_newbie_cfg =
 		condition : 8,
 		value1 : 0,
 		value2 : 500000,
-		reward : [["i006",2],["i230",10]],
+		reward : [["i230",10],["i004",4]],
 		opendays : 8,
 	},
 	{
@@ -2362,7 +2362,7 @@ var active_newbie_cfg =
 		condition : 8,
 		value1 : 0,
 		value2 : 600000,
-		reward : [["i006",2],["i230",10]],
+		reward : [["i230",10],["i004",4]],
 		opendays : 8,
 	},
 	{
@@ -2373,7 +2373,7 @@ var active_newbie_cfg =
 		condition : 8,
 		value1 : 0,
 		value2 : 700000,
-		reward : [["i006",2],["i230",10]],
+		reward : [["i230",10],["i004",4]],
 		opendays : 8,
 	},
 	{
@@ -2384,7 +2384,7 @@ var active_newbie_cfg =
 		condition : 8,
 		value1 : 0,
 		value2 : 800000,
-		reward : [["i006",2],["i230",10]],
+		reward : [["i230",10],["i004",4]],
 		opendays : 8,
 	},
 	{
@@ -2395,7 +2395,7 @@ var active_newbie_cfg =
 		condition : 2,
 		value1 : 10,
 		value2 : 1,
-		reward : [["i240",50],["i004",2]],
+		reward : [["i002",10],["i004",2]],
 		opendays : 8,
 	},
 	{
@@ -2406,7 +2406,7 @@ var active_newbie_cfg =
 		condition : 2,
 		value1 : 10,
 		value2 : 2,
-		reward : [["i240",50],["i004",2]],
+		reward : [["i002",10],["i004",2]],
 		opendays : 8,
 	},
 	{
@@ -2417,7 +2417,7 @@ var active_newbie_cfg =
 		condition : 2,
 		value1 : 10,
 		value2 : 3,
-		reward : [["i240",50],["i004",2]],
+		reward : [["i002",10],["i004",2]],
 		opendays : 8,
 	},
 	{
@@ -2428,7 +2428,7 @@ var active_newbie_cfg =
 		condition : 2,
 		value1 : 10,
 		value2 : 4,
-		reward : [["i240",50],["i004",2]],
+		reward : [["i002",10],["i004",2]],
 		opendays : 8,
 	},
 	{
@@ -2439,7 +2439,7 @@ var active_newbie_cfg =
 		condition : 2,
 		value1 : 10,
 		value2 : 5,
-		reward : [["i240",50],["i004",2]],
+		reward : [["i002",10],["i004",2]],
 		opendays : 8,
 	},
 	{
@@ -2450,7 +2450,7 @@ var active_newbie_cfg =
 		condition : 2,
 		value1 : 10,
 		value2 : 6,
-		reward : [["i240",50],["i004",2]],
+		reward : [["i002",10],["i004",2]],
 		opendays : 8,
 	},
 	{
@@ -2461,7 +2461,7 @@ var active_newbie_cfg =
 		condition : 2,
 		value1 : 10,
 		value2 : 7,
-		reward : [["i240",50],["i004",2]],
+		reward : [["i002",10],["i004",2]],
 		opendays : 8,
 	},
 	{
@@ -2472,7 +2472,7 @@ var active_newbie_cfg =
 		condition : 2,
 		value1 : 10,
 		value2 : 8,
-		reward : [["i240",50],["i004",2]],
+		reward : [["i002",10],["i004",2]],
 		opendays : 8,
 	},
 	{
@@ -2483,7 +2483,7 @@ var active_newbie_cfg =
 		condition : 2,
 		value1 : 10,
 		value2 : 9,
-		reward : [["i240",50],["i004",2]],
+		reward : [["i002",10],["i004",2]],
 		opendays : 8,
 	},
 	{
@@ -2494,7 +2494,7 @@ var active_newbie_cfg =
 		condition : 2,
 		value1 : 10,
 		value2 : 10,
-		reward : [["i240",50],["i004",2]],
+		reward : [["i002",10],["i004",2]],
 		opendays : 8,
 	},
 ];
