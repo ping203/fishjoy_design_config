@@ -14,7 +14,7 @@ var aquarium_petup_cfg =
 		needgold : 10000,
 		progoldadd : 0,
 		protimecut : 0,
-		charm : 4,
+		charm : 5,
 	},
 	{
 		level : 2,
@@ -22,7 +22,7 @@ var aquarium_petup_cfg =
 		needgold : 50000,
 		progoldadd : 1,
 		protimecut : 0,
-		charm : 12,
+		charm : 10,
 	},
 	{
 		level : 3,
@@ -30,7 +30,7 @@ var aquarium_petup_cfg =
 		needgold : 100000,
 		progoldadd : 1,
 		protimecut : 0.1,
-		charm : 28,
+		charm : 15,
 	},
 	{
 		level : 4,
@@ -38,7 +38,7 @@ var aquarium_petup_cfg =
 		needgold : 200000,
 		progoldadd : 2,
 		protimecut : 0.1,
-		charm : 48,
+		charm : 25,
 	},
 	{
 		level : 5,
@@ -46,7 +46,7 @@ var aquarium_petup_cfg =
 		needgold : 400000,
 		progoldadd : 2,
 		protimecut : 0.2,
-		charm : 72,
+		charm : 40,
 	},
 	{
 		level : 6,
@@ -54,7 +54,7 @@ var aquarium_petup_cfg =
 		needgold : 700000,
 		progoldadd : 3,
 		protimecut : 0.2,
-		charm : 100,
+		charm : 60,
 	},
 	{
 		level : 7,
@@ -62,7 +62,7 @@ var aquarium_petup_cfg =
 		needgold : 1000000,
 		progoldadd : 3,
 		protimecut : 0.3,
-		charm : 132,
+		charm : 80,
 	},
 	{
 		level : 8,
@@ -70,7 +70,7 @@ var aquarium_petup_cfg =
 		needgold : 1800000,
 		progoldadd : 4,
 		protimecut : 0.3,
-		charm : 168,
+		charm : 100,
 	},
 	{
 		level : 9,
@@ -78,7 +78,7 @@ var aquarium_petup_cfg =
 		needgold : 4000000,
 		progoldadd : 4,
 		protimecut : 0.4,
-		charm : 208,
+		charm : 120,
 	},
 	{
 		level : 10,
@@ -86,7 +86,7 @@ var aquarium_petup_cfg =
 		needgold : 8000000,
 		progoldadd : 5,
 		protimecut : 0.4,
-		charm : 252,
+		charm : 150,
 	},
 	{
 		level : 11,
@@ -94,7 +94,7 @@ var aquarium_petup_cfg =
 		needgold : 10000000,
 		progoldadd : 5,
 		protimecut : 0.5,
-		charm : 298,
+		charm : 200,
 	},
 	{
 		level : 12,
@@ -102,7 +102,7 @@ var aquarium_petup_cfg =
 		needgold : 12000000,
 		progoldadd : 5,
 		protimecut : 0.5,
-		charm : 350,
+		charm : 250,
 	},
 ];
 module.exports = aquarium_petup_cfg;

@@ -44,7 +44,7 @@ var common_const_cfg =
 	CHANGE_CASH_3 : 3,
 	CHANGE_CASH_4 : 3.75,
 	CHANGE_CASH_5 : 100,
-	NEWBIE_WELFARE : [["str_newbie_1","",""],["","xspf","ryjppficon"],["","",""],["","",""],["","",""],["","",""],["","",""],["","",""]],
+	NEWBIE_WELFARE : [["str_newbie_1","",""],["","xs100hf","dhqicon"],["str_newbie_2","",""],["","xspf","ryjppficon"],["str_newbie_3","",""],["","xs100w","100wjbkicon"],["str_newbie_4","",""],["","xs5hd","hedan1"]],
 	WEAPONUP_ITEM_PAY : [["i002",1]],
 	GODDESS_ENTER_COST : [0,0,0,0,0,5,5,10,10,15,15,20],
 };

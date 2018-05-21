@@ -46,6 +46,6 @@ var common_const_cfg =
 	CHANGE_CASH_5 : 100,
 	NEWBIE_WELFARE : [["str_newbie_1","",""],["","xspf","ryjppficon"],["","",""],["","",""],["","",""],["","",""],["","",""],["","",""]],
 	WEAPONUP_ITEM_PAY : [["i002",1]],
-	GODDESS_ENTER_COST : [0,0,0,0,0,5,5,10,10,15,15,20],
+	GODDESS_ENTER_COST : [5,10,15,20,30,40,50,60,80,100],
 };
 module.exports = common_const_cfg;
