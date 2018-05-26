@@ -8,6 +8,7 @@
 			"dropid": "i000",
 			"level": 0,
 			"icon": "gold3",
+			"overtime": 0,
 			"lengthtype": 1,
 			"lengthtime": 90
 		},
@@ -20,6 +21,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "gold3",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -32,6 +34,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "zuanshi",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -44,6 +47,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "dhqicon",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -56,6 +60,7 @@
 			"dropid": "i004",
 			"level": 0,
 			"icon": "suijikalibao",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -68,6 +73,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "dhqicon",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -80,6 +86,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "laba",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -92,6 +99,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "shengbeilvicon",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -104,6 +112,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "skill_02",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -116,6 +125,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "skill_01",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -128,6 +138,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "skill_04",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -140,6 +151,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "skill_03",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -152,6 +164,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "hedan1",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -164,6 +177,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "hedan2",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -176,6 +190,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "hedan3",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -188,6 +203,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "0",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -200,6 +216,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "0",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -212,6 +229,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "huoyueduicon",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -224,6 +242,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "item_01",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -236,6 +255,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "coincatch",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -248,6 +268,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "crazyfugu",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -260,6 +281,7 @@
 			"dropid": "i200",
 			"level": 30,
 			"icon": "100wanbb",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -272,6 +294,7 @@
 			"dropid": "i210",
 			"level": 0,
 			"icon": "1wjbkicon",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -284,6 +307,7 @@
 			"dropid": "i211",
 			"level": 0,
 			"icon": "10wjbkicon",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -296,6 +320,7 @@
 			"dropid": "i212",
 			"level": 0,
 			"icon": "100wjbkicon",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -308,6 +333,7 @@
 			"dropid": "i213",
 			"level": 0,
 			"icon": "1000wjbkicon",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -320,6 +346,7 @@
 			"dropid": "i214",
 			"level": 0,
 			"icon": "1yjbkicon",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -332,6 +359,7 @@
 			"dropid": "i215",
 			"level": 0,
 			"icon": "sjjbkicon",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -344,6 +372,7 @@
 			"dropid": "i220",
 			"level": 0,
 			"icon": "qixi07",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -356,6 +385,7 @@
 			"dropid": "i230",
 			"level": 0,
 			"icon": "qixi09",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -368,6 +398,7 @@
 			"dropid": "i240",
 			"level": 0,
 			"icon": "qixi08",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -380,6 +411,7 @@
 			"dropid": "i251",
 			"level": 0,
 			"icon": "gifts",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -392,6 +424,7 @@
 			"dropid": "i252",
 			"level": 0,
 			"icon": "gifts",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -404,6 +437,7 @@
 			"dropid": "i253",
 			"level": 0,
 			"icon": "gifts",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -416,6 +450,7 @@
 			"dropid": "i254",
 			"level": 0,
 			"icon": "gifts",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -428,6 +463,7 @@
 			"dropid": "i255",
 			"level": 0,
 			"icon": "gifts",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -440,6 +476,7 @@
 			"dropid": "i256",
 			"level": 0,
 			"icon": "gifts",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -452,6 +489,7 @@
 			"dropid": "i257",
 			"level": 0,
 			"icon": "gifts",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -464,6 +502,7 @@
 			"dropid": "i300",
 			"level": 0,
 			"icon": "qixi01",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -476,6 +515,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "qixi02",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -488,6 +528,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "qixi03",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -500,6 +541,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "qixi04",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -512,6 +554,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "qixi05",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -524,6 +567,7 @@
 			"dropid": "i305",
 			"level": 0,
 			"icon": "qixi06",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -536,6 +580,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "mianfen",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -548,6 +593,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "hongdou",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -560,6 +606,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "huotui",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -572,6 +619,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "lianzi",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -584,6 +632,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "shijing",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -596,6 +645,7 @@
 			"dropid": "i315",
 			"level": 0,
 			"icon": "suijishicai",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -608,6 +658,7 @@
 			"dropid": "i316",
 			"level": 0,
 			"icon": "doushayuebing",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -620,6 +671,7 @@
 			"dropid": "i317",
 			"level": 0,
 			"icon": "huotuiyuebing",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -632,6 +684,7 @@
 			"dropid": "i318",
 			"level": 0,
 			"icon": "lianrongyuebing",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -644,6 +697,7 @@
 			"dropid": "i319",
 			"level": 0,
 			"icon": "baihuashijing",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -656,6 +710,7 @@
 			"dropid": "i320",
 			"level": 0,
 			"icon": "nangua",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -668,6 +723,7 @@
 			"dropid": "i321",
 			"level": 0,
 			"icon": "nangua_2",
+			"overtime": 0,
 			"lengthtype": 2,
 			"lengthtime": 1
 		},
@@ -680,6 +736,7 @@
 			"dropid": "i322",
 			"level": 0,
 			"icon": "baoxiangyn",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -692,6 +749,7 @@
 			"dropid": "i323",
 			"level": 0,
 			"icon": "ditu",
+			"overtime": 0,
 			"lengthtype": 2,
 			"lengthtime": 1
 		},
@@ -704,6 +762,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "mghicon",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -716,6 +775,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "hdsp_2",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -728,6 +788,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "hdsp_1",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -740,6 +801,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "hdsp",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -752,6 +814,7 @@
 			"dropid": "i410",
 			"level": 0,
 			"icon": "meigui2",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -764,6 +827,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "jbksp",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -776,6 +840,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "yunshiicon",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -788,6 +853,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "dianzhishiicon",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -800,6 +866,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "huozhishiicon",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -812,6 +879,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "xuezhishiicon",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -824,6 +892,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "anzhishiicon",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -836,6 +905,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "dizhishiicon",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -848,6 +918,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "sjysp",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -860,6 +931,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "dbssp",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -872,6 +944,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "xcysp",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -884,6 +957,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "hjsp",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -896,6 +970,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "htsp",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -908,6 +983,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "jdsp",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -920,6 +996,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "mgysp",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -932,6 +1009,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "ctssp",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -944,6 +1022,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "cmysp",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -956,6 +1035,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "smsp",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -968,6 +1048,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "hgsp",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -980,6 +1061,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "lbsysp",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -992,6 +1074,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "dhbysp",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -1004,6 +1087,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "bffsp",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -1016,6 +1100,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "jjysp",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -1028,6 +1113,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "ylsp",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -1040,6 +1126,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "htsp_1",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -1052,6 +1139,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "hgjjsp",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -1064,6 +1152,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "bzysp",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -1076,6 +1165,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "mrysp",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -1088,6 +1178,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "dnysp",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -1100,6 +1191,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "ppsysp",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -1112,6 +1204,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "dysp",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -1124,6 +1217,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "cqysp",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -1136,6 +1230,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "jysp",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -1148,6 +1243,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "zysp",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -1160,6 +1256,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "sjlgsp",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -1172,6 +1269,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "hmsp",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -1184,6 +1282,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "nsspicon_1",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -1196,6 +1295,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "nsspicon_2",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -1208,6 +1308,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "nsspicon_3",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -1220,6 +1321,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "nsspicon_4",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -1232,6 +1334,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "nsspicon_3",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -1244,6 +1347,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "nsspicon_3",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -1256,6 +1360,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "nsspicon_3",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -1268,6 +1373,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "nsspicon_3",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -1280,6 +1386,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "nsspicon_3",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -1292,6 +1399,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "nsspicon_3",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -1304,6 +1412,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "30hficon",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -1316,6 +1425,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "100hficon",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -1328,6 +1438,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "100jdicon",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -1340,6 +1451,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "500jdicon",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -1352,6 +1464,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "1000jdicon",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -1364,6 +1477,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "xmcdbicon",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -1376,6 +1490,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "flptxdicon",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -1388,6 +1503,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "xmjhqicon",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -1400,6 +1516,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "oppor9icon",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -1412,6 +1529,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "iphone7icon",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -1424,6 +1542,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "100.000D",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -1436,6 +1555,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "200.000D",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -1448,6 +1568,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "300.000D",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -1460,6 +1581,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "100.000D",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -1472,6 +1594,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "200.000D",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -1484,6 +1607,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "300.000D",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -1496,6 +1620,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "100.000D",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -1508,6 +1633,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "200.000D",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -1520,6 +1646,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "300.000D",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -1532,6 +1659,7 @@
 			"dropid": "1",
 			"level": 0,
 			"icon": "ptpficon",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -1544,6 +1672,7 @@
 			"dropid": "2",
 			"level": 0,
 			"icon": "empficon",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -1556,6 +1685,7 @@
 			"dropid": "3",
 			"level": 0,
 			"icon": "tspficon",
+			"overtime": 604800,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -1568,6 +1698,7 @@
 			"dropid": "4",
 			"level": 0,
 			"icon": "dcpficon",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -1580,6 +1711,7 @@
 			"dropid": "5",
 			"level": 0,
 			"icon": "ryjppficon",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -1592,6 +1724,7 @@
 			"dropid": "6",
 			"level": 0,
 			"icon": "jcpficon",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -1604,6 +1737,7 @@
 			"dropid": "7",
 			"level": 0,
 			"icon": "zjpficon",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -1616,6 +1750,7 @@
 			"dropid": "8",
 			"level": 0,
 			"icon": "pptpficon",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -1628,6 +1763,7 @@
 			"dropid": "9",
 			"level": 0,
 			"icon": "hjjtlpficon",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -1640,6 +1776,7 @@
 			"dropid": "10",
 			"level": 0,
 			"icon": "xjglpficon",
+			"overtime": 604800,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -1652,6 +1789,7 @@
 			"dropid": "11",
 			"level": 0,
 			"icon": "dwjypficon",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -1664,6 +1802,7 @@
 			"dropid": "12",
 			"level": 0,
 			"icon": "szaspficon",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -1676,6 +1815,7 @@
 			"dropid": "13",
 			"level": 0,
 			"icon": "cynspficon",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -1688,6 +1828,7 @@
 			"dropid": "14",
 			"level": 0,
 			"icon": "yueliangtuicon",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -1700,6 +1841,7 @@
 			"dropid": "15",
 			"level": 0,
 			"icon": "qian20icon",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -1712,6 +1854,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "wuqilj_13",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -1724,6 +1867,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "wuqilj_3",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -1736,6 +1880,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "tspficon",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -1748,6 +1893,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "wuqilj_8",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -1760,6 +1906,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "wuqilj_9",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -1772,6 +1919,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "wuqilj",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -1784,6 +1932,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "wuqilj_2",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -1796,6 +1945,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "wuqilj_5",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -1808,6 +1958,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "wuqilj_10",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -1820,6 +1971,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "wuqilj_7",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -1832,6 +1984,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "wuqilj_4",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -1844,6 +1997,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "wuqilj_12",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -1856,6 +2010,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "wuqilj_1",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -1868,6 +2023,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "wuqilj_6",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -1880,6 +2036,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "wuqilj_11",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -1892,6 +2049,7 @@
 			"dropid": "1",
 			"level": 0,
 			"icon": "putongka",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -1904,6 +2062,7 @@
 			"dropid": "2",
 			"level": 0,
 			"icon": "emoka",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -1916,6 +2075,7 @@
 			"dropid": "3",
 			"level": 0,
 			"icon": "tianshika",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -1928,6 +2088,7 @@
 			"dropid": "4",
 			"level": 0,
 			"icon": "diancika",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -1940,6 +2101,7 @@
 			"dropid": "5",
 			"level": 0,
 			"icon": "rongyanka",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -1952,6 +2114,7 @@
 			"dropid": "6",
 			"level": 0,
 			"icon": "jinchanka",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -1964,6 +2127,7 @@
 			"dropid": "7",
 			"level": 0,
 			"icon": "zhanjianka",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -1976,6 +2140,7 @@
 			"dropid": "8",
 			"level": 0,
 			"icon": "paopaoka",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -1988,6 +2153,7 @@
 			"dropid": "9",
 			"level": 0,
 			"icon": "jiatelinka",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -2000,6 +2166,7 @@
 			"dropid": "10",
 			"level": 0,
 			"icon": "xingjianka",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -2012,6 +2179,7 @@
 			"dropid": "11",
 			"level": 0,
 			"icon": "dianwanka",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -2024,6 +2192,7 @@
 			"dropid": "12",
 			"level": 0,
 			"icon": "bingka",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -2036,6 +2205,7 @@
 			"dropid": "13",
 			"level": 0,
 			"icon": "nvshenka",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -2048,6 +2218,7 @@
 			"dropid": "14",
 			"level": 0,
 			"icon": "tuzika",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -2060,6 +2231,7 @@
 			"dropid": "15",
 			"level": 0,
 			"icon": "jian20ka",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		}

@@ -32,6 +32,7 @@
 			"time2": 0,
 			"autofire": 0,
 			"tag": "0",
+			"item": "w001",
 			"piece": ["w501",10],
 			"starttime": "0",
 			"endtime": "0"
@@ -69,6 +70,7 @@
 			"time2": 0,
 			"autofire": 0,
 			"tag": "0",
+			"item": "w002",
 			"piece": ["w502",50],
 			"starttime": "0",
 			"endtime": "0"
@@ -94,7 +96,7 @@
 			"bullet_count": 1,
 			"default": 0,
 			"issale": 1,
-			"price": 1699,
+			"price": 9999999,
 			"bullet_type": 3,
 			"scale": 0.6,
 			"iconscale": 0.18,
@@ -106,7 +108,8 @@
 			"time2": 0,
 			"autofire": 1,
 			"tag": "0",
-			"piece": ["w503",90],
+			"item": "w003",
+			"piece": ["w503",150],
 			"starttime": "0",
 			"endtime": "0"
 		},
@@ -143,6 +146,7 @@
 			"time2": 0,
 			"autofire": 0,
 			"tag": "0",
+			"item": "w004",
 			"piece": ["w504",60],
 			"starttime": "0",
 			"endtime": "0"
@@ -180,6 +184,7 @@
 			"time2": 0,
 			"autofire": 0,
 			"tag": "0",
+			"item": "w005",
 			"piece": ["w505",40],
 			"starttime": "0",
 			"endtime": "0"
@@ -217,6 +222,7 @@
 			"time2": 0,
 			"autofire": 1,
 			"tag": "0",
+			"item": "w006",
 			"piece": ["w506",90],
 			"starttime": "0",
 			"endtime": "0"
@@ -254,6 +260,7 @@
 			"time2": 0,
 			"autofire": 1,
 			"tag": "0",
+			"item": "w007",
 			"piece": ["w507",100],
 			"starttime": "0",
 			"endtime": "0"
@@ -291,6 +298,7 @@
 			"time2": 0,
 			"autofire": 1,
 			"tag": "0",
+			"item": "w008",
 			"piece": ["w508",100],
 			"starttime": "0",
 			"endtime": "0"
@@ -328,6 +336,7 @@
 			"time2": 0.5,
 			"autofire": 1,
 			"tag": "0",
+			"item": "w009",
 			"piece": ["w509",90],
 			"starttime": "0",
 			"endtime": "0"
@@ -353,7 +362,7 @@
 			"bullet_count": 1,
 			"default": 0,
 			"issale": 1,
-			"price": 1399,
+			"price": 9999999,
 			"bullet_type": 10,
 			"scale": 0.7,
 			"iconscale": 0.21,
@@ -365,7 +374,8 @@
 			"time2": 0,
 			"autofire": 1,
 			"tag": "0",
-			"piece": ["w510",80],
+			"item": "w010",
+			"piece": ["w510",150],
 			"starttime": "0",
 			"endtime": "0"
 		},
@@ -402,6 +412,7 @@
 			"time2": 0,
 			"autofire": 1,
 			"tag": "0",
+			"item": "w011",
 			"piece": ["w511",100],
 			"starttime": "0",
 			"endtime": "0"
@@ -439,6 +450,7 @@
 			"time2": 0,
 			"autofire": 0,
 			"tag": "七夕限定",
+			"item": "w012",
 			"piece": ["w512",110],
 			"starttime": "0",
 			"endtime": "0"
@@ -476,6 +488,7 @@
 			"time2": 0,
 			"autofire": 1,
 			"tag": "最强王者限定",
+			"item": "w013",
 			"piece": ["w513",120],
 			"starttime": "0",
 			"endtime": "0"
@@ -513,6 +526,7 @@
 			"time2": 0,
 			"autofire": 1,
 			"tag": "最强王者限定",
+			"item": "w014",
 			"piece": ["w514",150],
 			"starttime": "0",
 			"endtime": "0"
@@ -550,6 +564,7 @@
 			"time2": 0,
 			"autofire": 1,
 			"tag": "最强王者限定",
+			"item": "w015",
 			"piece": ["w515",150],
 			"starttime": "0",
 			"endtime": "0"

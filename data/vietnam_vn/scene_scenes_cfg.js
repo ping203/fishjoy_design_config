@@ -182,7 +182,7 @@ var scene_scenes_cfg =
 		tide_circle : 0,
 		pirate_time : 0,
 		pirate_id : [],
-		total : 0,
+		total : 35,
 		fish_sort : ["longgui_boss","haima_boss","huafeiyu4","baoxiangyu","baozhay","dianman","hujing_jj","dapanyu_jj","moguiyu_jj","suolianyu_jj","hujing","dabaisha_jj","chuitousha","sanshengyu_jj","moguiyu_hong","moguiyu_lan","haitun_jj","shuimu_jj","haitun","pipashuyu","cheqiyu_jj","shuimu_lan","baofangfu_zi","dinianyu_lan","haigui","jianyu","hetun_huang","jiaodie_lan","baoshiyu_lan","duanhuibiyu_lan","cheqiyu","shuijingyu","jinqiangyu"],
 		buttonimage : "0",
 		restraintlv_min : 1,

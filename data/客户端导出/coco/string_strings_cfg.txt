@@ -5763,7 +5763,7 @@
 			"cn": "服务器连接异常，请重新登录！"
 		},
 		"luck_remain_count": {
-			"cn": "今日还可抽取%d次"
+			"cn": "VIP%d今日还可抽取%d次"
 		},
 		"luck_remain_unenough": {
 			"cn": "剩余抽奖次数不足，请提升VIP或明日再来！"
@@ -6870,7 +6870,7 @@
 			"cn": "后颁奖"
 		},
 		"tip_1103": {
-			"cn": "获得一次排位赛胜利可开启宝箱"
+			"cn": "匹配胜利后开启"
 		},
 		"tip_1104": {
 			"cn": "后可用"
@@ -7621,5 +7621,62 @@
 		},
 		"str_weaponup_cost": {
 			"cn": "%d（拥有：%s）"
+		},
+		"str_1v1_score_record": {
+			"cn": "你本次对战捕鱼分数:%d"
+		},
+		"str_1v1_treasure_tips1": {
+			"cn": "对战礼盒需要收集%d颗星才能开启，每参加1次好友对战可获得1颗星，是否立即参加？"
+		},
+		"str_1v1_treasure_tips2": {
+			"cn": "幸运礼盒需要连续开启%d个对战礼盒才能获得，是否前往对战获得对战礼盒？"
+		},
+		"str_1v1_fight_join_tips1": {
+			"cn": "该对战已在进行中，是否前往创建新对战？"
+		},
+		"str_1v1_fight_join_tips2": {
+			"cn": "该对战已结束，是否前往创建新对战？"
+		},
+		"str_1v1_weapon_change_tips": {
+			"cn": "你的金币过低，不能使用更高倍率"
+		},
+		"str_1v1_nuclear_confirm": {
+			"cn": "释放核弹终结对手（免费核弹只增加分数，不增加金币，不增加成就）"
+		},
+		"str_1v1_operation_tips1": {
+			"cn": "排位赛进行中，不能进行好友对战"
+		},
+		"str_1v1_operation_tips2": {
+			"cn": "对战创建中，不能参加对战"
+		},
+		"str_1v1_operation_tips3": {
+			"cn": "对战挑战中，不能创建对战"
+		},
+		"str_1v1_operation_tips4": {
+			"cn": "对战创建或挑战进行中，不能进行排位赛"
+		},
+		"str_1v1_win_times": {
+			"cn": "胜场：%d%%"
+		},
+		"str_1v1_win_rate": {
+			"cn": "胜场：%s%%"
+		},
+		"str_1v1_opponent_name": {
+			"cn": "未知挑战者"
+		},
+		"str_1v1_nuclear_free": {
+			"cn": "免费核弹"
+		},
+		"str_1v1_nuclear_buy": {
+			"cn": "金币购买"
+		},
+		"str_weapon_expire_time": {
+			"cn": "%d天%d时%d分后过期"
+		},
+		"str_weapon_get_tips": {
+			"cn": "恭喜你获得了一个新皮肤，赶紧去解锁吧"
+		},
+		"rmatch_fight_freedraw": {
+			"cn": "参与%d/%d次好友对战免费抽奖1次"
 		}
 	}

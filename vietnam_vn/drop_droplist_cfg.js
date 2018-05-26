@@ -272,6 +272,46 @@ var drop_droplist_cfg =
 		drop_id : [["dbs","jjdbs1","jjdbs2","d35","s35","b35","z35","C35_1","C35_2","C35_3","C35_4","C35_5"]],
 		probability : [10000],
 	},
+	'jjhj_zh' : {
+		drop_id : [["hj","jjhj1","jjhj2","d100","s100","b100","z100","jjy4"]],
+		probability : [10000],
+	},
+	'p5_zh' : {
+		drop_id : [["p51","p52","d80","s80","b80","z80","jjy4"]],
+		probability : [10000],
+	},
+	'jjmgy_zh' : {
+		drop_id : [["mgyl","jjmgy1","jjmgy2","d60","s60","b60","z60","jjy3"]],
+		probability : [10000],
+	},
+	'jjhg_zh' : {
+		drop_id : [["jjhg","jjhg1","jjhg2","d60","s60","b60","z60","jjy3"]],
+		probability : [10000],
+	},
+	'p4_zh' : {
+		drop_id : [["p41","p42","d50","s50","b50","z50","jjy3"]],
+		probability : [10000],
+	},
+	'p3_zh' : {
+		drop_id : [["p31","p32","d35","s35","b35","z35","jjy2"]],
+		probability : [10000],
+	},
+	'jjht_zh' : {
+		drop_id : [["ht","jjht1","jjht2","d25","s25","b25","z25","common","jjy2"]],
+		probability : [10000],
+	},
+	'p2_zh' : {
+		drop_id : [["p21","p22","d25","s25","b25","z25","common","jjy2"]],
+		probability : [10000],
+	},
+	'jjsm_zh' : {
+		drop_id : [["sm","jjsm1","jjsm2","d15","s15","b15","z15","common","jjy1"]],
+		probability : [10000],
+	},
+	'jjcqy_zh' : {
+		drop_id : [["cqy","jjcqy1","jjcqy2","d10","s10","b10","z10","common","jjy1"]],
+		probability : [10000],
+	},
 	'drop1' : {
 		drop_id : [["d1","s1","b1","z1","common"]],
 		probability : [10000],
@@ -402,7 +442,7 @@ var drop_droplist_cfg =
 	},
 	'i215' : {
 		drop_id : [["i21501"],["i21502"],["i21503"],["i21504"],["i21505"],["i21506"]],
-		probability : [1700,6889,1300,100,10,1],
+		probability : [3269,6200,500,30,1,0],
 	},
 	'i220' : {
 		drop_id : [["i2201"],["i2202"],["i2203"]],

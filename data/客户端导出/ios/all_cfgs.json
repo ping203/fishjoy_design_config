@@ -5064,7 +5064,7 @@
 		"FORGE_SPECAIL_MATERIAL": "i500",
 		"WEAPON_ADDRATE": 0.01,
 		"FORGE_START_LEVEL": 1000,
-		"RMATCH_LIMIT": 20000,
+		"RMATCH_LIMIT": 10000,
 		"RMATCH_COST": 150,
 		"RMATCH_OPEN_LIMIT": 100,
 		"GODDESS_COST": [40,60,80,100,120,140,160,180,200,220,240,260,300,300,300,300,300,300],
@@ -5086,7 +5086,17 @@
 		"NEWBIE_WELFARE": [["str_newbie_1","",""],["","xs100hf","dhqicon"],["str_newbie_2","",""],["","xspf","ryjppficon"],["str_newbie_3","",""],["","xs100w","100wjbkicon"],["str_newbie_4","",""],["","xs5hd","hedan1"]],
 		"WEAPONUP_ITEM_PAY": [["i002",1]],
 		"GODDESS_ENTER_COST": [0,0,0,0,0,5,5,10,10,15,15,20],
-		"NEWBIE_OPEN_DATE": "2018-05-11"
+		"NEWBIE_OPEN_DATE": "2018-05-21",
+		"FIGHT_1V1_TIME": 300,
+		"FIGHT_1V1_TIME_WAIT": 30,
+		"FIGHT_1V1_BULLETS": 200,
+		"FIGHT_1V1_GOLD": 1000,
+		"FIGHT_1V1_BUY_NUCLEAR": 55000,
+		"FIGHT_1V1_REWARD_SUCCESS": [["i001",10000],["i001",8000],["i001",7000],["i001",6000],["i002",6],["i001",4000],["i002",4],["i001",2000],["i002",2],["i001",500]],
+		"FIGHT_1V1_REWARD_FAILURE": [["i001",5000],["i001",4000],["i001",3500],["i001",3000],["i002",3],["i001",200],["i002",2],["i001",1000],["i002",1],["i001",250]],
+		"FIGHT_1V1_TREASURE_NORMAL": [3,123],
+		"FIGHT_1V1_TREASURE_SERIES": [[2,123],[3,123]],
+		"FIGHT_1V1_DRAW": [5,10,15,20,25,30,35,40]
 	},
 	"common_mathadjust_const_cfg.json": {
 		"A": 6000,
@@ -5173,7 +5183,7 @@
 		{
 			"id": 1,
 			"type": 1,
-			"reward": ["i001",5000],
+			"reward": ["i001",2000],
 			"label": "0",
 			"description": "dailypast_desc_0",
 			"viplevel": -1
@@ -5197,7 +5207,7 @@
 		{
 			"id": 4,
 			"type": 1,
-			"reward": ["i002",5],
+			"reward": ["i002",2],
 			"label": "yqdgrounding_3",
 			"description": "dailypast_desc_4",
 			"viplevel": 2
@@ -5213,7 +5223,7 @@
 		{
 			"id": 6,
 			"type": 1,
-			"reward": ["i015",1],
+			"reward": ["i401",3],
 			"label": "yqdgrounding_2",
 			"description": "dailypast_desc_6",
 			"viplevel": -1
@@ -5221,7 +5231,7 @@
 		{
 			"id": 7,
 			"type": 1,
-			"reward": ["i001",10000],
+			"reward": ["i001",4000],
 			"label": "0",
 			"description": "dailypast_desc_0",
 			"viplevel": -1
@@ -5245,7 +5255,7 @@
 		{
 			"id": 10,
 			"type": 1,
-			"reward": ["i002",10],
+			"reward": ["i002",5],
 			"label": "yqdgrounding_3",
 			"description": "dailypast_desc_10",
 			"viplevel": 4
@@ -5261,7 +5271,7 @@
 		{
 			"id": 12,
 			"type": 1,
-			"reward": ["i015",1],
+			"reward": ["i401",3],
 			"label": "yqdgrounding_4",
 			"description": "dailypast_desc_6",
 			"viplevel": -1
@@ -5269,7 +5279,7 @@
 		{
 			"id": 13,
 			"type": 1,
-			"reward": ["i001",15000],
+			"reward": ["i001",6000],
 			"label": "0",
 			"description": "dailypast_desc_0",
 			"viplevel": -1
@@ -5293,7 +5303,7 @@
 		{
 			"id": 16,
 			"type": 1,
-			"reward": ["i002",15],
+			"reward": ["i002",10],
 			"label": "yqdgrounding_3",
 			"description": "dailypast_desc_16",
 			"viplevel": 6
@@ -5309,7 +5319,7 @@
 		{
 			"id": 18,
 			"type": 1,
-			"reward": ["i015",1],
+			"reward": ["i401",3],
 			"label": "yqdgrounding_4",
 			"description": "dailypast_desc_6",
 			"viplevel": -1
@@ -5317,7 +5327,7 @@
 		{
 			"id": 19,
 			"type": 1,
-			"reward": ["i001",20000],
+			"reward": ["i001",8000],
 			"label": "0",
 			"description": "dailypast_desc_0",
 			"viplevel": -1
@@ -5341,7 +5351,7 @@
 		{
 			"id": 22,
 			"type": 1,
-			"reward": ["i002",20],
+			"reward": ["i002",15],
 			"label": "yqdgrounding_3",
 			"description": "dailypast_desc_22",
 			"viplevel": 8
@@ -5357,7 +5367,7 @@
 		{
 			"id": 24,
 			"type": 1,
-			"reward": ["i015",1],
+			"reward": ["i401",3],
 			"label": "yqdgrounding_4",
 			"description": "dailypast_desc_6",
 			"viplevel": -1
@@ -5365,7 +5375,7 @@
 		{
 			"id": 25,
 			"type": 1,
-			"reward": ["i001",25000],
+			"reward": ["i001",10000],
 			"label": "0",
 			"description": "dailypast_desc_0",
 			"viplevel": -1
@@ -5389,7 +5399,7 @@
 		{
 			"id": 28,
 			"type": 1,
-			"reward": ["i002",25],
+			"reward": ["i002",20],
 			"label": "yqdgrounding_3",
 			"description": "dailypast_desc_28",
 			"viplevel": 10
@@ -5405,7 +5415,7 @@
 		{
 			"id": 30,
 			"type": 1,
-			"reward": ["i015",1],
+			"reward": ["i401",3],
 			"label": "yqdgrounding_2",
 			"description": "dailypast_desc_6",
 			"viplevel": -1
@@ -5413,7 +5423,7 @@
 		{
 			"id": 31,
 			"type": 1,
-			"reward": ["i001",50000],
+			"reward": ["i001",10000],
 			"label": "0",
 			"description": "dailypast_desc_0",
 			"viplevel": -1
@@ -5551,7 +5561,7 @@
 		{
 			"id": 1,
 			"days": 2,
-			"reward": [["i001",50000]]
+			"reward": [["i001",20000]]
 		},
 		{
 			"id": 2,
@@ -5576,17 +5586,17 @@
 		{
 			"id": 6,
 			"days": 22,
-			"reward": [["i240",50],["i420",1]]
+			"reward": [["i240",50],["i420",2]]
 		},
 		{
 			"id": 7,
 			"days": 26,
-			"reward": [["i015",2],["i420",1]]
+			"reward": [["i015",2],["i420",2]]
 		},
 		{
 			"id": 8,
 			"days": 30,
-			"reward": [["i002",100],["i420",5]]
+			"reward": [["i002",100],["i420",2]]
 		}
 	],
 	"daily_quest_cfg.json": [
@@ -10735,7 +10745,7 @@
 			"value1": 0,
 			"value2": 6000,
 			"pic": "0",
-			"reward": [["i001",1000],["i103",1]],
+			"reward": [["i007",1],["i103",1]],
 			"ui_link": 0
 		},
 		{
@@ -10747,7 +10757,7 @@
 			"value1": 0,
 			"value2": 8000,
 			"pic": "0",
-			"reward": [["i001",2000],["i103",2]],
+			"reward": [["i007",2],["i103",2]],
 			"ui_link": 0
 		},
 		{
@@ -10759,7 +10769,7 @@
 			"value1": 0,
 			"value2": 10000,
 			"pic": "0",
-			"reward": [["i001",3000],["i103",3]],
+			"reward": [["i007",3],["i103",3]],
 			"ui_link": 0
 		},
 		{
@@ -10771,7 +10781,7 @@
 			"value1": 0,
 			"value2": 12000,
 			"pic": "0",
-			"reward": [["i001",4000],["i103",4]],
+			"reward": [["i007",4],["i103",4]],
 			"ui_link": 0
 		},
 		{
@@ -10783,7 +10793,7 @@
 			"value1": 0,
 			"value2": 13000,
 			"pic": "0",
-			"reward": [["i001",5000],["i103",5]],
+			"reward": [["i007",5],["i103",5]],
 			"ui_link": 0
 		},
 		{
@@ -10795,7 +10805,7 @@
 			"value1": 0,
 			"value2": 14000,
 			"pic": "0",
-			"reward": [["i001",6000],["i103",6]],
+			"reward": [["i007",6],["i103",6]],
 			"ui_link": 0
 		},
 		{
@@ -10807,7 +10817,7 @@
 			"value1": 0,
 			"value2": 15000,
 			"pic": "0",
-			"reward": [["i001",7000],["i103",7]],
+			"reward": [["i007",7],["i103",7]],
 			"ui_link": 0
 		},
 		{
@@ -10819,7 +10829,7 @@
 			"value1": 0,
 			"value2": 16000,
 			"pic": "0",
-			"reward": [["i001",8000],["i103",8]],
+			"reward": [["i007",8],["i103",8]],
 			"ui_link": 0
 		},
 		{
@@ -10831,7 +10841,7 @@
 			"value1": 0,
 			"value2": 17000,
 			"pic": "0",
-			"reward": [["i001",9000],["i103",9]],
+			"reward": [["i007",9],["i103",9]],
 			"ui_link": 0
 		},
 		{
@@ -10843,7 +10853,7 @@
 			"value1": 0,
 			"value2": 18000,
 			"pic": "0",
-			"reward": [["i001",10000],["i103",10]],
+			"reward": [["i007",10],["i103",10]],
 			"ui_link": 0
 		},
 		{
@@ -10855,7 +10865,7 @@
 			"value1": 0,
 			"value2": 19000,
 			"pic": "0",
-			"reward": [["i001",11000],["i103",11]],
+			"reward": [["i007",11],["i103",11]],
 			"ui_link": 0
 		},
 		{
@@ -10867,7 +10877,7 @@
 			"value1": 0,
 			"value2": 20000,
 			"pic": "0",
-			"reward": [["i001",12000],["i103",12]],
+			"reward": [["i007",12],["i103",12]],
 			"ui_link": 0
 		},
 		{
@@ -10879,7 +10889,7 @@
 			"value1": 0,
 			"value2": 21000,
 			"pic": "0",
-			"reward": [["i001",13000],["i103",13]],
+			"reward": [["i007",13],["i103",13]],
 			"ui_link": 0
 		},
 		{
@@ -10891,7 +10901,7 @@
 			"value1": 0,
 			"value2": 22000,
 			"pic": "0",
-			"reward": [["i001",14000],["i103",14]],
+			"reward": [["i007",14],["i103",14]],
 			"ui_link": 0
 		},
 		{
@@ -10903,7 +10913,7 @@
 			"value1": 0,
 			"value2": 23000,
 			"pic": "0",
-			"reward": [["i001",15000],["i103",15]],
+			"reward": [["i007",15],["i103",15]],
 			"ui_link": 0
 		},
 		{
@@ -10915,7 +10925,7 @@
 			"value1": 0,
 			"value2": 24000,
 			"pic": "0",
-			"reward": [["i001",16000],["i103",16]],
+			"reward": [["i007",16],["i103",16]],
 			"ui_link": 0
 		},
 		{
@@ -10927,7 +10937,7 @@
 			"value1": 0,
 			"value2": 25000,
 			"pic": "0",
-			"reward": [["i001",17000],["i103",17]],
+			"reward": [["i007",17],["i103",17]],
 			"ui_link": 0
 		},
 		{
@@ -10939,7 +10949,7 @@
 			"value1": 0,
 			"value2": 26000,
 			"pic": "0",
-			"reward": [["i001",18000],["i103",18]],
+			"reward": [["i007",18],["i103",18]],
 			"ui_link": 0
 		},
 		{
@@ -10951,7 +10961,7 @@
 			"value1": 0,
 			"value2": 28000,
 			"pic": "0",
-			"reward": [["i001",19000],["i103",19]],
+			"reward": [["i007",19],["i103",19]],
 			"ui_link": 0
 		},
 		{
@@ -10963,7 +10973,7 @@
 			"value1": 0,
 			"value2": 30000,
 			"pic": "0",
-			"reward": [["i001",20000],["i103",20]],
+			"reward": [["i007",20],["i103",20]],
 			"ui_link": 0
 		},
 		{
@@ -10975,7 +10985,7 @@
 			"value1": 1,
 			"value2": 5000,
 			"pic": "0",
-			"reward": [["i001",2000],["i103",2]],
+			"reward": [["i007",2],["i103",2]],
 			"ui_link": 0
 		},
 		{
@@ -10987,7 +10997,7 @@
 			"value1": 1,
 			"value2": 6000,
 			"pic": "0",
-			"reward": [["i001",4000],["i103",4]],
+			"reward": [["i007",4],["i103",4]],
 			"ui_link": 0
 		},
 		{
@@ -10999,7 +11009,7 @@
 			"value1": 1,
 			"value2": 7000,
 			"pic": "0",
-			"reward": [["i001",6000],["i103",6]],
+			"reward": [["i007",6],["i103",6]],
 			"ui_link": 0
 		},
 		{
@@ -11011,7 +11021,7 @@
 			"value1": 1,
 			"value2": 8000,
 			"pic": "0",
-			"reward": [["i001",8000],["i103",8]],
+			"reward": [["i007",8],["i103",8]],
 			"ui_link": 0
 		},
 		{
@@ -11023,7 +11033,7 @@
 			"value1": 1,
 			"value2": 9000,
 			"pic": "0",
-			"reward": [["i001",10000],["i103",10]],
+			"reward": [["i007",10],["i103",10]],
 			"ui_link": 0
 		},
 		{
@@ -11035,7 +11045,7 @@
 			"value1": 1,
 			"value2": 10000,
 			"pic": "0",
-			"reward": [["i001",12000],["i103",12]],
+			"reward": [["i007",12],["i103",12]],
 			"ui_link": 0
 		},
 		{
@@ -11047,7 +11057,7 @@
 			"value1": 1,
 			"value2": 11000,
 			"pic": "0",
-			"reward": [["i001",14000],["i103",14]],
+			"reward": [["i007",14],["i103",14]],
 			"ui_link": 0
 		},
 		{
@@ -11059,7 +11069,7 @@
 			"value1": 1,
 			"value2": 12000,
 			"pic": "0",
-			"reward": [["i001",16000],["i103",16]],
+			"reward": [["i007",16],["i103",16]],
 			"ui_link": 0
 		},
 		{
@@ -11071,7 +11081,7 @@
 			"value1": 1,
 			"value2": 13000,
 			"pic": "0",
-			"reward": [["i001",18000],["i103",18]],
+			"reward": [["i007",18],["i103",18]],
 			"ui_link": 0
 		},
 		{
@@ -11083,7 +11093,7 @@
 			"value1": 1,
 			"value2": 15000,
 			"pic": "0",
-			"reward": [["i001",20000],["i103",20]],
+			"reward": [["i007",20],["i103",20]],
 			"ui_link": 0
 		},
 		{
@@ -12110,7 +12120,7 @@
 		},
 		"i215": {
 			"drop_id": [["i21501"],["i21502"],["i21503"],["i21504"],["i21505"],["i21506"]],
-			"probability": [1700,6889,1300,100,10,1]
+			"probability": [3269,6200,500,30,1,0]
 		},
 		"i220": {
 			"drop_id": [["i2201"],["i2202"],["i2203"]],
@@ -14186,7 +14196,7 @@
 			"item_id": "i001",
 			"item_probability": [100000],
 			"limit_type": 1,
-			"limit_count": [0],
+			"limit_count": [1],
 			"reset": 0,
 			"item_num": 10000000,
 			"drop_count": 10000000
@@ -14195,7 +14205,7 @@
 			"item_id": "i001",
 			"item_probability": [100000],
 			"limit_type": 1,
-			"limit_count": [0],
+			"limit_count": [1],
 			"reset": 0,
 			"item_num": 100000000,
 			"drop_count": 100000000
@@ -32773,7 +32783,7 @@
 			"headpic": "nstxicon",
 			"name": "goddess_name_5",
 			"free": 1,
-			"opentime": "2018/05/23&00:00:00",
+			"opentime": "2058/05/23&00:00:00",
 			"needitem": [["i704",1],["i704",1],["i704",1],["i704",1],["i704",1],["i704",1],["i704",1],["i704",1],["i704",1]]
 		}
 	],
@@ -35748,6 +35758,7 @@
 			"dropid": "i000",
 			"level": 0,
 			"icon": "gold3",
+			"overtime": 0,
 			"lengthtype": 1,
 			"lengthtime": 90
 		},
@@ -35760,6 +35771,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "gold3",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -35772,6 +35784,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "zuanshi",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -35784,6 +35797,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "dhqicon",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -35796,6 +35810,7 @@
 			"dropid": "i004",
 			"level": 0,
 			"icon": "suijikalibao",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -35808,6 +35823,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "dhqicon",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -35820,6 +35836,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "laba",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -35832,6 +35849,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "shengbeilvicon",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -35844,6 +35862,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "skill_02",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -35856,6 +35875,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "skill_01",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -35868,6 +35888,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "skill_04",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -35880,6 +35901,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "skill_03",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -35892,6 +35914,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "hedan1",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -35904,6 +35927,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "hedan2",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -35916,6 +35940,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "hedan3",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -35928,6 +35953,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "0",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -35940,6 +35966,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "0",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -35952,6 +35979,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "huoyueduicon",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -35964,6 +35992,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "item_01",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -35976,6 +36005,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "coincatch",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -35988,6 +36018,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "crazyfugu",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -36000,6 +36031,7 @@
 			"dropid": "i200",
 			"level": 30,
 			"icon": "100wanbb",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -36012,6 +36044,7 @@
 			"dropid": "i210",
 			"level": 0,
 			"icon": "1wjbkicon",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -36024,6 +36057,7 @@
 			"dropid": "i211",
 			"level": 0,
 			"icon": "10wjbkicon",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -36036,6 +36070,7 @@
 			"dropid": "i212",
 			"level": 0,
 			"icon": "100wjbkicon",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -36048,6 +36083,7 @@
 			"dropid": "i213",
 			"level": 0,
 			"icon": "1000wjbkicon",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -36060,6 +36096,7 @@
 			"dropid": "i214",
 			"level": 0,
 			"icon": "1yjbkicon",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -36072,6 +36109,7 @@
 			"dropid": "i215",
 			"level": 0,
 			"icon": "sjjbkicon",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -36084,6 +36122,7 @@
 			"dropid": "i220",
 			"level": 0,
 			"icon": "qixi07",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -36096,6 +36135,7 @@
 			"dropid": "i230",
 			"level": 0,
 			"icon": "qixi09",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -36108,6 +36148,7 @@
 			"dropid": "i240",
 			"level": 0,
 			"icon": "qixi08",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -36120,6 +36161,7 @@
 			"dropid": "i251",
 			"level": 0,
 			"icon": "gifts",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -36132,6 +36174,7 @@
 			"dropid": "i252",
 			"level": 0,
 			"icon": "gifts",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -36144,6 +36187,7 @@
 			"dropid": "i253",
 			"level": 0,
 			"icon": "gifts",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -36156,6 +36200,7 @@
 			"dropid": "i254",
 			"level": 0,
 			"icon": "gifts",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -36168,6 +36213,7 @@
 			"dropid": "i255",
 			"level": 0,
 			"icon": "gifts",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -36180,6 +36226,7 @@
 			"dropid": "i256",
 			"level": 0,
 			"icon": "gifts",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -36192,6 +36239,7 @@
 			"dropid": "i257",
 			"level": 0,
 			"icon": "gifts",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -36204,6 +36252,7 @@
 			"dropid": "i300",
 			"level": 0,
 			"icon": "qixi01",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -36216,6 +36265,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "qixi02",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -36228,6 +36278,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "qixi03",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -36240,6 +36291,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "qixi04",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -36252,6 +36304,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "qixi05",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -36264,6 +36317,7 @@
 			"dropid": "i305",
 			"level": 0,
 			"icon": "qixi06",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -36276,6 +36330,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "mianfen",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -36288,6 +36343,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "hongdou",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -36300,6 +36356,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "huotui",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -36312,6 +36369,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "lianzi",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -36324,6 +36382,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "shijing",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -36336,6 +36395,7 @@
 			"dropid": "i315",
 			"level": 0,
 			"icon": "suijishicai",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -36348,6 +36408,7 @@
 			"dropid": "i316",
 			"level": 0,
 			"icon": "doushayuebing",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -36360,6 +36421,7 @@
 			"dropid": "i317",
 			"level": 0,
 			"icon": "huotuiyuebing",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -36372,6 +36434,7 @@
 			"dropid": "i318",
 			"level": 0,
 			"icon": "lianrongyuebing",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -36384,6 +36447,7 @@
 			"dropid": "i319",
 			"level": 0,
 			"icon": "baihuashijing",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -36396,6 +36460,7 @@
 			"dropid": "i320",
 			"level": 0,
 			"icon": "nangua",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -36408,6 +36473,7 @@
 			"dropid": "i321",
 			"level": 0,
 			"icon": "nangua_2",
+			"overtime": 0,
 			"lengthtype": 2,
 			"lengthtime": 1
 		},
@@ -36420,6 +36486,7 @@
 			"dropid": "i322",
 			"level": 0,
 			"icon": "baoxiangyn",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -36432,6 +36499,7 @@
 			"dropid": "i323",
 			"level": 0,
 			"icon": "ditu",
+			"overtime": 0,
 			"lengthtype": 2,
 			"lengthtime": 1
 		},
@@ -36444,6 +36512,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "mghicon",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -36456,6 +36525,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "hdsp_2",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -36468,6 +36538,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "hdsp_1",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -36480,6 +36551,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "hdsp",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -36492,6 +36564,7 @@
 			"dropid": "i410",
 			"level": 0,
 			"icon": "meigui2",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -36504,6 +36577,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "jbksp",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -36516,6 +36590,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "yunshiicon",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -36528,6 +36603,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "dianzhishiicon",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -36540,6 +36616,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "huozhishiicon",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -36552,6 +36629,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "xuezhishiicon",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -36564,6 +36642,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "anzhishiicon",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -36576,6 +36655,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "dizhishiicon",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -36588,6 +36668,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "sjysp",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -36600,6 +36681,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "dbssp",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -36612,6 +36694,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "xcysp",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -36624,6 +36707,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "hjsp",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -36636,6 +36720,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "htsp",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -36648,6 +36733,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "jdsp",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -36660,6 +36746,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "mgysp",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -36672,6 +36759,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "ctssp",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -36684,6 +36772,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "cmysp",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -36696,6 +36785,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "smsp",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -36708,6 +36798,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "hgsp",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -36720,6 +36811,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "lbsysp",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -36732,6 +36824,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "dhbysp",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -36744,6 +36837,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "bffsp",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -36756,6 +36850,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "jjysp",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -36768,6 +36863,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "ylsp",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -36780,6 +36876,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "htsp_1",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -36792,6 +36889,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "hgjjsp",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -36804,6 +36902,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "bzysp",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -36816,6 +36915,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "mrysp",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -36828,6 +36928,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "dnysp",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -36840,6 +36941,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "ppsysp",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -36852,6 +36954,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "dysp",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -36864,6 +36967,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "cqysp",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -36876,6 +36980,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "jysp",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -36888,6 +36993,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "zysp",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -36900,6 +37006,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "sjlgsp",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -36912,6 +37019,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "hmsp",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -36924,6 +37032,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "nsspicon_1",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -36936,6 +37045,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "nsspicon_2",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -36948,6 +37058,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "nsspicon_3",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -36960,6 +37071,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "nsspicon_4",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -36972,6 +37084,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "nsspicon_3",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -36984,6 +37097,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "nsspicon_3",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -36996,6 +37110,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "nsspicon_3",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -37008,6 +37123,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "nsspicon_3",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -37020,6 +37136,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "nsspicon_3",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -37032,6 +37149,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "nsspicon_3",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -37044,6 +37162,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "30hficon",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -37056,6 +37175,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "100hficon",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -37068,6 +37188,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "100jdicon",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -37080,6 +37201,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "500jdicon",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -37092,6 +37214,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "1000jdicon",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -37104,6 +37227,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "xmcdbicon",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -37116,6 +37240,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "flptxdicon",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -37128,6 +37253,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "xmjhqicon",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -37140,6 +37266,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "oppor9icon",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -37152,6 +37279,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "iphone7icon",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -37164,6 +37292,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "100.000D",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -37176,6 +37305,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "200.000D",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -37188,6 +37318,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "300.000D",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -37200,6 +37331,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "100.000D",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -37212,6 +37344,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "200.000D",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -37224,6 +37357,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "300.000D",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -37236,6 +37370,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "100.000D",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -37248,6 +37383,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "200.000D",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -37260,6 +37396,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "300.000D",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -37272,6 +37409,7 @@
 			"dropid": "1",
 			"level": 0,
 			"icon": "ptpficon",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -37284,6 +37422,7 @@
 			"dropid": "2",
 			"level": 0,
 			"icon": "empficon",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -37296,6 +37435,7 @@
 			"dropid": "3",
 			"level": 0,
 			"icon": "tspficon",
+			"overtime": 604800,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -37308,6 +37448,7 @@
 			"dropid": "4",
 			"level": 0,
 			"icon": "dcpficon",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -37320,6 +37461,7 @@
 			"dropid": "5",
 			"level": 0,
 			"icon": "ryjppficon",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -37332,6 +37474,7 @@
 			"dropid": "6",
 			"level": 0,
 			"icon": "jcpficon",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -37344,6 +37487,7 @@
 			"dropid": "7",
 			"level": 0,
 			"icon": "zjpficon",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -37356,6 +37500,7 @@
 			"dropid": "8",
 			"level": 0,
 			"icon": "pptpficon",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -37368,6 +37513,7 @@
 			"dropid": "9",
 			"level": 0,
 			"icon": "hjjtlpficon",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -37380,6 +37526,7 @@
 			"dropid": "10",
 			"level": 0,
 			"icon": "xjglpficon",
+			"overtime": 604800,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -37392,6 +37539,7 @@
 			"dropid": "11",
 			"level": 0,
 			"icon": "dwjypficon",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -37404,6 +37552,7 @@
 			"dropid": "12",
 			"level": 0,
 			"icon": "szaspficon",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -37416,6 +37565,7 @@
 			"dropid": "13",
 			"level": 0,
 			"icon": "cynspficon",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -37428,6 +37578,7 @@
 			"dropid": "14",
 			"level": 0,
 			"icon": "yueliangtuicon",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -37440,6 +37591,7 @@
 			"dropid": "15",
 			"level": 0,
 			"icon": "qian20icon",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -37452,6 +37604,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "wuqilj_13",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -37464,6 +37617,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "wuqilj_3",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -37476,6 +37630,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "tspficon",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -37488,6 +37643,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "wuqilj_8",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -37500,6 +37656,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "wuqilj_9",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -37512,6 +37669,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "wuqilj",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -37524,6 +37682,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "wuqilj_2",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -37536,6 +37695,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "wuqilj_5",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -37548,6 +37708,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "wuqilj_10",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -37560,6 +37721,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "wuqilj_7",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -37572,6 +37734,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "wuqilj_4",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -37584,6 +37747,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "wuqilj_12",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -37596,6 +37760,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "wuqilj_1",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -37608,6 +37773,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "wuqilj_6",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -37620,6 +37786,7 @@
 			"dropid": "0",
 			"level": 0,
 			"icon": "wuqilj_11",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -37632,6 +37799,7 @@
 			"dropid": "1",
 			"level": 0,
 			"icon": "putongka",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -37644,6 +37812,7 @@
 			"dropid": "2",
 			"level": 0,
 			"icon": "emoka",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -37656,6 +37825,7 @@
 			"dropid": "3",
 			"level": 0,
 			"icon": "tianshika",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -37668,6 +37838,7 @@
 			"dropid": "4",
 			"level": 0,
 			"icon": "diancika",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -37680,6 +37851,7 @@
 			"dropid": "5",
 			"level": 0,
 			"icon": "rongyanka",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -37692,6 +37864,7 @@
 			"dropid": "6",
 			"level": 0,
 			"icon": "jinchanka",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -37704,6 +37877,7 @@
 			"dropid": "7",
 			"level": 0,
 			"icon": "zhanjianka",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -37716,6 +37890,7 @@
 			"dropid": "8",
 			"level": 0,
 			"icon": "paopaoka",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -37728,6 +37903,7 @@
 			"dropid": "9",
 			"level": 0,
 			"icon": "jiatelinka",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -37740,6 +37916,7 @@
 			"dropid": "10",
 			"level": 0,
 			"icon": "xingjianka",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -37752,6 +37929,7 @@
 			"dropid": "11",
 			"level": 0,
 			"icon": "dianwanka",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -37764,6 +37942,7 @@
 			"dropid": "12",
 			"level": 0,
 			"icon": "bingka",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -37776,6 +37955,7 @@
 			"dropid": "13",
 			"level": 0,
 			"icon": "nvshenka",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -37788,6 +37968,7 @@
 			"dropid": "14",
 			"level": 0,
 			"icon": "tuzika",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		},
@@ -37800,6 +37981,7 @@
 			"dropid": "15",
 			"level": 0,
 			"icon": "jian20ka",
+			"overtime": 0,
 			"lengthtype": 0,
 			"lengthtime": 0
 		}
@@ -38004,6 +38186,7 @@
 			"time2": 0,
 			"autofire": 0,
 			"tag": "0",
+			"item": "w001",
 			"piece": ["w501",10],
 			"starttime": "0",
 			"endtime": "0"
@@ -38041,6 +38224,7 @@
 			"time2": 0,
 			"autofire": 0,
 			"tag": "0",
+			"item": "w002",
 			"piece": ["w502",50],
 			"starttime": "0",
 			"endtime": "0"
@@ -38066,7 +38250,7 @@
 			"bullet_count": 1,
 			"default": 0,
 			"issale": 1,
-			"price": 1699,
+			"price": 9999999,
 			"bullet_type": 3,
 			"scale": 0.6,
 			"iconscale": 0.18,
@@ -38078,7 +38262,8 @@
 			"time2": 0,
 			"autofire": 1,
 			"tag": "0",
-			"piece": ["w503",90],
+			"item": "w003",
+			"piece": ["w503",150],
 			"starttime": "0",
 			"endtime": "0"
 		},
@@ -38115,6 +38300,7 @@
 			"time2": 0,
 			"autofire": 0,
 			"tag": "0",
+			"item": "w004",
 			"piece": ["w504",60],
 			"starttime": "0",
 			"endtime": "0"
@@ -38152,6 +38338,7 @@
 			"time2": 0,
 			"autofire": 0,
 			"tag": "0",
+			"item": "w005",
 			"piece": ["w505",40],
 			"starttime": "0",
 			"endtime": "0"
@@ -38189,6 +38376,7 @@
 			"time2": 0,
 			"autofire": 1,
 			"tag": "0",
+			"item": "w006",
 			"piece": ["w506",90],
 			"starttime": "0",
 			"endtime": "0"
@@ -38226,6 +38414,7 @@
 			"time2": 0,
 			"autofire": 1,
 			"tag": "0",
+			"item": "w007",
 			"piece": ["w507",100],
 			"starttime": "0",
 			"endtime": "0"
@@ -38263,6 +38452,7 @@
 			"time2": 0,
 			"autofire": 1,
 			"tag": "0",
+			"item": "w008",
 			"piece": ["w508",100],
 			"starttime": "0",
 			"endtime": "0"
@@ -38300,6 +38490,7 @@
 			"time2": 0.5,
 			"autofire": 1,
 			"tag": "0",
+			"item": "w009",
 			"piece": ["w509",90],
 			"starttime": "0",
 			"endtime": "0"
@@ -38325,7 +38516,7 @@
 			"bullet_count": 1,
 			"default": 0,
 			"issale": 1,
-			"price": 1399,
+			"price": 9999999,
 			"bullet_type": 10,
 			"scale": 0.7,
 			"iconscale": 0.21,
@@ -38337,7 +38528,8 @@
 			"time2": 0,
 			"autofire": 1,
 			"tag": "0",
-			"piece": ["w510",80],
+			"item": "w010",
+			"piece": ["w510",150],
 			"starttime": "0",
 			"endtime": "0"
 		},
@@ -38374,6 +38566,7 @@
 			"time2": 0,
 			"autofire": 1,
 			"tag": "0",
+			"item": "w011",
 			"piece": ["w511",100],
 			"starttime": "0",
 			"endtime": "0"
@@ -38411,6 +38604,7 @@
 			"time2": 0,
 			"autofire": 0,
 			"tag": "七夕限定",
+			"item": "w012",
 			"piece": ["w512",110],
 			"starttime": "0",
 			"endtime": "0"
@@ -38448,6 +38642,7 @@
 			"time2": 0,
 			"autofire": 1,
 			"tag": "最强王者限定",
+			"item": "w013",
 			"piece": ["w513",120],
 			"starttime": "0",
 			"endtime": "0"
@@ -38485,6 +38680,7 @@
 			"time2": 0,
 			"autofire": 1,
 			"tag": "最强王者限定",
+			"item": "w014",
 			"piece": ["w514",150],
 			"starttime": "0",
 			"endtime": "0"
@@ -38522,6 +38718,7 @@
 			"time2": 0,
 			"autofire": 1,
 			"tag": "最强王者限定",
+			"item": "w015",
 			"piece": ["w515",150],
 			"starttime": "0",
 			"endtime": "0"
@@ -38534,7 +38731,7 @@
 			"unlock_cost": 0,
 			"unlock_material": [],
 			"unlock_rate": 1,
-			"weaponspct": 0.89,
+			"weaponspct": 0.88,
 			"unlock_level": 0,
 			"needpower": 3000,
 			"addpower": 1
@@ -38545,7 +38742,7 @@
 			"unlock_cost": 6,
 			"unlock_material": [],
 			"unlock_rate": 1,
-			"weaponspct": 0.89,
+			"weaponspct": 0.88,
 			"unlock_level": 0,
 			"needpower": 3000,
 			"addpower": 1
@@ -38556,7 +38753,7 @@
 			"unlock_cost": 12,
 			"unlock_material": [],
 			"unlock_rate": 1,
-			"weaponspct": 0.89,
+			"weaponspct": 0.88,
 			"unlock_level": 0,
 			"needpower": 3000,
 			"addpower": 1
@@ -38567,7 +38764,7 @@
 			"unlock_cost": 15,
 			"unlock_material": [],
 			"unlock_rate": 1,
-			"weaponspct": 0.89,
+			"weaponspct": 0.88,
 			"unlock_level": 0,
 			"needpower": 3000,
 			"addpower": 1
@@ -38578,7 +38775,7 @@
 			"unlock_cost": 18,
 			"unlock_material": [],
 			"unlock_rate": 1,
-			"weaponspct": 0.89,
+			"weaponspct": 0.88,
 			"unlock_level": 0,
 			"needpower": 3000,
 			"addpower": 1
@@ -38589,7 +38786,7 @@
 			"unlock_cost": 21,
 			"unlock_material": [],
 			"unlock_rate": 1,
-			"weaponspct": 0.89,
+			"weaponspct": 0.88,
 			"unlock_level": 0,
 			"needpower": 3000,
 			"addpower": 1
@@ -38600,7 +38797,7 @@
 			"unlock_cost": 24,
 			"unlock_material": [],
 			"unlock_rate": 1,
-			"weaponspct": 0.89,
+			"weaponspct": 0.88,
 			"unlock_level": 0,
 			"needpower": 3000,
 			"addpower": 1
@@ -38611,7 +38808,7 @@
 			"unlock_cost": 27,
 			"unlock_material": [],
 			"unlock_rate": 1,
-			"weaponspct": 0.89,
+			"weaponspct": 0.88,
 			"unlock_level": 0,
 			"needpower": 3000,
 			"addpower": 1
@@ -38622,7 +38819,7 @@
 			"unlock_cost": 30,
 			"unlock_material": [],
 			"unlock_rate": 1,
-			"weaponspct": 0.89,
+			"weaponspct": 0.88,
 			"unlock_level": 0,
 			"needpower": 3000,
 			"addpower": 1
@@ -38633,7 +38830,7 @@
 			"unlock_cost": 33,
 			"unlock_material": [],
 			"unlock_rate": 1,
-			"weaponspct": 0.89,
+			"weaponspct": 0.88,
 			"unlock_level": 0,
 			"needpower": 3000,
 			"addpower": 1
@@ -38644,7 +38841,7 @@
 			"unlock_cost": 36,
 			"unlock_material": [],
 			"unlock_rate": 1,
-			"weaponspct": 0.89,
+			"weaponspct": 0.88,
 			"unlock_level": 0,
 			"needpower": 3000,
 			"addpower": 1
@@ -38655,7 +38852,7 @@
 			"unlock_cost": 39,
 			"unlock_material": [],
 			"unlock_rate": 1,
-			"weaponspct": 0.885,
+			"weaponspct": 0.88,
 			"unlock_level": 0,
 			"needpower": 3000,
 			"addpower": 1
@@ -38666,7 +38863,7 @@
 			"unlock_cost": 45,
 			"unlock_material": [],
 			"unlock_rate": 1,
-			"weaponspct": 0.885,
+			"weaponspct": 0.88,
 			"unlock_level": 0,
 			"needpower": 3000,
 			"addpower": 1
@@ -38677,7 +38874,7 @@
 			"unlock_cost": 54,
 			"unlock_material": [],
 			"unlock_rate": 1,
-			"weaponspct": 0.885,
+			"weaponspct": 0.88,
 			"unlock_level": 0,
 			"needpower": 3000,
 			"addpower": 1
@@ -38688,7 +38885,7 @@
 			"unlock_cost": 60,
 			"unlock_material": [],
 			"unlock_rate": 1,
-			"weaponspct": 0.885,
+			"weaponspct": 0.88,
 			"unlock_level": 0,
 			"needpower": 3000,
 			"addpower": 1
@@ -38699,7 +38896,7 @@
 			"unlock_cost": 75,
 			"unlock_material": [],
 			"unlock_rate": 1,
-			"weaponspct": 0.885,
+			"weaponspct": 0.88,
 			"unlock_level": 0,
 			"needpower": 3000,
 			"addpower": 1
@@ -38710,7 +38907,7 @@
 			"unlock_cost": 90,
 			"unlock_material": [],
 			"unlock_rate": 1,
-			"weaponspct": 0.885,
+			"weaponspct": 0.88,
 			"unlock_level": 0,
 			"needpower": 3000,
 			"addpower": 1
@@ -38721,7 +38918,7 @@
 			"unlock_cost": 120,
 			"unlock_material": [],
 			"unlock_rate": 1,
-			"weaponspct": 0.885,
+			"weaponspct": 0.88,
 			"unlock_level": 0,
 			"needpower": 3000,
 			"addpower": 1
@@ -38732,7 +38929,7 @@
 			"unlock_cost": 150,
 			"unlock_material": [],
 			"unlock_rate": 1,
-			"weaponspct": 0.885,
+			"weaponspct": 0.88,
 			"unlock_level": 0,
 			"needpower": 3000,
 			"addpower": 1
@@ -38743,7 +38940,7 @@
 			"unlock_cost": 180,
 			"unlock_material": [],
 			"unlock_rate": 1,
-			"weaponspct": 0.885,
+			"weaponspct": 0.88,
 			"unlock_level": 0,
 			"needpower": 3000,
 			"addpower": 1
@@ -38754,7 +38951,7 @@
 			"unlock_cost": 240,
 			"unlock_material": [],
 			"unlock_rate": 1,
-			"weaponspct": 0.885,
+			"weaponspct": 0.88,
 			"unlock_level": 0,
 			"needpower": 3000,
 			"addpower": 1
@@ -38765,7 +38962,7 @@
 			"unlock_cost": 300,
 			"unlock_material": [],
 			"unlock_rate": 1,
-			"weaponspct": 0.885,
+			"weaponspct": 0.88,
 			"unlock_level": 0,
 			"needpower": 3000,
 			"addpower": 1
@@ -38776,7 +38973,7 @@
 			"unlock_cost": 360,
 			"unlock_material": [],
 			"unlock_rate": 1,
-			"weaponspct": 0.885,
+			"weaponspct": 0.88,
 			"unlock_level": 0,
 			"needpower": 3000,
 			"addpower": 1
@@ -38787,7 +38984,7 @@
 			"unlock_cost": 420,
 			"unlock_material": [],
 			"unlock_rate": 1,
-			"weaponspct": 0.885,
+			"weaponspct": 0.88,
 			"unlock_level": 0,
 			"needpower": 3000,
 			"addpower": 1
@@ -38798,7 +38995,7 @@
 			"unlock_cost": 480,
 			"unlock_material": [],
 			"unlock_rate": 1,
-			"weaponspct": 0.885,
+			"weaponspct": 0.88,
 			"unlock_level": 0,
 			"needpower": 3000,
 			"addpower": 1
@@ -38809,7 +39006,7 @@
 			"unlock_cost": 540,
 			"unlock_material": [],
 			"unlock_rate": 1,
-			"weaponspct": 0.88,
+			"weaponspct": 0.875,
 			"unlock_level": 0,
 			"needpower": 3000,
 			"addpower": 1
@@ -38820,7 +39017,7 @@
 			"unlock_cost": 600,
 			"unlock_material": [],
 			"unlock_rate": 1,
-			"weaponspct": 0.88,
+			"weaponspct": 0.875,
 			"unlock_level": 0,
 			"needpower": 3000,
 			"addpower": 1
@@ -38831,7 +39028,7 @@
 			"unlock_cost": 750,
 			"unlock_material": [],
 			"unlock_rate": 1,
-			"weaponspct": 0.88,
+			"weaponspct": 0.875,
 			"unlock_level": 0,
 			"needpower": 3000,
 			"addpower": 1
@@ -38842,7 +39039,7 @@
 			"unlock_cost": 900,
 			"unlock_material": [],
 			"unlock_rate": 1,
-			"weaponspct": 0.88,
+			"weaponspct": 0.875,
 			"unlock_level": 0,
 			"needpower": 3000,
 			"addpower": 1
@@ -38853,7 +39050,7 @@
 			"unlock_cost": 1050,
 			"unlock_material": [],
 			"unlock_rate": 1,
-			"weaponspct": 0.88,
+			"weaponspct": 0.875,
 			"unlock_level": 0,
 			"needpower": 3000,
 			"addpower": 1
@@ -38864,7 +39061,7 @@
 			"unlock_cost": 1200,
 			"unlock_material": [],
 			"unlock_rate": 1,
-			"weaponspct": 0.88,
+			"weaponspct": 0.875,
 			"unlock_level": 0,
 			"needpower": 3000,
 			"addpower": 1
@@ -38875,7 +39072,7 @@
 			"unlock_cost": 1350,
 			"unlock_material": [],
 			"unlock_rate": 1,
-			"weaponspct": 0.88,
+			"weaponspct": 0.875,
 			"unlock_level": 0,
 			"needpower": 3000,
 			"addpower": 1
@@ -38886,7 +39083,7 @@
 			"unlock_cost": 1500,
 			"unlock_material": [],
 			"unlock_rate": 1,
-			"weaponspct": 0.875,
+			"weaponspct": 0.87,
 			"unlock_level": 0,
 			"needpower": 3000,
 			"addpower": 1
@@ -38897,7 +39094,7 @@
 			"unlock_cost": 1500,
 			"unlock_material": [["i015",1],["i501",10],["i502",10],["i503",10]],
 			"unlock_rate": 1,
-			"weaponspct": 0.875,
+			"weaponspct": 0.87,
 			"unlock_level": 0,
 			"needpower": 3000,
 			"addpower": 1
@@ -38908,7 +39105,7 @@
 			"unlock_cost": 1500,
 			"unlock_material": [["i015",1],["i502",20],["i503",20],["i504",20]],
 			"unlock_rate": 0.95,
-			"weaponspct": 0.875,
+			"weaponspct": 0.87,
 			"unlock_level": 0,
 			"needpower": 3000,
 			"addpower": 1
@@ -38919,7 +39116,7 @@
 			"unlock_cost": 1500,
 			"unlock_material": [["i015",1],["i503",30],["i504",30],["i505",30]],
 			"unlock_rate": 0.9,
-			"weaponspct": 0.875,
+			"weaponspct": 0.87,
 			"unlock_level": 0,
 			"needpower": 3000,
 			"addpower": 1
@@ -38930,7 +39127,7 @@
 			"unlock_cost": 1500,
 			"unlock_material": [["i015",1],["i504",40],["i505",40],["i501",40]],
 			"unlock_rate": 0.85,
-			"weaponspct": 0.875,
+			"weaponspct": 0.87,
 			"unlock_level": 0,
 			"needpower": 3000,
 			"addpower": 1
@@ -38941,7 +39138,7 @@
 			"unlock_cost": 1500,
 			"unlock_material": [["i015",1],["i505",50],["i501",50],["i502",50]],
 			"unlock_rate": 0.8,
-			"weaponspct": 0.875,
+			"weaponspct": 0.87,
 			"unlock_level": 0,
 			"needpower": 3000,
 			"addpower": 1
@@ -38952,7 +39149,7 @@
 			"unlock_cost": 1500,
 			"unlock_material": [["i016",1],["i501",100],["i502",100],["i503",100]],
 			"unlock_rate": 0.79,
-			"weaponspct": 0.87,
+			"weaponspct": 0.865,
 			"unlock_level": 0,
 			"needpower": 3000,
 			"addpower": 1
@@ -38963,7 +39160,7 @@
 			"unlock_cost": 1500,
 			"unlock_material": [["i016",1],["i502",150],["i503",150],["i504",150]],
 			"unlock_rate": 0.78,
-			"weaponspct": 0.87,
+			"weaponspct": 0.865,
 			"unlock_level": 0,
 			"needpower": 3000,
 			"addpower": 1
@@ -38974,7 +39171,7 @@
 			"unlock_cost": 1500,
 			"unlock_material": [["i016",1],["i503",200],["i504",200],["i505",200]],
 			"unlock_rate": 0.77,
-			"weaponspct": 0.87,
+			"weaponspct": 0.865,
 			"unlock_level": 0,
 			"needpower": 3000,
 			"addpower": 1
@@ -38985,7 +39182,7 @@
 			"unlock_cost": 1500,
 			"unlock_material": [["i016",1],["i504",250],["i505",250],["i501",250]],
 			"unlock_rate": 0.76,
-			"weaponspct": 0.87,
+			"weaponspct": 0.865,
 			"unlock_level": 0,
 			"needpower": 3000,
 			"addpower": 1
@@ -38996,7 +39193,7 @@
 			"unlock_cost": 1500,
 			"unlock_material": [["i016",1],["i505",300],["i501",300],["i502",300]],
 			"unlock_rate": 0.75,
-			"weaponspct": 0.87,
+			"weaponspct": 0.865,
 			"unlock_level": 0,
 			"needpower": 3000,
 			"addpower": 1
@@ -39007,7 +39204,7 @@
 			"unlock_cost": 1500,
 			"unlock_material": [["i016",1],["i501",350],["i502",350],["i503",350]],
 			"unlock_rate": 0.74,
-			"weaponspct": 0.87,
+			"weaponspct": 0.865,
 			"unlock_level": 0,
 			"needpower": 3000,
 			"addpower": 1
@@ -39018,7 +39215,7 @@
 			"unlock_cost": 1500,
 			"unlock_material": [["i017",1],["i502",400],["i503",400],["i504",400]],
 			"unlock_rate": 0.73,
-			"weaponspct": 0.87,
+			"weaponspct": 0.865,
 			"unlock_level": 0,
 			"needpower": 3000,
 			"addpower": 1
@@ -39029,7 +39226,7 @@
 			"unlock_cost": 1500,
 			"unlock_material": [["i017",1],["i503",500],["i504",500],["i505",500]],
 			"unlock_rate": 0.72,
-			"weaponspct": 0.87,
+			"weaponspct": 0.865,
 			"unlock_level": 0,
 			"needpower": 3000,
 			"addpower": 1
@@ -39040,7 +39237,7 @@
 			"unlock_cost": 1500,
 			"unlock_material": [["i017",1],["i504",600],["i505",600],["i501",600]],
 			"unlock_rate": 0.71,
-			"weaponspct": 0.87,
+			"weaponspct": 0.865,
 			"unlock_level": 0,
 			"needpower": 3000,
 			"addpower": 1
@@ -39051,7 +39248,7 @@
 			"unlock_cost": 1500,
 			"unlock_material": [["i017",1],["i505",800],["i501",800],["i502",800]],
 			"unlock_rate": 0.7,
-			"weaponspct": 0.87,
+			"weaponspct": 0.865,
 			"unlock_level": 0,
 			"needpower": 3000,
 			"addpower": 1
@@ -39062,7 +39259,7 @@
 			"unlock_cost": 1575,
 			"unlock_material": [["i017",1],["i501",1000],["i502",1000],["i503",1000]],
 			"unlock_rate": 0.69,
-			"weaponspct": 0.87,
+			"weaponspct": 0.865,
 			"unlock_level": 0,
 			"needpower": 3000,
 			"addpower": 1
@@ -39073,7 +39270,7 @@
 			"unlock_cost": 1650,
 			"unlock_material": [["i017",1],["i502",1500],["i503",1500],["i505",1500]],
 			"unlock_rate": 0.68,
-			"weaponspct": 0.865,
+			"weaponspct": 0.86,
 			"unlock_level": 0,
 			"needpower": 3000,
 			"addpower": 1
@@ -39084,7 +39281,7 @@
 			"unlock_cost": 1800,
 			"unlock_material": [["i017",2],["i502",1600],["i503",1600],["i505",1600]],
 			"unlock_rate": 0.67,
-			"weaponspct": 0.865,
+			"weaponspct": 0.86,
 			"unlock_level": 0,
 			"needpower": 3000,
 			"addpower": 1
@@ -39095,7 +39292,7 @@
 			"unlock_cost": 1800,
 			"unlock_material": [["i017",2],["i502",1700],["i503",1700],["i505",1700]],
 			"unlock_rate": 0.66,
-			"weaponspct": 0.865,
+			"weaponspct": 0.86,
 			"unlock_level": 0,
 			"needpower": 3000,
 			"addpower": 1
@@ -39106,7 +39303,7 @@
 			"unlock_cost": 1800,
 			"unlock_material": [["i017",2],["i502",1800],["i503",1800],["i505",1800]],
 			"unlock_rate": 0.65,
-			"weaponspct": 0.865,
+			"weaponspct": 0.86,
 			"unlock_level": 0,
 			"needpower": 3000,
 			"addpower": 1
@@ -39117,7 +39314,7 @@
 			"unlock_cost": 1800,
 			"unlock_material": [["i017",2],["i502",1900],["i503",1900],["i505",1900]],
 			"unlock_rate": 0.64,
-			"weaponspct": 0.865,
+			"weaponspct": 0.86,
 			"unlock_level": 0,
 			"needpower": 3000,
 			"addpower": 1
@@ -39128,7 +39325,7 @@
 			"unlock_cost": 1800,
 			"unlock_material": [["i017",2],["i502",2000],["i503",2000],["i505",2000]],
 			"unlock_rate": 0.63,
-			"weaponspct": 0.865,
+			"weaponspct": 0.86,
 			"unlock_level": 0,
 			"needpower": 3000,
 			"addpower": 1
@@ -39139,7 +39336,7 @@
 			"unlock_cost": 1800,
 			"unlock_material": [["i017",3],["i502",2200],["i503",2200],["i505",2200]],
 			"unlock_rate": 0.62,
-			"weaponspct": 0.865,
+			"weaponspct": 0.86,
 			"unlock_level": 0,
 			"needpower": 3000,
 			"addpower": 1
@@ -39150,7 +39347,7 @@
 			"unlock_cost": 1800,
 			"unlock_material": [["i017",3],["i502",2400],["i503",2400],["i505",2400]],
 			"unlock_rate": 0.61,
-			"weaponspct": 0.865,
+			"weaponspct": 0.86,
 			"unlock_level": 0,
 			"needpower": 3000,
 			"addpower": 1
@@ -39161,7 +39358,7 @@
 			"unlock_cost": 1800,
 			"unlock_material": [["i017",3],["i502",2600],["i503",2600],["i505",2600]],
 			"unlock_rate": 0.6,
-			"weaponspct": 0.865,
+			"weaponspct": 0.86,
 			"unlock_level": 0,
 			"needpower": 3000,
 			"addpower": 1
@@ -39172,7 +39369,7 @@
 			"unlock_cost": 1800,
 			"unlock_material": [["i017",3],["i502",2800],["i503",2800],["i505",2800]],
 			"unlock_rate": 0.59,
-			"weaponspct": 0.865,
+			"weaponspct": 0.86,
 			"unlock_level": 0,
 			"needpower": 3000,
 			"addpower": 1
@@ -39183,7 +39380,7 @@
 			"unlock_cost": 1800,
 			"unlock_material": [["i017",3],["i502",3000],["i503",3000],["i505",3000]],
 			"unlock_rate": 0.58,
-			"weaponspct": 0.865,
+			"weaponspct": 0.86,
 			"unlock_level": 0,
 			"needpower": 3000,
 			"addpower": 1
@@ -39194,7 +39391,7 @@
 			"unlock_cost": 1800,
 			"unlock_material": [["i017",3],["i502",3200],["i503",3200],["i505",3200]],
 			"unlock_rate": 0.57,
-			"weaponspct": 0.865,
+			"weaponspct": 0.86,
 			"unlock_level": 0,
 			"needpower": 3000,
 			"addpower": 1
@@ -39205,7 +39402,7 @@
 			"unlock_cost": 1800,
 			"unlock_material": [["i017",3],["i502",3500],["i503",3500],["i505",3500]],
 			"unlock_rate": 0.56,
-			"weaponspct": 0.865,
+			"weaponspct": 0.86,
 			"unlock_level": 0,
 			"needpower": 3000,
 			"addpower": 1
@@ -39216,7 +39413,7 @@
 			"unlock_cost": 1800,
 			"unlock_material": [["i017",4],["i502",4000],["i503",4000],["i505",4000]],
 			"unlock_rate": 0.55,
-			"weaponspct": 0.865,
+			"weaponspct": 0.86,
 			"unlock_level": 0,
 			"needpower": 3000,
 			"addpower": 1
@@ -39227,7 +39424,7 @@
 			"unlock_cost": 1800,
 			"unlock_material": [["i017",5],["i502",4500],["i503",4500],["i505",4500]],
 			"unlock_rate": 0.54,
-			"weaponspct": 0.865,
+			"weaponspct": 0.86,
 			"unlock_level": 0,
 			"needpower": 3000,
 			"addpower": 1
@@ -39238,7 +39435,7 @@
 			"unlock_cost": 1800,
 			"unlock_material": [["i017",6],["i502",5000],["i503",5000],["i505",5000]],
 			"unlock_rate": 0.53,
-			"weaponspct": 0.865,
+			"weaponspct": 0.86,
 			"unlock_level": 0,
 			"needpower": 3000,
 			"addpower": 1
@@ -39249,7 +39446,7 @@
 			"unlock_cost": 1800,
 			"unlock_material": [["i017",7],["i502",5500],["i503",5500],["i505",5500]],
 			"unlock_rate": 0.52,
-			"weaponspct": 0.865,
+			"weaponspct": 0.86,
 			"unlock_level": 0,
 			"needpower": 3000,
 			"addpower": 1
@@ -39260,7 +39457,7 @@
 			"unlock_cost": 1800,
 			"unlock_material": [["i017",8],["i502",6000],["i503",6000],["i505",6000]],
 			"unlock_rate": 0.51,
-			"weaponspct": 0.865,
+			"weaponspct": 0.86,
 			"unlock_level": 0,
 			"needpower": 3000,
 			"addpower": 1
@@ -42908,7 +43105,7 @@
 			"icon": " ",
 			"description": " ",
 			"reward_qzone": [["i001",500],["i230",1]],
-			"yPCT": 1.1,
+			"yPCT": 1,
 			"newcomergold": 0
 		},
 		{
@@ -45344,7 +45541,7 @@
 			"tide_circle": 0,
 			"pirate_time": 0,
 			"pirate_id": [],
-			"total": 0,
+			"total": 35,
 			"fish_sort": ["longgui_boss","haima_boss","huafeiyu4","baoxiangyu","baozhay","dianman","hujing_jj","dapanyu_jj","moguiyu_jj","suolianyu_jj","hujing","dabaisha_jj","chuitousha","sanshengyu_jj","moguiyu_hong","moguiyu_lan","haitun_jj","shuimu_jj","haitun","pipashuyu","cheqiyu_jj","shuimu_lan","baofangfu_zi","dinianyu_lan","haigui","jianyu","hetun_huang","jiaodie_lan","baoshiyu_lan","duanhuibiyu_lan","cheqiyu","shuijingyu","jinqiangyu"],
 			"buttonimage": "0",
 			"restraintlv_min": 1,
@@ -57064,18 +57261,18 @@
 		{
 			"id": 1,
 			"name": "guerdon_name_1",
-			"reward": [["i001",1000],["i001",10000],["i001",100000]],
-			"price": [1,10,100],
-			"viplevel": [0,0,0],
+			"reward": [["i001",10000],["i001",100000],["i001",1000000]],
+			"price": [10,100,1000],
+			"viplevel": [0,0,4],
 			"cost": [0,0,0],
-			"notice": [0,0,1]
+			"notice": [0,1,1]
 		},
 		{
 			"id": 2,
 			"name": "guerdon_name_2",
 			"reward": [["i015",1],["i016",1],["i017",1]],
 			"price": [50,150,500],
-			"viplevel": [3,3,3],
+			"viplevel": [0,0,4],
 			"cost": [0,0,0],
 			"notice": [1,1,1]
 		},
@@ -57084,7 +57281,7 @@
 			"name": "guerdon_name_3",
 			"reward": [["i400",1],["i400",9],["i400",99]],
 			"price": [10,90,990],
-			"viplevel": [0,0,0],
+			"viplevel": [0,0,4],
 			"cost": [0,0,0],
 			"notice": [0,1,1]
 		}
@@ -91439,7 +91636,7 @@
 			"cn": "服务器连接异常，请重新登录！"
 		},
 		"luck_remain_count": {
-			"cn": "今日还可抽取%d次"
+			"cn": "VIP%d今日还可抽取%d次"
 		},
 		"luck_remain_unenough": {
 			"cn": "剩余抽奖次数不足，请提升VIP或明日再来！"
@@ -92546,7 +92743,7 @@
 			"cn": "后颁奖"
 		},
 		"tip_1103": {
-			"cn": "获得一次排位赛胜利可开启宝箱"
+			"cn": "匹配胜利后开启"
 		},
 		"tip_1104": {
 			"cn": "后可用"
@@ -93297,6 +93494,63 @@
 		},
 		"str_weaponup_cost": {
 			"cn": "%d（拥有：%s）"
+		},
+		"str_1v1_score_record": {
+			"cn": "你本次对战捕鱼分数:%d"
+		},
+		"str_1v1_treasure_tips1": {
+			"cn": "对战礼盒需要收集%d颗星才能开启，每参加1次好友对战可获得1颗星，是否立即参加？"
+		},
+		"str_1v1_treasure_tips2": {
+			"cn": "幸运礼盒需要连续开启%d个对战礼盒才能获得，是否前往对战获得对战礼盒？"
+		},
+		"str_1v1_fight_join_tips1": {
+			"cn": "该对战已在进行中，是否前往创建新对战？"
+		},
+		"str_1v1_fight_join_tips2": {
+			"cn": "该对战已结束，是否前往创建新对战？"
+		},
+		"str_1v1_weapon_change_tips": {
+			"cn": "你的金币过低，不能使用更高倍率"
+		},
+		"str_1v1_nuclear_confirm": {
+			"cn": "释放核弹终结对手（免费核弹只增加分数，不增加金币，不增加成就）"
+		},
+		"str_1v1_operation_tips1": {
+			"cn": "排位赛进行中，不能进行好友对战"
+		},
+		"str_1v1_operation_tips2": {
+			"cn": "对战创建中，不能参加对战"
+		},
+		"str_1v1_operation_tips3": {
+			"cn": "对战挑战中，不能创建对战"
+		},
+		"str_1v1_operation_tips4": {
+			"cn": "对战创建或挑战进行中，不能进行排位赛"
+		},
+		"str_1v1_win_times": {
+			"cn": "胜场：%d%%"
+		},
+		"str_1v1_win_rate": {
+			"cn": "胜场：%s%%"
+		},
+		"str_1v1_opponent_name": {
+			"cn": "未知挑战者"
+		},
+		"str_1v1_nuclear_free": {
+			"cn": "免费核弹"
+		},
+		"str_1v1_nuclear_buy": {
+			"cn": "金币购买"
+		},
+		"str_weapon_expire_time": {
+			"cn": "%d天%d时%d分后过期"
+		},
+		"str_weapon_get_tips": {
+			"cn": "恭喜你获得了一个新皮肤，赶紧去解锁吧"
+		},
+		"rmatch_fight_freedraw": {
+			"cn": "参与%d/%d次好友对战免费抽奖1次"
 		}
 	},
 	"active_newbie_cfg.json": [

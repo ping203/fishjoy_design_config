@@ -3,7 +3,7 @@ var daily_dailytarget_cfg =
 	{
 		id : 1,
 		days : 2,
-		reward : [["i001",50000]],
+		reward : [["i001",20000]],
 	},
 	{
 		id : 2,
@@ -28,17 +28,17 @@ var daily_dailytarget_cfg =
 	{
 		id : 6,
 		days : 22,
-		reward : [["i240",50],["i420",1]],
+		reward : [["i240",50],["i420",2]],
 	},
 	{
 		id : 7,
 		days : 26,
-		reward : [["i015",2],["i420",1]],
+		reward : [["i015",2],["i420",2]],
 	},
 	{
 		id : 8,
 		days : 30,
-		reward : [["i002",100],["i420",5]],
+		reward : [["i002",100],["i420",2]],
 	},
 ];
 module.exports = daily_dailytarget_cfg;

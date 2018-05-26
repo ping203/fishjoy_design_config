@@ -57,7 +57,7 @@ var goddess_goddess_cfg =
 		headpic : "nstxicon",
 		name : "goddess_name_5",
 		free : 1,
-		opentime : "2018/05/23&00:00:00",
+		opentime : "2058/05/23&00:00:00",
 		needitem : [["i704",1],["i704",1],["i704",1],["i704",1],["i704",1],["i704",1],["i704",1],["i704",1],["i704",1]],
 	},
 ];

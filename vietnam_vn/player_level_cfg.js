@@ -3,7 +3,7 @@ var player_level_cfg =
 	{
 		level : 1,
 		exp_max : 1000,
-		reward_package : [["i001",200],["i002",2]],
+		reward_package : [["i001",200],["i007",6]],
 		cost : [],
 		reward : [],
 		icon : " ",
@@ -15,7 +15,7 @@ var player_level_cfg =
 	{
 		level : 2,
 		exp_max : 2000,
-		reward_package : [["i001",200],["i002",2]],
+		reward_package : [["i001",200],["i007",6]],
 		cost : [],
 		reward : [],
 		icon : " ",
@@ -27,7 +27,7 @@ var player_level_cfg =
 	{
 		level : 3,
 		exp_max : 4000,
-		reward_package : [["i001",200],["i002",2]],
+		reward_package : [["i001",200],["i007",6]],
 		cost : [],
 		reward : [],
 		icon : " ",
@@ -39,7 +39,7 @@ var player_level_cfg =
 	{
 		level : 4,
 		exp_max : 6000,
-		reward_package : [["i001",200],["i002",2]],
+		reward_package : [["i001",200],["i007",6]],
 		cost : [],
 		reward : [],
 		icon : " ",
@@ -51,7 +51,7 @@ var player_level_cfg =
 	{
 		level : 5,
 		exp_max : 10000,
-		reward_package : [["i001",200],["i002",2]],
+		reward_package : [["i001",200],["i007",6]],
 		cost : [],
 		reward : [],
 		icon : " ",
@@ -63,7 +63,7 @@ var player_level_cfg =
 	{
 		level : 6,
 		exp_max : 15000,
-		reward_package : [["i001",300],["i002",3]],
+		reward_package : [["i001",300],["i007",6]],
 		cost : [],
 		reward : [],
 		icon : " ",
@@ -75,7 +75,7 @@ var player_level_cfg =
 	{
 		level : 7,
 		exp_max : 20000,
-		reward_package : [["i001",300],["i002",3]],
+		reward_package : [["i001",300],["i002",2]],
 		cost : [],
 		reward : [],
 		icon : " ",
@@ -87,7 +87,7 @@ var player_level_cfg =
 	{
 		level : 8,
 		exp_max : 25000,
-		reward_package : [["i001",300],["i002",3]],
+		reward_package : [["i001",300],["i002",2]],
 		cost : [],
 		reward : [],
 		icon : " ",

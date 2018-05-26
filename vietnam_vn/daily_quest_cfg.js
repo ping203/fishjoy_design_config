@@ -89,9 +89,9 @@ var daily_quest_cfg =
 		type : 0,
 		precondition : 0,
 		name : "quest_name_118000",
-		condition : 18,
+		condition : 31,
 		value1 : 0,
-		value2 : 1,
+		value2 : 5,
 		pic : "0",
 		reward : [["i001",1000],["i102",10]],
 		ui_link : 0,
@@ -2001,7 +2001,7 @@ var daily_quest_cfg =
 		value1 : 0,
 		value2 : 2,
 		pic : "0",
-		reward : [["i001",500],["i103",1]],
+		reward : [["i007",4],["i103",1]],
 		ui_link : 0,
 	},
 	{
@@ -2013,7 +2013,7 @@ var daily_quest_cfg =
 		value1 : 0,
 		value2 : 4,
 		pic : "0",
-		reward : [["i001",500],["i103",1]],
+		reward : [["i007",4],["i103",1]],
 		ui_link : 0,
 	},
 	{
@@ -2025,7 +2025,7 @@ var daily_quest_cfg =
 		value1 : 0,
 		value2 : 6,
 		pic : "0",
-		reward : [["i001",500],["i103",1]],
+		reward : [["i007",4],["i103",1]],
 		ui_link : 0,
 	},
 	{
@@ -2037,7 +2037,7 @@ var daily_quest_cfg =
 		value1 : 0,
 		value2 : 8,
 		pic : "0",
-		reward : [["i001",500],["i103",1]],
+		reward : [["i007",4],["i103",1]],
 		ui_link : 0,
 	},
 	{
@@ -2049,7 +2049,7 @@ var daily_quest_cfg =
 		value1 : 0,
 		value2 : 10,
 		pic : "0",
-		reward : [["i001",500],["i103",1]],
+		reward : [["i007",4],["i103",1]],
 		ui_link : 0,
 	},
 	{
@@ -2061,7 +2061,7 @@ var daily_quest_cfg =
 		value1 : 0,
 		value2 : 12,
 		pic : "0",
-		reward : [["i001",500],["i103",1]],
+		reward : [["i007",4],["i103",1]],
 		ui_link : 0,
 	},
 	{
@@ -2073,7 +2073,7 @@ var daily_quest_cfg =
 		value1 : 0,
 		value2 : 14,
 		pic : "0",
-		reward : [["i001",500],["i103",1]],
+		reward : [["i007",4],["i103",1]],
 		ui_link : 0,
 	},
 	{
@@ -2085,7 +2085,7 @@ var daily_quest_cfg =
 		value1 : 0,
 		value2 : 16,
 		pic : "0",
-		reward : [["i001",1000],["i103",2]],
+		reward : [["i007",8],["i103",2]],
 		ui_link : 0,
 	},
 	{
@@ -2097,7 +2097,7 @@ var daily_quest_cfg =
 		value1 : 0,
 		value2 : 18,
 		pic : "0",
-		reward : [["i001",1500],["i103",3]],
+		reward : [["i007",12],["i103",3]],
 		ui_link : 0,
 	},
 	{
@@ -2109,7 +2109,7 @@ var daily_quest_cfg =
 		value1 : 0,
 		value2 : 20,
 		pic : "0",
-		reward : [["i001",2000],["i103",4]],
+		reward : [["i007",16],["i103",4]],
 		ui_link : 0,
 	},
 	{
@@ -2121,7 +2121,7 @@ var daily_quest_cfg =
 		value1 : 0,
 		value2 : 22,
 		pic : "0",
-		reward : [["i001",2500],["i103",5]],
+		reward : [["i007",20],["i103",5]],
 		ui_link : 0,
 	},
 	{
@@ -2133,7 +2133,7 @@ var daily_quest_cfg =
 		value1 : 0,
 		value2 : 24,
 		pic : "0",
-		reward : [["i001",3000],["i103",6]],
+		reward : [["i007",24],["i103",6]],
 		ui_link : 0,
 	},
 	{
@@ -2145,7 +2145,7 @@ var daily_quest_cfg =
 		value1 : 0,
 		value2 : 26,
 		pic : "0",
-		reward : [["i001",3500],["i103",7]],
+		reward : [["i007",28],["i103",7]],
 		ui_link : 0,
 	},
 	{
@@ -2157,7 +2157,7 @@ var daily_quest_cfg =
 		value1 : 0,
 		value2 : 28,
 		pic : "0",
-		reward : [["i001",4000],["i103",8]],
+		reward : [["i007",32],["i103",8]],
 		ui_link : 0,
 	},
 	{
@@ -2169,7 +2169,7 @@ var daily_quest_cfg =
 		value1 : 0,
 		value2 : 30,
 		pic : "0",
-		reward : [["i001",4500],["i103",9]],
+		reward : [["i007",36],["i103",9]],
 		ui_link : 0,
 	},
 	{
@@ -2181,7 +2181,7 @@ var daily_quest_cfg =
 		value1 : 0,
 		value2 : 32,
 		pic : "0",
-		reward : [["i001",5000],["i103",10]],
+		reward : [["i007",40],["i103",10]],
 		ui_link : 0,
 	},
 	{
@@ -2193,7 +2193,7 @@ var daily_quest_cfg =
 		value1 : 0,
 		value2 : 34,
 		pic : "0",
-		reward : [["i001",5500],["i103",11]],
+		reward : [["i007",44],["i103",11]],
 		ui_link : 0,
 	},
 	{
@@ -2205,7 +2205,7 @@ var daily_quest_cfg =
 		value1 : 0,
 		value2 : 36,
 		pic : "0",
-		reward : [["i001",6000],["i103",12]],
+		reward : [["i007",48],["i103",12]],
 		ui_link : 0,
 	},
 	{
@@ -2217,7 +2217,7 @@ var daily_quest_cfg =
 		value1 : 0,
 		value2 : 38,
 		pic : "0",
-		reward : [["i001",6500],["i103",13]],
+		reward : [["i007",52],["i103",13]],
 		ui_link : 0,
 	},
 	{
@@ -2229,7 +2229,7 @@ var daily_quest_cfg =
 		value1 : 0,
 		value2 : 40,
 		pic : "0",
-		reward : [["i001",7000],["i103",14]],
+		reward : [["i007",56],["i103",14]],
 		ui_link : 0,
 	},
 	{
@@ -2241,7 +2241,7 @@ var daily_quest_cfg =
 		value1 : 0,
 		value2 : 42,
 		pic : "0",
-		reward : [["i001",7500],["i103",15]],
+		reward : [["i007",60],["i103",15]],
 		ui_link : 0,
 	},
 	{
@@ -2253,7 +2253,7 @@ var daily_quest_cfg =
 		value1 : 0,
 		value2 : 44,
 		pic : "0",
-		reward : [["i001",8000],["i103",16]],
+		reward : [["i007",64],["i103",16]],
 		ui_link : 0,
 	},
 	{
@@ -2265,7 +2265,7 @@ var daily_quest_cfg =
 		value1 : 0,
 		value2 : 46,
 		pic : "0",
-		reward : [["i001",8500],["i103",17]],
+		reward : [["i007",68],["i103",17]],
 		ui_link : 0,
 	},
 	{
@@ -2277,7 +2277,7 @@ var daily_quest_cfg =
 		value1 : 0,
 		value2 : 48,
 		pic : "0",
-		reward : [["i001",9000],["i103",18]],
+		reward : [["i007",72],["i103",18]],
 		ui_link : 0,
 	},
 	{
@@ -2289,7 +2289,7 @@ var daily_quest_cfg =
 		value1 : 0,
 		value2 : 50,
 		pic : "0",
-		reward : [["i001",9500],["i103",19]],
+		reward : [["i007",76],["i103",19]],
 		ui_link : 0,
 	},
 	{
@@ -2301,7 +2301,7 @@ var daily_quest_cfg =
 		value1 : 0,
 		value2 : 52,
 		pic : "0",
-		reward : [["i001",10000],["i103",20]],
+		reward : [["i007",80],["i103",20]],
 		ui_link : 0,
 	},
 	{
@@ -2313,7 +2313,7 @@ var daily_quest_cfg =
 		value1 : 0,
 		value2 : 54,
 		pic : "0",
-		reward : [["i001",10500],["i103",21]],
+		reward : [["i007",84],["i103",21]],
 		ui_link : 0,
 	},
 	{
@@ -2325,7 +2325,7 @@ var daily_quest_cfg =
 		value1 : 0,
 		value2 : 56,
 		pic : "0",
-		reward : [["i001",11000],["i103",22]],
+		reward : [["i007",88],["i103",22]],
 		ui_link : 0,
 	},
 	{
@@ -2337,7 +2337,7 @@ var daily_quest_cfg =
 		value1 : 0,
 		value2 : 58,
 		pic : "0",
-		reward : [["i001",11500],["i103",23]],
+		reward : [["i007",92],["i103",23]],
 		ui_link : 0,
 	},
 	{
@@ -2349,7 +2349,7 @@ var daily_quest_cfg =
 		value1 : 0,
 		value2 : 60,
 		pic : "0",
-		reward : [["i001",12000],["i103",24]],
+		reward : [["i007",96],["i103",24]],
 		ui_link : 0,
 	},
 	{
@@ -2361,7 +2361,7 @@ var daily_quest_cfg =
 		value1 : 0,
 		value2 : 65,
 		pic : "0",
-		reward : [["i001",12500],["i103",25]],
+		reward : [["i007",100],["i103",25]],
 		ui_link : 0,
 	},
 	{
@@ -2373,7 +2373,7 @@ var daily_quest_cfg =
 		value1 : 0,
 		value2 : 70,
 		pic : "0",
-		reward : [["i001",13000],["i103",26]],
+		reward : [["i007",104],["i103",26]],
 		ui_link : 0,
 	},
 	{
@@ -2385,7 +2385,7 @@ var daily_quest_cfg =
 		value1 : 0,
 		value2 : 75,
 		pic : "0",
-		reward : [["i001",13500],["i103",27]],
+		reward : [["i007",108],["i103",27]],
 		ui_link : 0,
 	},
 	{
@@ -2397,7 +2397,7 @@ var daily_quest_cfg =
 		value1 : 0,
 		value2 : 80,
 		pic : "0",
-		reward : [["i001",14000],["i103",28]],
+		reward : [["i007",112],["i103",28]],
 		ui_link : 0,
 	},
 	{
@@ -2409,7 +2409,7 @@ var daily_quest_cfg =
 		value1 : 0,
 		value2 : 10,
 		pic : "0",
-		reward : [["i001",500],["i103",1]],
+		reward : [["i002",1],["i103",1]],
 		ui_link : 0,
 	},
 	{
@@ -2421,7 +2421,7 @@ var daily_quest_cfg =
 		value1 : 0,
 		value2 : 20,
 		pic : "0",
-		reward : [["i001",500],["i103",1]],
+		reward : [["i002",1],["i103",1]],
 		ui_link : 0,
 	},
 	{
@@ -2433,7 +2433,7 @@ var daily_quest_cfg =
 		value1 : 0,
 		value2 : 30,
 		pic : "0",
-		reward : [["i001",500],["i103",1]],
+		reward : [["i002",1],["i103",1]],
 		ui_link : 0,
 	},
 	{
@@ -2445,7 +2445,7 @@ var daily_quest_cfg =
 		value1 : 0,
 		value2 : 40,
 		pic : "0",
-		reward : [["i001",500],["i103",1]],
+		reward : [["i002",1],["i103",1]],
 		ui_link : 0,
 	},
 	{
@@ -2457,7 +2457,7 @@ var daily_quest_cfg =
 		value1 : 0,
 		value2 : 50,
 		pic : "0",
-		reward : [["i001",500],["i103",1]],
+		reward : [["i002",1],["i103",1]],
 		ui_link : 0,
 	},
 	{
@@ -2469,7 +2469,7 @@ var daily_quest_cfg =
 		value1 : 0,
 		value2 : 60,
 		pic : "0",
-		reward : [["i001",1000],["i103",2]],
+		reward : [["i002",1],["i103",2]],
 		ui_link : 0,
 	},
 	{
@@ -2481,7 +2481,7 @@ var daily_quest_cfg =
 		value1 : 0,
 		value2 : 70,
 		pic : "0",
-		reward : [["i001",1500],["i103",3]],
+		reward : [["i002",1],["i103",3]],
 		ui_link : 0,
 	},
 	{
@@ -2493,7 +2493,7 @@ var daily_quest_cfg =
 		value1 : 0,
 		value2 : 80,
 		pic : "0",
-		reward : [["i001",2000],["i103",4]],
+		reward : [["i002",1],["i103",4]],
 		ui_link : 0,
 	},
 	{
@@ -2505,7 +2505,7 @@ var daily_quest_cfg =
 		value1 : 0,
 		value2 : 90,
 		pic : "0",
-		reward : [["i001",2500],["i103",5]],
+		reward : [["i002",1],["i103",5]],
 		ui_link : 0,
 	},
 	{
@@ -2517,7 +2517,7 @@ var daily_quest_cfg =
 		value1 : 0,
 		value2 : 100,
 		pic : "0",
-		reward : [["i001",3000],["i103",6]],
+		reward : [["i002",1],["i103",6]],
 		ui_link : 0,
 	},
 	{
@@ -2529,7 +2529,7 @@ var daily_quest_cfg =
 		value1 : 0,
 		value2 : 160,
 		pic : "0",
-		reward : [["i001",3500],["i103",7]],
+		reward : [["i002",2],["i103",7]],
 		ui_link : 0,
 	},
 	{
@@ -2541,7 +2541,7 @@ var daily_quest_cfg =
 		value1 : 0,
 		value2 : 200,
 		pic : "0",
-		reward : [["i001",4000],["i103",8]],
+		reward : [["i002",3],["i103",8]],
 		ui_link : 0,
 	},
 	{
@@ -2553,7 +2553,7 @@ var daily_quest_cfg =
 		value1 : 0,
 		value2 : 250,
 		pic : "0",
-		reward : [["i001",4500],["i103",9]],
+		reward : [["i002",4],["i103",9]],
 		ui_link : 0,
 	},
 	{
@@ -2565,7 +2565,7 @@ var daily_quest_cfg =
 		value1 : 0,
 		value2 : 300,
 		pic : "0",
-		reward : [["i001",5000],["i103",10]],
+		reward : [["i002",5],["i103",10]],
 		ui_link : 0,
 	},
 	{
@@ -2577,7 +2577,7 @@ var daily_quest_cfg =
 		value1 : 0,
 		value2 : 350,
 		pic : "0",
-		reward : [["i001",5500],["i103",11]],
+		reward : [["i002",6],["i103",11]],
 		ui_link : 0,
 	},
 	{
@@ -2589,7 +2589,7 @@ var daily_quest_cfg =
 		value1 : 0,
 		value2 : 400,
 		pic : "0",
-		reward : [["i001",6000],["i103",12]],
+		reward : [["i002",7],["i103",12]],
 		ui_link : 0,
 	},
 	{
@@ -2601,7 +2601,7 @@ var daily_quest_cfg =
 		value1 : 0,
 		value2 : 450,
 		pic : "0",
-		reward : [["i001",6500],["i103",13]],
+		reward : [["i002",8],["i103",13]],
 		ui_link : 0,
 	},
 	{
@@ -2613,7 +2613,7 @@ var daily_quest_cfg =
 		value1 : 0,
 		value2 : 500,
 		pic : "0",
-		reward : [["i001",7000],["i103",14]],
+		reward : [["i002",9],["i103",14]],
 		ui_link : 0,
 	},
 	{
@@ -2625,7 +2625,7 @@ var daily_quest_cfg =
 		value1 : 0,
 		value2 : 600,
 		pic : "0",
-		reward : [["i001",7500],["i103",15]],
+		reward : [["i002",10],["i103",15]],
 		ui_link : 0,
 	},
 	{
@@ -2637,7 +2637,7 @@ var daily_quest_cfg =
 		value1 : 0,
 		value2 : 700,
 		pic : "0",
-		reward : [["i001",8000],["i103",16]],
+		reward : [["i002",11],["i103",16]],
 		ui_link : 0,
 	},
 	{
@@ -2649,7 +2649,7 @@ var daily_quest_cfg =
 		value1 : 0,
 		value2 : 800,
 		pic : "0",
-		reward : [["i001",8500],["i103",17]],
+		reward : [["i002",12],["i103",17]],
 		ui_link : 0,
 	},
 	{
@@ -2661,7 +2661,7 @@ var daily_quest_cfg =
 		value1 : 0,
 		value2 : 900,
 		pic : "0",
-		reward : [["i001",9000],["i103",18]],
+		reward : [["i002",13],["i103",18]],
 		ui_link : 0,
 	},
 	{
@@ -2673,7 +2673,7 @@ var daily_quest_cfg =
 		value1 : 0,
 		value2 : 1000,
 		pic : "0",
-		reward : [["i001",9500],["i103",19]],
+		reward : [["i002",14],["i103",19]],
 		ui_link : 0,
 	},
 	{
@@ -2685,7 +2685,7 @@ var daily_quest_cfg =
 		value1 : 0,
 		value2 : 1500,
 		pic : "0",
-		reward : [["i001",10000],["i103",20]],
+		reward : [["i002",15],["i103",20]],
 		ui_link : 0,
 	},
 	{
@@ -2697,7 +2697,7 @@ var daily_quest_cfg =
 		value1 : 0,
 		value2 : 2000,
 		pic : "0",
-		reward : [["i001",10500],["i103",21]],
+		reward : [["i002",16],["i103",21]],
 		ui_link : 0,
 	},
 	{
@@ -2709,7 +2709,7 @@ var daily_quest_cfg =
 		value1 : 0,
 		value2 : 2500,
 		pic : "0",
-		reward : [["i001",11000],["i103",22]],
+		reward : [["i002",17],["i103",22]],
 		ui_link : 0,
 	},
 	{
@@ -2721,7 +2721,7 @@ var daily_quest_cfg =
 		value1 : 0,
 		value2 : 3000,
 		pic : "0",
-		reward : [["i001",11500],["i103",23]],
+		reward : [["i002",18],["i103",23]],
 		ui_link : 0,
 	},
 	{
@@ -2733,7 +2733,7 @@ var daily_quest_cfg =
 		value1 : 0,
 		value2 : 3500,
 		pic : "0",
-		reward : [["i001",12000],["i103",24]],
+		reward : [["i002",19],["i103",24]],
 		ui_link : 0,
 	},
 	{
@@ -2745,7 +2745,7 @@ var daily_quest_cfg =
 		value1 : 0,
 		value2 : 4000,
 		pic : "0",
-		reward : [["i001",12500],["i103",25]],
+		reward : [["i002",20],["i103",25]],
 		ui_link : 0,
 	},
 	{
@@ -2757,7 +2757,7 @@ var daily_quest_cfg =
 		value1 : 0,
 		value2 : 4500,
 		pic : "0",
-		reward : [["i001",13000],["i103",26]],
+		reward : [["i002",21],["i103",26]],
 		ui_link : 0,
 	},
 	{
@@ -2769,7 +2769,7 @@ var daily_quest_cfg =
 		value1 : 0,
 		value2 : 5000,
 		pic : "0",
-		reward : [["i001",13500],["i103",27]],
+		reward : [["i002",22],["i103",27]],
 		ui_link : 0,
 	},
 	{
@@ -2781,7 +2781,7 @@ var daily_quest_cfg =
 		value1 : 0,
 		value2 : 6000,
 		pic : "0",
-		reward : [["i001",14000],["i103",28]],
+		reward : [["i002",23],["i103",28]],
 		ui_link : 0,
 	},
 	{
@@ -2793,7 +2793,7 @@ var daily_quest_cfg =
 		value1 : 0,
 		value2 : 7000,
 		pic : "0",
-		reward : [["i001",14500],["i103",29]],
+		reward : [["i002",24],["i103",29]],
 		ui_link : 0,
 	},
 	{
@@ -2805,7 +2805,7 @@ var daily_quest_cfg =
 		value1 : 0,
 		value2 : 8000,
 		pic : "0",
-		reward : [["i001",15000],["i103",30]],
+		reward : [["i002",25],["i103",30]],
 		ui_link : 0,
 	},
 	{
@@ -2817,7 +2817,7 @@ var daily_quest_cfg =
 		value1 : 0,
 		value2 : 9000,
 		pic : "0",
-		reward : [["i001",15500],["i103",31]],
+		reward : [["i002",26],["i103",31]],
 		ui_link : 0,
 	},
 	{
@@ -2829,7 +2829,7 @@ var daily_quest_cfg =
 		value1 : 0,
 		value2 : 10000,
 		pic : "0",
-		reward : [["i001",16000],["i103",32]],
+		reward : [["i002",27],["i103",32]],
 		ui_link : 0,
 	},
 	{
@@ -2841,7 +2841,7 @@ var daily_quest_cfg =
 		value1 : 0,
 		value2 : 11000,
 		pic : "0",
-		reward : [["i001",16500],["i103",33]],
+		reward : [["i002",28],["i103",33]],
 		ui_link : 0,
 	},
 	{
@@ -2853,7 +2853,7 @@ var daily_quest_cfg =
 		value1 : 0,
 		value2 : 12000,
 		pic : "0",
-		reward : [["i001",17000],["i103",34]],
+		reward : [["i002",29],["i103",34]],
 		ui_link : 0,
 	},
 	{
@@ -2865,7 +2865,7 @@ var daily_quest_cfg =
 		value1 : 0,
 		value2 : 13000,
 		pic : "0",
-		reward : [["i001",17500],["i103",35]],
+		reward : [["i002",30],["i103",35]],
 		ui_link : 0,
 	},
 	{
@@ -2877,7 +2877,7 @@ var daily_quest_cfg =
 		value1 : 0,
 		value2 : 14000,
 		pic : "0",
-		reward : [["i001",18000],["i103",36]],
+		reward : [["i002",31],["i103",36]],
 		ui_link : 0,
 	},
 	{
@@ -2889,7 +2889,7 @@ var daily_quest_cfg =
 		value1 : 0,
 		value2 : 15000,
 		pic : "0",
-		reward : [["i001",18500],["i103",37]],
+		reward : [["i002",32],["i103",37]],
 		ui_link : 0,
 	},
 	{
@@ -2901,7 +2901,7 @@ var daily_quest_cfg =
 		value1 : 0,
 		value2 : 20000,
 		pic : "0",
-		reward : [["i001",19000],["i103",38]],
+		reward : [["i002",33],["i103",38]],
 		ui_link : 0,
 	},
 	{
@@ -2913,7 +2913,7 @@ var daily_quest_cfg =
 		value1 : 0,
 		value2 : 25000,
 		pic : "0",
-		reward : [["i001",19500],["i103",39]],
+		reward : [["i002",34],["i103",39]],
 		ui_link : 0,
 	},
 	{
@@ -2925,7 +2925,7 @@ var daily_quest_cfg =
 		value1 : 0,
 		value2 : 30000,
 		pic : "0",
-		reward : [["i001",20000],["i103",40]],
+		reward : [["i002",35],["i103",40]],
 		ui_link : 0,
 	},
 	{
@@ -2937,7 +2937,7 @@ var daily_quest_cfg =
 		value1 : 0,
 		value2 : 35000,
 		pic : "0",
-		reward : [["i001",20500],["i103",41]],
+		reward : [["i002",36],["i103",41]],
 		ui_link : 0,
 	},
 	{
@@ -2949,7 +2949,7 @@ var daily_quest_cfg =
 		value1 : 0,
 		value2 : 40000,
 		pic : "0",
-		reward : [["i001",21000],["i103",42]],
+		reward : [["i002",37],["i103",42]],
 		ui_link : 0,
 	},
 	{
@@ -2961,7 +2961,7 @@ var daily_quest_cfg =
 		value1 : 0,
 		value2 : 45000,
 		pic : "0",
-		reward : [["i001",21500],["i103",43]],
+		reward : [["i002",38],["i103",43]],
 		ui_link : 0,
 	},
 	{
@@ -2973,7 +2973,7 @@ var daily_quest_cfg =
 		value1 : 0,
 		value2 : 50000,
 		pic : "0",
-		reward : [["i001",22000],["i103",44]],
+		reward : [["i002",39],["i103",44]],
 		ui_link : 0,
 	},
 	{
@@ -2985,7 +2985,7 @@ var daily_quest_cfg =
 		value1 : 0,
 		value2 : 60000,
 		pic : "0",
-		reward : [["i001",22500],["i103",45]],
+		reward : [["i002",40],["i103",45]],
 		ui_link : 0,
 	},
 	{
@@ -2997,7 +2997,7 @@ var daily_quest_cfg =
 		value1 : 0,
 		value2 : 70000,
 		pic : "0",
-		reward : [["i001",23000],["i103",46]],
+		reward : [["i002",41],["i103",46]],
 		ui_link : 0,
 	},
 	{
@@ -3009,7 +3009,7 @@ var daily_quest_cfg =
 		value1 : 0,
 		value2 : 80000,
 		pic : "0",
-		reward : [["i001",23500],["i103",47]],
+		reward : [["i002",42],["i103",47]],
 		ui_link : 0,
 	},
 	{
@@ -3021,7 +3021,7 @@ var daily_quest_cfg =
 		value1 : 0,
 		value2 : 90000,
 		pic : "0",
-		reward : [["i001",24000],["i103",48]],
+		reward : [["i002",43],["i103",48]],
 		ui_link : 0,
 	},
 	{
@@ -3033,7 +3033,7 @@ var daily_quest_cfg =
 		value1 : 0,
 		value2 : 100000,
 		pic : "0",
-		reward : [["i001",24500],["i103",49]],
+		reward : [["i002",44],["i103",49]],
 		ui_link : 0,
 	},
 	{
@@ -3573,7 +3573,7 @@ var daily_quest_cfg =
 		value1 : 0,
 		value2 : 6000,
 		pic : "0",
-		reward : [["i001",1000],["i103",1]],
+		reward : [["i007",2],["i103",1]],
 		ui_link : 0,
 	},
 	{
@@ -3585,7 +3585,7 @@ var daily_quest_cfg =
 		value1 : 0,
 		value2 : 10000,
 		pic : "0",
-		reward : [["i001",2000],["i103",2]],
+		reward : [["i007",4],["i103",2]],
 		ui_link : 0,
 	},
 	{
@@ -3597,7 +3597,7 @@ var daily_quest_cfg =
 		value1 : 0,
 		value2 : 20000,
 		pic : "0",
-		reward : [["i001",3000],["i103",3]],
+		reward : [["i007",6],["i103",3]],
 		ui_link : 0,
 	},
 	{
@@ -3609,7 +3609,7 @@ var daily_quest_cfg =
 		value1 : 0,
 		value2 : 40000,
 		pic : "0",
-		reward : [["i001",4000],["i103",4]],
+		reward : [["i007",8],["i103",4]],
 		ui_link : 0,
 	},
 	{
@@ -3621,7 +3621,7 @@ var daily_quest_cfg =
 		value1 : 0,
 		value2 : 60000,
 		pic : "0",
-		reward : [["i001",5000],["i103",5]],
+		reward : [["i007",10],["i103",5]],
 		ui_link : 0,
 	},
 	{
@@ -3633,7 +3633,7 @@ var daily_quest_cfg =
 		value1 : 0,
 		value2 : 80000,
 		pic : "0",
-		reward : [["i001",6000],["i103",6]],
+		reward : [["i007",12],["i103",6]],
 		ui_link : 0,
 	},
 	{
@@ -3645,7 +3645,7 @@ var daily_quest_cfg =
 		value1 : 0,
 		value2 : 100000,
 		pic : "0",
-		reward : [["i001",7000],["i103",7]],
+		reward : [["i007",14],["i103",7]],
 		ui_link : 0,
 	},
 	{
@@ -3657,7 +3657,7 @@ var daily_quest_cfg =
 		value1 : 0,
 		value2 : 200000,
 		pic : "0",
-		reward : [["i001",8000],["i103",8]],
+		reward : [["i007",16],["i103",8]],
 		ui_link : 0,
 	},
 	{
@@ -3669,7 +3669,7 @@ var daily_quest_cfg =
 		value1 : 0,
 		value2 : 400000,
 		pic : "0",
-		reward : [["i001",9000],["i103",9]],
+		reward : [["i007",18],["i103",9]],
 		ui_link : 0,
 	},
 	{
@@ -3681,7 +3681,7 @@ var daily_quest_cfg =
 		value1 : 0,
 		value2 : 600000,
 		pic : "0",
-		reward : [["i001",10000],["i103",10]],
+		reward : [["i007",20],["i103",10]],
 		ui_link : 0,
 	},
 	{
@@ -3693,7 +3693,7 @@ var daily_quest_cfg =
 		value1 : 0,
 		value2 : 800000,
 		pic : "0",
-		reward : [["i001",11000],["i103",11]],
+		reward : [["i007",22],["i103",11]],
 		ui_link : 0,
 	},
 	{
@@ -3705,7 +3705,7 @@ var daily_quest_cfg =
 		value1 : 0,
 		value2 : 1000000,
 		pic : "0",
-		reward : [["i001",12000],["i103",12]],
+		reward : [["i007",24],["i103",12]],
 		ui_link : 0,
 	},
 	{
@@ -3717,7 +3717,7 @@ var daily_quest_cfg =
 		value1 : 0,
 		value2 : 1500000,
 		pic : "0",
-		reward : [["i001",13000],["i103",13]],
+		reward : [["i007",26],["i103",13]],
 		ui_link : 0,
 	},
 	{
@@ -3729,7 +3729,7 @@ var daily_quest_cfg =
 		value1 : 0,
 		value2 : 3000000,
 		pic : "0",
-		reward : [["i001",14000],["i103",14]],
+		reward : [["i007",28],["i103",14]],
 		ui_link : 0,
 	},
 	{
@@ -3741,7 +3741,7 @@ var daily_quest_cfg =
 		value1 : 0,
 		value2 : 6000000,
 		pic : "0",
-		reward : [["i001",15000],["i103",15]],
+		reward : [["i007",30],["i103",15]],
 		ui_link : 0,
 	},
 	{
@@ -3753,7 +3753,7 @@ var daily_quest_cfg =
 		value1 : 0,
 		value2 : 10000000,
 		pic : "0",
-		reward : [["i001",16000],["i103",16]],
+		reward : [["i007",32],["i103",16]],
 		ui_link : 0,
 	},
 	{
@@ -3765,7 +3765,7 @@ var daily_quest_cfg =
 		value1 : 0,
 		value2 : 100000,
 		pic : "0",
-		reward : [["i001",1000],["i103",1]],
+		reward : [["i007",2],["i103",1]],
 		ui_link : 0,
 	},
 	{
@@ -3777,7 +3777,7 @@ var daily_quest_cfg =
 		value1 : 0,
 		value2 : 200000,
 		pic : "0",
-		reward : [["i001",2000],["i103",2]],
+		reward : [["i007",4],["i103",2]],
 		ui_link : 0,
 	},
 	{
@@ -3789,7 +3789,7 @@ var daily_quest_cfg =
 		value1 : 0,
 		value2 : 600000,
 		pic : "0",
-		reward : [["i001",3000],["i103",3]],
+		reward : [["i007",6],["i103",3]],
 		ui_link : 0,
 	},
 	{
@@ -3801,7 +3801,7 @@ var daily_quest_cfg =
 		value1 : 0,
 		value2 : 1000000,
 		pic : "0",
-		reward : [["i001",4000],["i103",4]],
+		reward : [["i007",8],["i103",4]],
 		ui_link : 0,
 	},
 	{
@@ -3813,7 +3813,7 @@ var daily_quest_cfg =
 		value1 : 0,
 		value2 : 2000000,
 		pic : "0",
-		reward : [["i001",5000],["i103",5]],
+		reward : [["i007",10],["i103",5]],
 		ui_link : 0,
 	},
 	{
@@ -3825,7 +3825,7 @@ var daily_quest_cfg =
 		value1 : 0,
 		value2 : 6000000,
 		pic : "0",
-		reward : [["i001",6000],["i103",6]],
+		reward : [["i007",12],["i103",6]],
 		ui_link : 0,
 	},
 	{
@@ -3837,7 +3837,7 @@ var daily_quest_cfg =
 		value1 : 0,
 		value2 : 10000000,
 		pic : "0",
-		reward : [["i001",7000],["i103",7]],
+		reward : [["i007",14],["i103",7]],
 		ui_link : 0,
 	},
 	{
@@ -3849,7 +3849,7 @@ var daily_quest_cfg =
 		value1 : 0,
 		value2 : 20000000,
 		pic : "0",
-		reward : [["i001",8000],["i103",8]],
+		reward : [["i007",16],["i103",8]],
 		ui_link : 0,
 	},
 	{
@@ -3861,7 +3861,7 @@ var daily_quest_cfg =
 		value1 : 0,
 		value2 : 60000000,
 		pic : "0",
-		reward : [["i001",9000],["i103",9]],
+		reward : [["i007",18],["i103",9]],
 		ui_link : 0,
 	},
 	{
@@ -3873,7 +3873,7 @@ var daily_quest_cfg =
 		value1 : 0,
 		value2 : 100000000,
 		pic : "0",
-		reward : [["i001",10000],["i103",10]],
+		reward : [["i007",20],["i103",10]],
 		ui_link : 0,
 	},
 	{
@@ -3885,7 +3885,7 @@ var daily_quest_cfg =
 		value1 : 0,
 		value2 : 200000000,
 		pic : "0",
-		reward : [["i001",11000],["i103",11]],
+		reward : [["i007",22],["i103",11]],
 		ui_link : 0,
 	},
 	{
@@ -3897,7 +3897,7 @@ var daily_quest_cfg =
 		value1 : 0,
 		value2 : 600000000,
 		pic : "0",
-		reward : [["i001",12000],["i103",12]],
+		reward : [["i007",24],["i103",12]],
 		ui_link : 0,
 	},
 	{
@@ -3909,7 +3909,7 @@ var daily_quest_cfg =
 		value1 : 0,
 		value2 : 1000000000,
 		pic : "0",
-		reward : [["i001",13000],["i103",13]],
+		reward : [["i007",26],["i103",13]],
 		ui_link : 0,
 	},
 	{
@@ -3921,7 +3921,7 @@ var daily_quest_cfg =
 		value1 : 0,
 		value2 : 2000000000,
 		pic : "0",
-		reward : [["i001",14000],["i103",14]],
+		reward : [["i007",28],["i103",14]],
 		ui_link : 0,
 	},
 	{
@@ -3933,7 +3933,7 @@ var daily_quest_cfg =
 		value1 : 0,
 		value2 : 4000000000,
 		pic : "0",
-		reward : [["i001",15000],["i103",15]],
+		reward : [["i007",30],["i103",15]],
 		ui_link : 0,
 	},
 	{
@@ -3945,7 +3945,7 @@ var daily_quest_cfg =
 		value1 : 0,
 		value2 : 6000000000,
 		pic : "0",
-		reward : [["i001",16000],["i103",16]],
+		reward : [["i007",32],["i103",16]],
 		ui_link : 0,
 	},
 	{
@@ -3957,7 +3957,7 @@ var daily_quest_cfg =
 		value1 : 0,
 		value2 : 10000000000,
 		pic : "0",
-		reward : [["i001",17000],["i103",17]],
+		reward : [["i007",34],["i103",17]],
 		ui_link : 0,
 	},
 	{
@@ -3969,7 +3969,7 @@ var daily_quest_cfg =
 		value1 : 0,
 		value2 : 100,
 		pic : "0",
-		reward : [["i001",6000],["i103",2]],
+		reward : [["i001",50000],["i103",1]],
 		ui_link : 0,
 	},
 	{
@@ -3981,7 +3981,7 @@ var daily_quest_cfg =
 		value1 : 0,
 		value2 : 500,
 		pic : "0",
-		reward : [["i001",12000],["i103",4]],
+		reward : [["i001",100000],["i103",2]],
 		ui_link : 0,
 	},
 	{
@@ -3993,7 +3993,7 @@ var daily_quest_cfg =
 		value1 : 0,
 		value2 : 2000,
 		pic : "0",
-		reward : [["i001",18000],["i103",6]],
+		reward : [["i001",200000],["i103",4]],
 		ui_link : 0,
 	},
 	{
@@ -4005,7 +4005,7 @@ var daily_quest_cfg =
 		value1 : 0,
 		value2 : 5000,
 		pic : "0",
-		reward : [["i001",24000],["i103",8]],
+		reward : [["i001",300000],["i103",6]],
 		ui_link : 0,
 	},
 	{
@@ -4017,7 +4017,7 @@ var daily_quest_cfg =
 		value1 : 0,
 		value2 : 10000,
 		pic : "0",
-		reward : [["i001",30000],["i103",10]],
+		reward : [["i001",500000],["i103",10]],
 		ui_link : 0,
 	},
 	{
@@ -4029,7 +4029,7 @@ var daily_quest_cfg =
 		value1 : 0,
 		value2 : 20000,
 		pic : "0",
-		reward : [["i001",36000],["i103",12]],
+		reward : [["i001",600000],["i103",12]],
 		ui_link : 0,
 	},
 	{
@@ -4041,7 +4041,7 @@ var daily_quest_cfg =
 		value1 : 0,
 		value2 : 50000,
 		pic : "0",
-		reward : [["i001",42000],["i103",14]],
+		reward : [["i001",700000],["i103",14]],
 		ui_link : 0,
 	},
 	{
@@ -4053,7 +4053,7 @@ var daily_quest_cfg =
 		value1 : 0,
 		value2 : 100000,
 		pic : "0",
-		reward : [["i001",48000],["i103",16]],
+		reward : [["i001",800000],["i103",16]],
 		ui_link : 0,
 	},
 	{
@@ -4065,7 +4065,7 @@ var daily_quest_cfg =
 		value1 : 0,
 		value2 : 500000,
 		pic : "0",
-		reward : [["i001",54000],["i103",18]],
+		reward : [["i001",900000],["i103",18]],
 		ui_link : 0,
 	},
 	{
@@ -4077,7 +4077,7 @@ var daily_quest_cfg =
 		value1 : 0,
 		value2 : 1000000,
 		pic : "0",
-		reward : [["i001",60000],["i103",20]],
+		reward : [["i001",1000000],["i103",20]],
 		ui_link : 0,
 	},
 	{
@@ -4089,7 +4089,7 @@ var daily_quest_cfg =
 		value1 : 0,
 		value2 : 5000000,
 		pic : "0",
-		reward : [["i001",66000],["i103",22]],
+		reward : [["i001",1100000],["i103",22]],
 		ui_link : 0,
 	},
 	{

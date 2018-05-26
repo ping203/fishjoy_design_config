@@ -83,7 +83,7 @@ var daily_dailypast_cfg =
 	{
 		id : 11,
 		type : 1,
-		reward : ["i004",2],
+		reward : ["i004",1],
 		label : "0",
 		description : "dailypast_desc_0",
 		viplevel : -1,
@@ -131,7 +131,7 @@ var daily_dailypast_cfg =
 	{
 		id : 17,
 		type : 1,
-		reward : ["i004",3],
+		reward : ["i004",1],
 		label : "0",
 		description : "dailypast_desc_0",
 		viplevel : -1,
@@ -179,7 +179,7 @@ var daily_dailypast_cfg =
 	{
 		id : 23,
 		type : 1,
-		reward : ["i004",4],
+		reward : ["i004",1],
 		label : "0",
 		description : "dailypast_desc_0",
 		viplevel : -1,
@@ -227,7 +227,7 @@ var daily_dailypast_cfg =
 	{
 		id : 29,
 		type : 1,
-		reward : ["i004",5],
+		reward : ["i004",1],
 		label : "0",
 		description : "dailypast_desc_0",
 		viplevel : -1,

@@ -57,7 +57,7 @@ var player_level_cfg =
 		icon : " ",
 		description : " ",
 		reward_qzone : [["i001",500],["i230",1]],
-		yPCT : 1.1,
+		yPCT : 1,
 		newcomergold : 0,
 	},
 	{

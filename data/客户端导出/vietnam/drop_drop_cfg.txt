@@ -1767,7 +1767,7 @@
 			"item_id": "i001",
 			"item_probability": [100000],
 			"limit_type": 1,
-			"limit_count": [0],
+			"limit_count": [1],
 			"reset": 0,
 			"item_num": 10000000,
 			"drop_count": 10000000
@@ -1776,7 +1776,7 @@
 			"item_id": "i001",
 			"item_probability": [100000],
 			"limit_type": 1,
-			"limit_count": [0],
+			"limit_count": [1],
 			"reset": 0,
 			"item_num": 100000000,
 			"drop_count": 100000000

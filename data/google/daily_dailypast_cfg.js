@@ -3,7 +3,7 @@ var daily_dailypast_cfg =
 	{
 		id : 1,
 		type : 1,
-		reward : ["i001",5000],
+		reward : ["i001",2000],
 		label : "0",
 		description : "dailypast_desc_0",
 		viplevel : -1,
@@ -27,7 +27,7 @@ var daily_dailypast_cfg =
 	{
 		id : 4,
 		type : 1,
-		reward : ["i002",5],
+		reward : ["i002",2],
 		label : "yqdgrounding_3",
 		description : "dailypast_desc_4",
 		viplevel : 2,
@@ -43,7 +43,7 @@ var daily_dailypast_cfg =
 	{
 		id : 6,
 		type : 1,
-		reward : ["i015",1],
+		reward : ["i401",3],
 		label : "yqdgrounding_2",
 		description : "dailypast_desc_6",
 		viplevel : -1,
@@ -51,7 +51,7 @@ var daily_dailypast_cfg =
 	{
 		id : 7,
 		type : 1,
-		reward : ["i001",10000],
+		reward : ["i001",4000],
 		label : "0",
 		description : "dailypast_desc_0",
 		viplevel : -1,
@@ -75,7 +75,7 @@ var daily_dailypast_cfg =
 	{
 		id : 10,
 		type : 1,
-		reward : ["i002",10],
+		reward : ["i002",5],
 		label : "yqdgrounding_3",
 		description : "dailypast_desc_10",
 		viplevel : 4,
@@ -91,7 +91,7 @@ var daily_dailypast_cfg =
 	{
 		id : 12,
 		type : 1,
-		reward : ["i015",1],
+		reward : ["i401",3],
 		label : "yqdgrounding_4",
 		description : "dailypast_desc_6",
 		viplevel : -1,
@@ -99,7 +99,7 @@ var daily_dailypast_cfg =
 	{
 		id : 13,
 		type : 1,
-		reward : ["i001",15000],
+		reward : ["i001",6000],
 		label : "0",
 		description : "dailypast_desc_0",
 		viplevel : -1,
@@ -123,7 +123,7 @@ var daily_dailypast_cfg =
 	{
 		id : 16,
 		type : 1,
-		reward : ["i002",15],
+		reward : ["i002",10],
 		label : "yqdgrounding_3",
 		description : "dailypast_desc_16",
 		viplevel : 6,
@@ -139,7 +139,7 @@ var daily_dailypast_cfg =
 	{
 		id : 18,
 		type : 1,
-		reward : ["i015",1],
+		reward : ["i401",3],
 		label : "yqdgrounding_4",
 		description : "dailypast_desc_6",
 		viplevel : -1,
@@ -147,7 +147,7 @@ var daily_dailypast_cfg =
 	{
 		id : 19,
 		type : 1,
-		reward : ["i001",20000],
+		reward : ["i001",8000],
 		label : "0",
 		description : "dailypast_desc_0",
 		viplevel : -1,
@@ -171,7 +171,7 @@ var daily_dailypast_cfg =
 	{
 		id : 22,
 		type : 1,
-		reward : ["i002",20],
+		reward : ["i002",15],
 		label : "yqdgrounding_3",
 		description : "dailypast_desc_22",
 		viplevel : 8,
@@ -187,7 +187,7 @@ var daily_dailypast_cfg =
 	{
 		id : 24,
 		type : 1,
-		reward : ["i015",1],
+		reward : ["i401",3],
 		label : "yqdgrounding_4",
 		description : "dailypast_desc_6",
 		viplevel : -1,
@@ -195,7 +195,7 @@ var daily_dailypast_cfg =
 	{
 		id : 25,
 		type : 1,
-		reward : ["i001",25000],
+		reward : ["i001",10000],
 		label : "0",
 		description : "dailypast_desc_0",
 		viplevel : -1,
@@ -219,7 +219,7 @@ var daily_dailypast_cfg =
 	{
 		id : 28,
 		type : 1,
-		reward : ["i002",25],
+		reward : ["i002",20],
 		label : "yqdgrounding_3",
 		description : "dailypast_desc_28",
 		viplevel : 10,
@@ -235,7 +235,7 @@ var daily_dailypast_cfg =
 	{
 		id : 30,
 		type : 1,
-		reward : ["i015",1],
+		reward : ["i401",3],
 		label : "yqdgrounding_2",
 		description : "dailypast_desc_6",
 		viplevel : -1,
@@ -243,7 +243,7 @@ var daily_dailypast_cfg =
 	{
 		id : 31,
 		type : 1,
-		reward : ["i001",50000],
+		reward : ["i001",10000],
 		label : "0",
 		description : "dailypast_desc_0",
 		viplevel : -1,
